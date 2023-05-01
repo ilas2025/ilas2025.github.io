@@ -3,6 +3,10 @@
     float: right;
 }
 
+#taiwan-photos img {
+    display: inline-block;
+    margin: 5px;
+}
 
 /* Dropdown Button */
 .dropbtn {
@@ -118,3 +122,8 @@
 @media only screen and (min-width: 500px) {
     .menu-box {width: 500px;}
 }
+
+@media only screen and (max-width: 620px) {
+    #taiwan-photos {width: 310px;}
+}
+
