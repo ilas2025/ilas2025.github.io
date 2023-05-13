@@ -30,10 +30,6 @@ you can see blue tears in Matsu and sea turtles around Lambay Island.
 
 {{< taiwan-photos >}}
 
-Taiwan is also known for its foods, such as bubble tea, dumplings, and
-many other local delicacies.  You may find them easily everywhere,
-from restaurants, street vendors, and night markets.
-
 Taiwan is known for its foods, such as bubble tea, dumplings, and many
 other local delicacies.  You may find them easily everywhere, from
 restaurants, street vendors, and night markets.
