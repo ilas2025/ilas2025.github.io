@@ -8,39 +8,52 @@ date: 2023-04-03T22:06:59+08:00
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Taiwan_NASA_Terra_MODIS_2022-07-21.jpg/722px-Taiwan_NASA_Terra_MODIS_2022-07-21.jpg"
 width="330px" alt="Taiwan picture from NASA" class="fright" >}}
 
-Taiwan is a country in East Asia that consists of 168 islands.  The
-main island of Taiwan, also known as Ilha Formosa, has mountain ranges
-covering its eastern two-thirds and plains spreading the western
-third, with the Tropic of Cancer crossing it.  The capital, Taipei, is
-in the north, while the hosting city of ILAS2025, Kaohsiung, is in the
-south.  Your visit in June will be warm (about 25°C ~ 30°C) and
-comfortable, with seasonal winds and monsoon rains cooling the minds.
+Taiwan, located in East Asia, is a captivating destination composed of
+more than one hundred islands. The main island, often referred to as
+Ilha Formosa, showcases its diverse topography with mountain ranges
+covering the eastern two-thirds and sprawling plains in the western
+third. The Tropic of Cancer traverses the island, adding to its unique
+geography. Taipei, the capital, is situated in the northern part of
+the island, while Kaohsiung, the host city of ILAS2025, lies in the
+south. If you plan to visit in June, expect warm and comfortable
+temperatures ranging from approximately 25°C to 30°C, accompanied by
+seasonal winds and refreshing monsoon rains.
 
-From nature to humanity, Taiwan offers a wide range of famous tourist
-sites.  In the north, Taipei 101 was the tallest building (from 2004
-to 2009) in the world, and Yehliu Geopark is famous for its stones in
-unique shapes, particularly the Queen's Head rock.  In the south,
-Kenting National Park attracts thousands of people with its endless
-white-sand beaches.  The Alishan sunrise and the Taroko Gorge are
-gorgeous on the east and the west, respectively.  The central part is
-dominated by mountain ranges, with Yushan as the tallest peak and Sun
-Moon Lake as the largest body of water.  Beyond the main island, each
-island of Taiwan shares its own stories and beauty.  To name a few,
-you can see blue tears in Matsu and sea turtles around Lambay Island.
+From breathtaking natural wonders to captivating cultural landmarks,
+Taiwan offers a plethora of renowned tourist sites. In the northern
+region, Taipei 101 once held the title of the world's tallest building
+(from 2004 to 2009), and Yehliu Geopark fascinates visitors with its
+unique rock formations, most notably the famous Queen's Head
+rock. Head south to discover the allure of Kenting National Park,
+renowned for its endless white-sand beaches. The eastern region boasts
+the mesmerizing Alishan sunrise, while the western region is home to
+the awe-inspiring Taroko Gorge. Central Taiwan is dominated by
+magnificent mountain ranges, with Yushan proudly standing as the
+tallest peak, and the serene Sun Moon Lake gracing the landscape as
+the largest body of water. Beyond the main island, each of Taiwan's
+smaller islands has its own captivating stories and beauty to
+explore. From witnessing the enchanting phenomenon of blue tears in
+Matsu to encountering sea turtles around Lambay Island, Taiwan's
+island treasures are simply mesmerizing.
 
 {{< taiwan-photos >}}
 
-Taiwan is known for its foods, such as bubble tea, dumplings, and many
-other local delicacies.  You may find them easily everywhere, from
-restaurants, street vendors, and night markets.
+Taiwan is also celebrated for its culinary delights, ranging from the
+world-famous bubble tea to delectable dumplings and a plethora of
+local delicacies. Whether you dine at a restaurant, sample street
+food, or explore bustling night markets, these gastronomic delights
+are easily found throughout the island, tantalizing taste buds and
+showcasing the rich flavors of Taiwanese cuisine.
 
-Taiwan enjoys its cultural diversity since it is home to many people
-with different backgrounds.  That is the way we live here, and that is
-also the way how we are going to host the conference!
+One of Taiwan's greatest strengths lies in its cultural diversity, as
+it embraces people from various backgrounds. This inclusivity shapes
+the way we live and will be reflected in how we host the
+conference. It is this spirit of diversity that creates an enriching
+and welcoming environment for all.
 
-You may find more information on [Taiwan's Tourism
+For more information about Taiwan, you can visit the [Taiwan's Tourism
 Website](https://eng.taiwan.net.tw/) and
 [TaiwanPlus](https://www.taiwanplus.com/).
 
-Whenever you are ready, let's see how to [plan your trip](travel/) to
-Taiwan!
+When you're ready, let's delve into planning your memorable [trip to
+Taiwan](travel/)!
