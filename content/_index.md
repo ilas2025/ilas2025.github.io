@@ -10,4 +10,48 @@ Welcome to the ILAS2025 website!  Here we offer information to help
 you to learn more about [Taiwan](taiwan/) and to [plan your
 trip](taiwan/travel/).  We look forward to seeing you in 2025!  
 
+### About the conference
 
+Linear algebra, a fundamental subject in mathematics, boasts a
+multitude of applications across various domains.  The theory of
+positive definite matrices, for instance, plays a pivotal role in
+operator theory and quantum information.  Matrix decompositions offer
+essential tools for image processing, noise reduction, and data
+science.  Combinatorial matrix theory has deepened connections between
+graph theory, enumeration, and matrix theory.  More than these, linear
+algebra finds its presence in numerous disciplines and remains an
+active area of research.
+
+
+The [International Linear Algebra Society](https://ilasic.org/) (ILAS)
+is a global professional organization solely dedicated to scientists,
+professionals and educators interested in Linear Algebra and its
+Applications.  You may [join the ILAS
+membership](https://ilasic.org/join-ilas/) to enjoy the reduction of
+the registration fee and support the community.  Since its inaugural
+conference in 1989, ILAS has successfully hosted conferences in
+various cities worldwide, and you can find the complete list of past
+events [here](https://ilasic.org/conferences/).  The primary objective
+of the conference is to unite researchers working in
+linear-algebra-related fields and those utilizing linear algebra in
+their respective careers.  It serves as a platform to foster
+discussions, inspire new theories and techniques, and promote
+advancements in the field.  Researchers from any discipline connected
+to linear algebra are encouraged to participate, including coding
+theory, combinatorial matrix theory and spectral graph theory,
+computational science and numerical linear algebra, data science,
+matrix positivity, nonnegative matrices, operator theory, quantum
+information, random matrices, representation theory, tensor theory,
+and more!
+
+
+The conference will feature opportunities for the submission of
+mini-symposia proposals and contributed talks, allowing participants
+to actively engage and share their research.  To stay informed about
+important updates, we recommend subscribing to
+[ILAS-NET](https://ilasic.org/ilas-net/), where the latest news and
+announcements will be disseminated.
+
+Join us at the conference as we delve into the fascinating world of
+linear algebra and explore its diverse applications. We look forward
+to your participation and the invaluable insights you will bring.
