@@ -12,7 +12,15 @@ cities all over the world.  See
 
 ### Scientific Committee
 
-Once the scientific committee is formed, it will be updated here.
+- Melina Freitag (University of Potsdam)
+- Sejong Kim (Chungbuk National University)
+- Chi-Kwong Li (College of William and Mary)
+- Jephian C.-H. Lin (National Sun Yat-sen University)
+- Wen-Wei Lin (National Yang Ming Chiao Tung)
+- Shahla Nasserasr (Rochester Institute of Technology)
+- Helena Šmigoc (University College Dublin)
+- Daniel B. Szyld (Temple University)
+- Raf Vandebril (KU Leuven)
 
 
 ### Local Committee
