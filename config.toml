@@ -76,6 +76,11 @@ enableRobotsTXT = true
   weight = 12
 [[menu.main]]
   parent = 'About'
+  name = 'LOGO'
+  URL = '/about/logo/'
+  weight = 41
+[[menu.main]]
+  parent = 'About'
   name = 'Inclusiveness statement'
   URL = '/about/inclusiveness-statement/'
-  weight = 41
+  weight = 42
