@@ -16,7 +16,7 @@ cities all over the world.  See
 - Sejong Kim (Chungbuk National University)
 - Chi-Kwong Li (College of William and Mary)
 - Jephian C.-H. Lin (National Sun Yat-sen University)
-- Wen-Wei Lin (National Yang Ming Chiao Tung)
+- Wen-Wei Lin (Nanjing Center for Applied Mathematics)
 - Shahla Nasserasr (Rochester Institute of Technology)
 - Helena Šmigoc (University College Dublin)
 - Daniel B. Szyld (Temple University)
