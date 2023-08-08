@@ -16,7 +16,6 @@ cities all over the world.  See
 - Sejong Kim (Chungbuk National University)
 - Chi-Kwong Li (College of William and Mary)
 - Jephian C.-H. Lin (National Sun Yat-sen University)
-- Wen-Wei Lin (Nanjing Center for Applied Mathematics)
 - Shahla Nasserasr (Rochester Institute of Technology)
 - Helena Šmigoc (University College Dublin)
 - Daniel B. Szyld (Temple University)
@@ -32,7 +31,7 @@ M. Lin](https://sites.google.com/view/mattmlin/home) (National Cheng
 Kung University), while the local committee members are:
 
 - Chih-Wei Chen (National Sun Yat-sen University)
-- Tsung Ming Huang (National Taiwan Normal University)
+- Tsung-Ming Huang (National Taiwan Normal University)
 - Hao-Wei Huang (National Tsing Hua University)
 - Yueh-Cheng Kuo (National University of Kaohsiung)
 - Jephian C.-H. Lin (National Sun Yat-sen University)
@@ -45,3 +44,4 @@ Kung University), while the local committee members are:
 
 If you have any question, please contact `ilas2025 [at] math [dot]
 nsysu [dot] edu [dot] tw`.
+
