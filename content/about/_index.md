@@ -13,6 +13,7 @@ cities all over the world.  See
 ### Scientific Committee
 
 - Melina Freitag (University of Potsdam)
+- Tsung-Ming Huang (National Taiwan Normal University)
 - Sejong Kim (Chungbuk National University)
 - Chi-Kwong Li (College of William and Mary)
 - Jephian C.-H. Lin (National Sun Yat-sen University)
