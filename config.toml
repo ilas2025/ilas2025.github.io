@@ -75,6 +75,11 @@ enableRobotsTXT = true
   URL = '/taiwan/local/'
   weight = 12
 [[menu.main]]
+  parent = 'Program'
+  name = 'Plenary speakers'
+  URL = '/program/plenary/'
+  weight = 31
+[[menu.main]]
   parent = 'About'
   name = 'LOGO'
   URL = '/about/logo/'
