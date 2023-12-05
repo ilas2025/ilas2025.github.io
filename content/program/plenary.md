@@ -11,7 +11,7 @@ date: 2023-11-18T23:15:09+08:00
 - Ren-Cang Li (University of Texas at Arlington)
 - Karen Meagher (University of Regina)
 - Polona Oblak (University of Ljubljana)
-- Fernando De Terán Vergara (Catedrático de Universidad)
+- Fernando De Terán Vergara (Universidad Carlos III de Madrid)
 - Karol Życzkowski (Jagiellonian University)
 - TBA **Hans Schneider Prize Lecture**
 - TBA **LAA Lecture**
