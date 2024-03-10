@@ -6,6 +6,7 @@ date: 2023-11-18T23:15:09+08:00
 
 ### Plenary Speakers
 
+- Haim Avron (Tel Aviv University) **SIAG/LA Lecture**
 - Fan Chung Graham (University of California, San Diego)
 - Fumio Hiai (Tohoku University)
 - Daniel Kressner (EPFL), **LAA Lecture**
@@ -15,4 +16,3 @@ date: 2023-11-18T23:15:09+08:00
 - Fernando De Terán Vergara (Universidad Carlos III de Madrid)
 - Karol Życzkowski (Jagiellonian University)
 - TBA **Hans Schneider Prize Lecture**
-- TBA **SIAG/LA Lecture**
