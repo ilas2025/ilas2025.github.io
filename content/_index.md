@@ -55,3 +55,10 @@ announcements will be disseminated.
 Join us at the conference as we delve into the fascinating world of
 linear algebra and explore its diverse applications. We look forward
 to your participation and the invaluable insights you will bring.
+
+### Sponsorship
+
+- [National Science and Technology Council](https://www.nstc.gov.tw/)
+- [National Sun Yat-sen University](https://www.nsysu.edu.tw/)
+    * [Department of Applied Mathematics](https://math.nsysu.edu.tw/)
+
