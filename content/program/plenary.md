@@ -9,7 +9,7 @@ date: 2023-11-18T23:15:09+08:00
 - Haim Avron (Tel Aviv University) **SIAG/LA Lecture**
 - Fan Chung Graham (University of California, San Diego)
 - Fumio Hiai (Tohoku University)
-- Daniel Kressner (EPFL), **LAA Lecture**
+- Daniel Kressner (EPFL) **LAA Lecture**
 - Ren-Cang Li (University of Texas at Arlington)
 - Karen Meagher (University of Regina)
 - Polona Oblak (University of Ljubljana)
