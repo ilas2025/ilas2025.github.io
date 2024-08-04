@@ -8,6 +8,11 @@
     margin: 5px;
 }
 
+#campus-photos img {
+    display: inline-block;
+    margin: 5px;
+}
+
 /* Dropdown Button */
 .dropbtn {
   background-color: none;
@@ -125,5 +130,6 @@
 
 @media only screen and (max-width: 620px) {
     #taiwan-photos {width: 310px;}
+    #campus-photos {width: 310px;}
 }
 

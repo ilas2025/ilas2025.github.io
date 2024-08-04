@@ -63,7 +63,7 @@ you up and go straight.  Within 10 minutes you will see a
 other side of the tunnel.
 
 Important sites are marked in the 
-[map](https://www.google.com/maps/d/edit?mid=1Azfb01T0c8C7lEPZkl38MuIOxMS96XQ&usp=sharing) below.
+[map](https://www.google.com/maps/d/viewer?mid=1Azfb01T0c8C7lEPZkl38MuIOxMS96XQ) below.
 
 {{< ilas2025-map >}}
 
