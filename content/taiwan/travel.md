@@ -16,32 +16,52 @@ Affairs](https://www.boca.gov.tw/np-137-2.html) to apply for a visa.
 
 ### Airport
 
-Taiwan Taoyuan International Airport (TPE) is the primary airport of
-Taiwan and is an important hub in Asia.  Most people arrive to Taiwan
-through this airport.
-
 With fewer flight options, Kaohsiung International Airport (KHH) is
 the closest airport to the conference venue.
+
+Taiwan Taoyuan International Airport (TPE) is the primary airport of
+Taiwan and is an important hub in Asia.  Most people arrive to Taiwan
+through this airport.  
+
+See the details below for their differences.
 
 
 ### Transportation from the airport to the conference site
 
-#### From TPE
-
-1. Take the Taoyuan Metro (~20mins):  
-TPE Airport Terminal 1 or Terminal 2 → Taoyuan High Speed Rail
-Station.
-2. Take the High Speed Rail (~140mins):  
-Taoyuan Station → Zuoying Station
-3. Take Kaohsiung metro or Light Rail (~20mins) to arrive to the
-conference site.
-
 #### From KHH
 
-1. Take Kaohsiung metro or Light Rail (~20mins) to arrive to the
-conference site.
+1. Take [Kaohsiung metro](https://www.krtc.com.tw/eng/) (~26mins):  
+Kaohsiung International Airport (R4)  
+← red line →  
+Formosa Boulevard (O5 = R10)  
+← orange line →  
+Hamasen (O1)
 
-Important sites are marked in the [map](https://www.google.com/maps/d/edit?mid=1IZ2UlkcKJMFU_OdTen-BN60AD91P8ic&usp=sharing) below.
+#### From TPE
+
+1. Take the [Taoyuan Metro](https://www.tymetro.com.tw/tymetro-new/en/index.php)
+(~20mins):  
+TPE airport Terminal 1 (A12) or 2 (A13) ↔ Taoyuan HSR (A18)  
+*** take the regular train; express does not go to A18 ***  
+2. Take the [High Speed Rail](https://en.thsrc.com.tw/) (~110mins):  
+Taoyuan Station ↔ Zuoying Station  
+*** you are encouraged to book a ticket in advance ***
+3. Take [Kaohsiung metro](https://www.krtc.com.tw/eng/) (~23mins):  
+Zuoying (R16)  
+← red line →  
+Formosa Boulevard (O5 = R10)  
+← orange line →  
+Hamasen (O1)
+
+#### From Hamasen (O1) to NSYSU
+
+Take Exit 1 of Hamasen (O1).  Following the same direction the escalator sends
+you up and go straight.  Within 10 minutes you will see a 
+[tunnel](https://maps.app.goo.gl/vbJkGMevnMdwpWu87), and the NSYSU is on the 
+other side of the tunnel.
+
+Important sites are marked in the 
+[map](https://www.google.com/maps/d/edit?mid=1Azfb01T0c8C7lEPZkl38MuIOxMS96XQ&usp=sharing) below.
 
 {{< ilas2025-map >}}
 
@@ -79,12 +99,12 @@ Convenience public transportations are available almost everywhere.
   won’t need this unless you plan to visit Taipei)  
 - [Taoyuan Airport Metro
   map](https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/road.html)
-  (from TPE Airport terminals to Taoyuan HSR Station)
+  (from TPE airport terminals to Taoyuan HSR Station)
 - [Taiwan High Speed
   Rail
   stations](https://en.thsrc.com.tw/ArticleContent/ad3798f7-cf0b-4728-9a5e-9196931d6f48)
   (from Taoyuan to Zuoying)
 - [Kaohsiung Metro & Light Rail
-  map](https://www.krtc.com.tw/eng/KLRT/guide_map) (from Zuoying or
-  KHH Airport to the conference venue)
+  map](https://www.krtc.com.tw/eng/KLRT/guide_map) (from KHH airport or
+  Zuoying to the conference venue)
 
