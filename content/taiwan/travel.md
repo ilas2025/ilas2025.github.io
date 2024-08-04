@@ -35,7 +35,8 @@ Kaohsiung International Airport (R4)
 ← red line →  
 Formosa Boulevard (O5 = R10)  
 ← orange line →  
-Hamasen (O1)
+Hamasen (O1)  
+Alternatively, you may call a Uber for about $15 USD for this segment.  
 
 #### From TPE
 
@@ -51,7 +52,8 @@ Zuoying (R16)
 ← red line →  
 Formosa Boulevard (O5 = R10)  
 ← orange line →  
-Hamasen (O1)
+Hamasen (O1)  
+Alternatively, you may call a Uber for about $15 USD for this segment.  
 
 #### From Hamasen (O1) to NSYSU
 
