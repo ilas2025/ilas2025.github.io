@@ -1,5 +1,5 @@
 ---
-title: "Plenary"
+title: "Plenary speakers"
 type: page
 date: 2023-11-18T23:15:09+08:00
 ---

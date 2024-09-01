@@ -80,6 +80,11 @@ enableRobotsTXT = true
   URL = '/program/plenary/'
   weight = 31
 [[menu.main]]
+  parent = 'Program'
+  name = 'Mini-symposia'
+  URL = '/program/mini/'
+  weight = 32
+[[menu.main]]
   parent = 'About'
   name = 'LOGO'
   URL = '/about/logo/'
