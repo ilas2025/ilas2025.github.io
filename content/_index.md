@@ -6,9 +6,14 @@ cascade:
   featured_image: 'https://lh3.googleusercontent.com/e7CtgHftw7YT5EzvcklPKnxT_vSZZFfpQvLT2yFMlshBe9T1UsTgbq4sKHboFDLmZ4JSJjnwZuX9gYs0jPWNhithxkLvqxYKLLsAbISPwJmr5ptAtRjgd8b47Gx0NhfejFHU1XthBWW2Dbw9KWzDV8RElDu1n7-bjhqWVpfAtJ1v6PoBub1HUtFhFCyQNeTjpcd-5lFFKdBtxF-Qg6WakSiPgQdBF11m-5sgVnVDL62SfFV5M_7Jv5joocRAs6uTGAUfXaonSs_SqsF3ht6MEhV1iL5sQKFJDahNHbetHHZWAWjGpg1q1yE_0dhXCr0RtHFSgTDGWUYKxAua7hzpT1WiBF0Af4whhMD9blBloVY6TE9bGnzmlJrkLbgHEP9p4iYx3SrmRrRSnhcfv2DA-0WgKr9wWF8bc8MC5zfshs6b46eJ6-X6BATyHj3Fqx-MXyVZBe0K8Ja5GSW--Le0UhvfdSHCKY4dzHYt7cSX4AHP7ojl3cwnxxRMjK49V2Qrpw7kkGUub_w_LA-74noi_jrX0aKXoPc6EJB16lc1Mqzw-YOQKzpXuFHW7BDR5L6l9PrKS-2Rtay-p9lxrXfuaqoVgFPvlVmyo28wk1QTqGe4knysLL3v1nCEoKrn7oit1tyDXOHFXW9xll5rRFo24jBhlR0bpo38w3HU-o0y9iZmMpjE3fLgYv_ddd0OssxmPL6xCvbrfuxnDrZmDFj2WzJcK9T54sRIDb7RBC2CqpCQlhrpmBSTj6qkS9vnrJuxlQSGZKnJDFvNTx-NNewZxlFm1Pz5s84NOy5Z-MVtOQDTiq3m2o71aDOSF9MC78dD-qmXpe5jlod1l7-tqmQDhIYzKuhThrznPzi9WNO8pNdyKMdpo76Im0y-uvzA168xOdhg-D2wvvL7ixkceUrGWQdqvMHNNpewr351WC6iudhnrnZMqQ=w1400-h933-s-no?authuser=0'
 ---
 
-Welcome to the ILAS2025 website!  Here we offer information to help
-you to learn more about [Taiwan](taiwan/) and to [plan your
-trip](taiwan/travel/).  We look forward to seeing you in 2025!  
+### Important dates
+
+- 2024-0915: Call for [mini-symposium](program/mini/) proposals.  
+- 2024-0815: [Plenary speakers](program/plenary/) confirmed.  
+- 2023-0805: [LOGO](about/logo/) created.
+- 2023-0610: Information about [Taiwan](taiwan/) and how to [plan your trip](taiwan/travel/) updated.
+- 2023-0501: ILAS2025 Website online!
+
 
 ### About the conference
 

@@ -17,4 +17,14 @@ Julianne Chung, Arvind K. Saibaba
 - {{< color `Advances in matrix equations: Theory, computations, and applications` >}}  
 Andrii Dmytryshyn, Davide Palitta
 
-We will call for more proposals of mini-symposia in late September.
+
+### Call for proposals
+
+The ILAS2025 conference welcomes all topics related to linear algebra.  Each 
+mini-symposium will feature between 4 to 12 speakers. If you are interested in 
+organizing a mini-symposium at ILAS2025, please use the proposal template
+([tex](/files/mini-template.tex) [pdf](/files/mini-template.pdf))
+to create your proposal and submit it through 
+[the form](https://docs.google.com/forms/d/e/1FAIpQLSdD_ANPpvUJxmTX0WzARxjd7nOC7apPPfa86_mtD5d509Rs3g/viewform?usp=sf_link).
+
+_Please note that the conference does not provide travel support for mini-symposium organizers and speakers, and the registration fee is required._
