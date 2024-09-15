@@ -48,6 +48,10 @@ enableRobotsTXT = true
 
 [menu]
 [[menu.main]]
+  name = 'Home'
+  URL = '/'
+  weight = 1
+[[menu.main]]
   name = 'Taiwan'
   URL = '/taiwan/'
   weight = 10
