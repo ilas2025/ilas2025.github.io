@@ -27,4 +27,6 @@ organizing a mini-symposium at ILAS2025, please use the proposal template
 to create your proposal and submit it through 
 [the form](https://docs.google.com/forms/d/e/1FAIpQLSdD_ANPpvUJxmTX0WzARxjd7nOC7apPPfa86_mtD5d509Rs3g/viewform?usp=sf_link).
 
+The deadline for submitting your proposal is **December 31**.
+
 _Please note that the conference does not provide travel support for mini-symposium organizers and speakers, and the registration fee is required._
