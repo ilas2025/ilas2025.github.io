@@ -21,7 +21,8 @@ Andrii Dmytryshyn, Davide Palitta
 ### Call for proposals
 
 The ILAS2025 conference welcomes all topics related to linear algebra.  Each 
-mini-symposium will feature between 4 to 12 speakers. If you are interested in 
+mini-symposium will feature between 4 to 12 speakers, and each talk has 20 
+minutes for presentation and 5 minutes for questions. If you are interested in 
 organizing a mini-symposium at ILAS2025, please use the proposal template
 ([tex](/files/mini-template.tex) [pdf](/files/mini-template.pdf))
 to create your proposal and submit it through 
