@@ -6,16 +6,18 @@ date: 2024-09-01T17:04:33+08:00
 
 ### Mini-symposia
 
-- {{< color `Embracing new opportunities in numerical linear algebra` >}}  
+1. {{< color `Embracing new opportunities in numerical linear algebra` >}}  
 Pengwen Chen, Matthrew Lin
-- {{< color `Combinatorial matrix theory` >}}  
+2. {{< color `Combinatorial matrix theory` >}}  
 Aida Abiad, Shaun Fallat, Michael Tait
-- {{< color `Matrix inequalities with applications` >}}  
+3. {{< color `Matrix inequalities with applications` >}}  
 D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang
-- {{< color `Linear algebra methods for inverse problems and data assimilation` >}}  
+4. {{< color `Linear algebra methods for inverse problems and data assimilation` >}}  
 Julianne Chung, Arvind K. Saibaba
-- {{< color `Advances in matrix equations: Theory, computations, and applications` >}}  
+5. {{< color `Advances in matrix equations: Theory, computations, and applications` >}}  
 Andrii Dmytryshyn, Davide Palitta
+6. {{< color `Model Reduction` >}}  
+Christopher Beattie, Zlatko Drmać
 
 
 ### Call for proposals
