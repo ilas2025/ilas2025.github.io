@@ -40,6 +40,7 @@ Kung University), while the local committee members are:
 - Ching-Sung Liu (National University of Kaohsiung)
 - ShengLi Tzeng (National Sun Yat-sen University)
 - Ngai-Ching Wong (National Sun Yat-sen University)
+- Suh-Yuh Yang (National Central Unvierstiy)
 
 ### Contact
 
