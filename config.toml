@@ -57,7 +57,7 @@ enableRobotsTXT = true
   URL = '/taiwan/'
   weight = 10
 [[menu.main]]
-  name = 'Registration'
+  name = 'Registration & Submissions'
   URL = '/registration/'
   weight = 20
 [[menu.main]]
@@ -79,6 +79,11 @@ enableRobotsTXT = true
   name = 'Local'
   URL = '/taiwan/local/'
   weight = 12
+[[menu.main]]
+  parent = 'Registration & Submissions'
+  name = 'LAA special issue'
+  URL = '/registration/laa/'
+  weight = 21
 [[menu.main]]
   parent = 'Program'
   name = 'Plenary speakers'
