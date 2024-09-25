@@ -10,7 +10,8 @@ date: 2024-09-24T22:09:21+08:00
 (LAA) is pleased to announce a special issue on the occasion of the 26th 
 Conference of the International Linear Algebra Society (ILAS2025).
 Papers corresponding to talks given at the conference should be submitted 
-through the LAA submission system.
+through the LAA submission system.  Papers intended for this special issue 
+should be submitted by 31 October 2025.
 
 Special editors for this ILAS2025 issue are:
 

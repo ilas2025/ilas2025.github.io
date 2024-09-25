@@ -16,7 +16,7 @@ You are encouraged to join the [ILAS membership](https://ilasic.org/join-ilas/)!
 
 All participants are required to register for the conference.  Early bird 
 discount for different categories are offered for people who register before 
-**April 30, 2025**.  After that, only regular prices for ILAS members and 
+**March 31, 2025**.  After that, only regular prices for ILAS members and 
 non-members are available.  
 
 To register as a student or an early career participants 
