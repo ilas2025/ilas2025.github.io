@@ -24,7 +24,7 @@ To register as a student or an early career participants
 educational stage.  
 
 If you choose any ILAS member categories (including students and early career), 
-**you have to join the ILAS membership before April 30, 2025**. 
+**you have to join the ILAS membership before March 31, 2025**. 
 
 | Category                              | Registration fee |
 | ------------------------------------- | ---------------- |
