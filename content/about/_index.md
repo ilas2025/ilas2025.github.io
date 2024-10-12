@@ -38,7 +38,7 @@ Kung University), while the local committee members are:
 - Jephian C.-H. Lin (National Sun Yat-sen University)
 - Matthew M. Lin (National Cheng Kung University)
 - Ching-Sung Liu (National University of Kaohsiung)
-- ShengLi Tzeng (National Sun Yat-sen University)
+- ShengLi Tzeng (National Chung Hsing University)
 - Ngai-Ching Wong (National Sun Yat-sen University)
 - Suh-Yuh Yang (National Central Unvierstiy)
 
