@@ -26,7 +26,9 @@ through this airport.
 See the details below for their differences.
 
 
-### Transportation from the airport to the conference site
+### Transportation from the airport to the conference venue
+
+The conference will take place at [NSYSU](https://www.nsysu.edu.tw/).
 
 #### From KHH
 
