@@ -16,7 +16,7 @@ Price: included in the registration fee
 
 The excursion will be held on Wednesday afternoon.  There are two options.
 
-### Option 1: Cruise tour in Kaoshiung Harbor (position limited)
+### Option 1: Cruise tour in Kaoshiung Harbor (limited vacancies)
 
 As the largest harbor in Taiwan, Kaohsiung Harbor serves as both an economic 
 and cultural hub. In addition to its stunning tropical ocean views, the harbor 
@@ -28,6 +28,8 @@ rotation show, followed by a cruise tour of
 [Kaohsiung Harbor](https://khh.travel/en/attractions/detail/399).
 
 Price: 1200 NTD
+
+{{< kaohsiung-harbor-photos >}}
 
 <!-- https://khh.travel/en/traffic/local-transport -->
 
@@ -42,6 +44,8 @@ tiger's mouth symbolizes the act of dispelling bad luck and welcoming good
 fortune.
 
 Price: 1000 NTD
+
+{{< lotus-pond-photos >}}
 
 ## Banquet
 
