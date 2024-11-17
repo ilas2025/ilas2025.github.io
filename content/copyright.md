@@ -13,4 +13,5 @@ The photos and images used in this website are from the following resources:
 - Courtesy of Yu-Ting Chen.
 - Courtesy of Jephian Lin.  
 - Wikipedia.
+- [Kaohsiung Travel](https://khh.travel/en/).
 
