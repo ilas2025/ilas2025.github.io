@@ -24,6 +24,7 @@ div.photos img {
   display: none;
   position: absolute;
   background-color: none;
+  backdrop-filter: blur(10px);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -41,7 +42,9 @@ div.photos img {
 
 @media (pointer:fine) {
     /* Change color of dropdown links on hover */
-    .dropdown-content a:hover {color: #009944;}
+    .dropdown-content a:hover {
+        color: #009944;
+    }
 
     /* Show the dropdown menu on hover */
     .dropdown:hover .dropdown-content {display: block;}
