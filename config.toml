@@ -81,9 +81,14 @@ enableRobotsTXT = true
   weight = 12
 [[menu.main]]
   parent = 'Registration & Submissions'
+  name = 'Social events'
+  URL = '/registration/social/'
+  weight = 21
+[[menu.main]]
+  parent = 'Registration & Submissions'
   name = 'LAA special issue'
   URL = '/registration/laa/'
-  weight = 21
+  weight = 22
 [[menu.main]]
   parent = 'Program'
   name = 'Plenary speakers'
