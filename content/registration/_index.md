@@ -26,13 +26,16 @@ educational stage.
 If you choose any ILAS member categories (including students and early career), 
 **you have to join the ILAS membership before March 31, 2025**. 
 
-| Category                              | Registration fee |
-| ------------------------------------- | ---------------- |
-| Early bird, ILAS member, standard     | $6,800 NTD       |
-| Early bird, ILAS member, early career | $3,400 NTD       |
-| Early bird, ILAS member, student      | $1,700 NTD       |
-| Early bird, non-member                | $8,400 NTD       |
-| Regular, ILAS member                  | $8,900 NTD       |
-| Regular non-member                    | $10,500 NTD      |
+| Category                              | Basic registration fee |
+| ------------------------------------- | ---------------------- |
+| Early bird, ILAS member, standard     | $6,800 NTD             |
+| Early bird, ILAS member, early career | $3,400 NTD             |
+| Early bird, ILAS member, student      | $1,700 NTD             |
+| Early bird, non-member                | $8,400 NTD             |
+| Regular, ILAS member                  | $8,900 NTD             |
+| Regular non-member                    | $10,500 NTD            |
+
+You may choose to add optional [social events](social/) to your registration 
+package.
 
 _Registration will be open in late 2024._
