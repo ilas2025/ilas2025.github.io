@@ -39,3 +39,24 @@ You may choose to add optional [social events](social/) to your registration
 package.
 
 _Registration will be open in late 2024._
+
+### Terms of Service for ILAS2025
+
+**Registration**: All participants must complete registration to attend the 
+ILAS2025 conference.
+
+**Included Services**: The basic registration fee includes access to the 
+conference, coffee breaks, and the welcome reception. Participants may 
+optionally add the banquet and excursion into their registration package for 
+an additional fee.
+
+**Privacy**: Personal information collected during registration will be treated 
+confidentially and used solely for conference purposes.
+
+**Refund Policy**: Refunds for the registration fee are available upon request 
+until **May 25, 2025**. After this date, no refunds will be processed. 
+If you need to cancel your registration, please contact 
+ilas2025@math.nsysu.edu.tw before the deadline. Please note that a processing 
+fee of 25% of the registration fee will apply, and any applicable bank charges 
+will be deducted from the refund. Refunds will be issued after the conference 
+concludes.
