@@ -8,6 +8,10 @@ div.photos img {
     margin: 5px;
 }
 
+a#copyright {
+    display: inline-block;
+}
+
 /* Dropdown Button */
 .dropbtn {
   background-color: none;
