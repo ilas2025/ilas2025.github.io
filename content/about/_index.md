@@ -25,6 +25,13 @@ cities all over the world.  See
 
 ### Local Committee
 
+The ILAS2025 conference is jointly organized by 
+[ILAS](https://ilasic.org/) x 
+[NSYSU](https://www.nsysu.edu.tw/) x 
+[TMS](https://www.tms.org.tw/en/).
+
+{{< org-logos >}}
+
 The main organizers are [Jephian
 C.-H. Lin](https://jephianlin.github.io/) (National Sun Yat-sen
 University) and [Matthew
