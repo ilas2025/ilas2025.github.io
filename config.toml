@@ -89,6 +89,11 @@ enableRobotsTXT = true
   URL = '/registration/social/'
   weight = 21
 [[menu.main]]
+  parent = 'Registration'
+  name = 'Student support'
+  URL = '/registration/student-support/'
+  weight = 22
+[[menu.main]]
   parent = 'Program'
   name = 'Plenary speakers'
   URL = '/program/plenary/'

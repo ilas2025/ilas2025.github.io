@@ -2,7 +2,6 @@
 title: "Student support"
 type: page
 date: 2024-11-24T14:45:12+08:00
-draft: true
 ---
 
 ILAS welcomes and encourages students to attend the ILAS conference.
@@ -37,7 +36,7 @@ Please note that the excursion and banquet are not included in the fee-waiver!
 ILAS offers financial support to 10 students. 
 This initiative is designed to provide assistance to those in need of financial 
 support.
-The support can be used to reimburse reasonable travel expenses _such as_ 
+The support can be used to reimburse reasonable travel expenses such as 
 flight, lodging or transportation costs, with a maximum of 700 USD.  
 
 To apply for the financial support, please prepare

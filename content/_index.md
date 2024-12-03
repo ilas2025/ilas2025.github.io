@@ -13,7 +13,13 @@ communities worldwide.
 
 ### Important dates
 
-- 2024-0915: Call for [mini-symposium](program/mini/) proposals with the deadline **December 31**.  
+Expected: Registration (soon), Contributed talk & Poster submission (January)
+
+- 2024-1203: The application for 
+[student support](registration/student-support/) is now open, with a deadline 
+of **January 31**, 2025.
+- 2024-0915: Call for [mini-symposium](program/mini/) proposals with a deadline 
+of **December 31**.  
 - 2024-0815: [Plenary speakers](program/plenary/) confirmed.  
 - 2023-0805: [LOGO](about/logo/) created.
 - 2023-0610: Information about [Taiwan](taiwan/) and how to [plan your trip](taiwan/travel/) updated.
