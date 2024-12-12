@@ -41,7 +41,7 @@ Kung University), while the local committee members are:
 - Chih-Wei Chen (National Sun Yat-sen University)
 - Tsung-Ming Huang (National Taiwan Normal University)
 - Hao-Wei Huang (National Tsing Hua University)
-- Yueh-Cheng Kuo (National University of Kaohsiung)
+- Yueh-Cheng Kuo (National Chengchi University)
 - Jephian C.-H. Lin (National Sun Yat-sen University)
 - Matthew M. Lin (National Cheng Kung University)
 - Ching-Sung Liu (National University of Kaohsiung)
