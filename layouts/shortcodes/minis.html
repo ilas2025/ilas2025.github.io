@@ -1,0 +1,19 @@
+{{ $data := dict }}
+{{ $path := "data/minis.csv"}}
+
+{{ with resources.Get $path }}
+    {{ with . | transform.Unmarshal }}
+        {{ $data = . }}
+    {{ end }}
+{{ else }}
+    <p>Data not found.</p>
+{{ end }}
+
+<ol>
+    {{ range $data }}
+        <li>
+            <span style="color: #009944;">{{ index . 0 }}</span><br />
+            {{ index . 1 }}
+        </li>
+    {{ end }}
+</ol>

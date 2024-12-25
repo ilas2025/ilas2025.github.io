@@ -6,7 +6,7 @@ date: 2024-09-01T17:04:33+08:00
 
 ### Mini-symposia
 
-1. {{< color `Embracing new opportunities in numerical linear algebra` >}}  
+<!-- 1. {{< color `Embracing new opportunities in numerical linear algebra` >}}  
 Pengwen Chen, Matthrew Lin
 2. {{< color `Combinatorial matrix theory` >}}  
 Aida Abiad, Shaun Fallat, Michael Tait
@@ -17,8 +17,9 @@ Julianne Chung, Arvind K. Saibaba
 5. {{< color `Advances in matrix equations: Theory, computations, and applications` >}}  
 Andrii Dmytryshyn, Davide Palitta
 6. {{< color `Model Reduction` >}}  
-Christopher Beattie, Zlatko Drmać
+Christopher Beattie, Zlatko Drmać -->
 
+{{< minis >}}
 
 ### Call for proposals
 

@@ -47,6 +47,11 @@ enableRobotsTXT = true
 #     [markup.goldmark.renderer]
 #       unsafe = false
 
+[mount]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+
 [menu]
 [[menu.main]]
   name = 'Home'
