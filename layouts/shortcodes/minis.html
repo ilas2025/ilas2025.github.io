@@ -10,7 +10,7 @@
 {{ end }}
 
 <ol>
-    {{ range $data }}
+    {{ range after 1 $data }}
         <li>
             <span style="color: #009944;">{{ index . 0 }}</span><br />
             {{ index . 1 }}
