@@ -1,0 +1,72 @@
+[
+    {
+        "SID": "MS1",
+        "TITLE": "Embracing new opportunities in numerical linear algebra",
+        "ORGANIZERS": "Pengwen Chen, Matthrew Lin",
+        "SPEAKERS": []
+    },
+    {
+        "SID": "MS2",
+        "TITLE": "Combinatorial matrix theory",
+        "ORGANIZERS": "Aida Abiad, Shaun Fallat, Michael Tait",
+        "SPEAKERS": []
+    },
+    {
+        "SID": "MS3",
+        "TITLE": "Matrix inequalities with applications",
+        "ORGANIZERS": "D. S. Cvetkovi\u0107 Ili\u0107, Qing-Wen Wang, Yang Zhang",
+        "SPEAKERS": [
+            {
+                "NAME": "Jephian",
+                "TITLE": "This is a good talk"
+            },
+            {
+                "NAME": "Joseph",
+                "TITLE": "This is a good talk"
+            },
+            {
+                "NAME": "Jeff",
+                "TITLE": "This is a good talk"
+            }
+        ]
+    },
+    {
+        "SID": "MS4",
+        "TITLE": "Linear algebra methods for inverse problems and data assimilation",
+        "ORGANIZERS": "Julianne Chung, Arvind K. Saibaba",
+        "SPEAKERS": []
+    },
+    {
+        "SID": "MS5",
+        "TITLE": "Advances in matrix equations: Theory, computations, and applications",
+        "ORGANIZERS": "Andrii Dmytryshyn, Davide Palitta",
+        "SPEAKERS": [
+            {
+                "NAME": "Joe",
+                "TITLE": "This is a good talk"
+            },
+            {
+                "NAME": "John",
+                "TITLE": "This is a good talk"
+            }
+        ]
+    },
+    {
+        "SID": "MS6",
+        "TITLE": "Model Reduction",
+        "ORGANIZERS": "Christopher Beattie, Zlatko Drma\u0107",
+        "SPEAKERS": []
+    },
+    {
+        "SID": "MS7",
+        "TITLE": "Linear algebra and quantum information science",
+        "ORGANIZERS": "Hao-Wei Huang, Ray-Kuang Lee",
+        "SPEAKERS": []
+    },
+    {
+        "SID": "MS8",
+        "TITLE": "Tensor and quantum information science",
+        "ORGANIZERS": "Shmuel Friedland, Karol \u017byczkowski",
+        "SPEAKERS": []
+    }
+]
