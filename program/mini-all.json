@@ -1,72 +1,126 @@
-[
-    {
-        "SID": "MS1",
-        "TITLE": "Embracing new opportunities in numerical linear algebra",
-        "ORGANIZERS": "Pengwen Chen, Matthrew Lin",
-        "SPEAKERS": []
-    },
-    {
-        "SID": "MS2",
-        "TITLE": "Combinatorial matrix theory",
-        "ORGANIZERS": "Aida Abiad, Shaun Fallat, Michael Tait",
-        "SPEAKERS": []
-    },
-    {
-        "SID": "MS3",
-        "TITLE": "Matrix inequalities with applications",
-        "ORGANIZERS": "D. S. Cvetkovi\u0107 Ili\u0107, Qing-Wen Wang, Yang Zhang",
-        "SPEAKERS": [
+{
+    "MS1":{
+        "TITLE":"Embracing new opportunities in numerical linear algebra",
+        "ORGANIZERS":"Pengwen Chen, Matthrew Lin",
+        "SPEAKERS":[
             {
-                "NAME": "Jephian",
-                "TITLE": "This is a good talk"
-            },
-            {
-                "NAME": "Joseph",
-                "TITLE": "This is a good talk"
-            },
-            {
-                "NAME": "Jeff",
-                "TITLE": "This is a good talk"
+                "NAME":"TBA",
+                "TITLE":"TBA"
             }
         ]
     },
-    {
-        "SID": "MS4",
-        "TITLE": "Linear algebra methods for inverse problems and data assimilation",
-        "ORGANIZERS": "Julianne Chung, Arvind K. Saibaba",
-        "SPEAKERS": []
-    },
-    {
-        "SID": "MS5",
-        "TITLE": "Advances in matrix equations: Theory, computations, and applications",
-        "ORGANIZERS": "Andrii Dmytryshyn, Davide Palitta",
-        "SPEAKERS": [
+    "MS2":{
+        "TITLE":"Combinatorial matrix theory",
+        "ORGANIZERS":"Aida Abiad, Shaun Fallat, Michael Tait",
+        "SPEAKERS":[
             {
-                "NAME": "Joe",
-                "TITLE": "This is a good talk"
-            },
-            {
-                "NAME": "John",
-                "TITLE": "This is a good talk"
+                "NAME":"TBA",
+                "TITLE":"TBA"
             }
         ]
     },
-    {
-        "SID": "MS6",
-        "TITLE": "Model Reduction",
-        "ORGANIZERS": "Christopher Beattie, Zlatko Drma\u0107",
-        "SPEAKERS": []
+    "MS3":{
+        "TITLE":"Matrix inequalities with applications",
+        "ORGANIZERS":"D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang",
+        "SPEAKERS":[
+            {
+                "NAME":"TBA",
+                "TITLE":"TBA"
+            }
+        ]
     },
-    {
-        "SID": "MS7",
-        "TITLE": "Linear algebra and quantum information science",
-        "ORGANIZERS": "Hao-Wei Huang, Ray-Kuang Lee",
-        "SPEAKERS": []
+    "MS4":{
+        "TITLE":"Linear algebra methods for inverse problems and data assimilation",
+        "ORGANIZERS":"Julianne Chung, Arvind K. Saibaba",
+        "SPEAKERS":[
+            {
+                "NAME":"TBA",
+                "TITLE":"TBA"
+            }
+        ]
     },
-    {
-        "SID": "MS8",
-        "TITLE": "Tensor and quantum information science",
-        "ORGANIZERS": "Shmuel Friedland, Karol \u017byczkowski",
-        "SPEAKERS": []
+    "MS5":{
+        "TITLE":"Advances in matrix equations: Theory, computations, and applications",
+        "ORGANIZERS":"Andrii Dmytryshyn, Davide Palitta",
+        "SPEAKERS":[
+            {
+                "NAME":"TBA",
+                "TITLE":"TBA"
+            }
+        ]
+    },
+    "MS6":{
+        "TITLE":"Model Reduction",
+        "ORGANIZERS":"Christopher Beattie, Zlatko Drmać",
+        "SPEAKERS":[
+            {
+                "NAME":"TBA",
+                "TITLE":"TBA"
+            }
+        ]
+    },
+    "MS7":{
+        "TITLE":"Linear algebra and quantum information science",
+        "ORGANIZERS":"Hao-Wei Huang, Ray-Kuang Lee",
+        "SPEAKERS":[
+            {
+                "NAME":"TBA",
+                "TITLE":"TBA"
+            }
+        ]
+    },
+    "MS8":{
+        "TITLE":"Tensor and quantum information science",
+        "ORGANIZERS":"Shmuel Friedland, Karol Życzkowski",
+        "SPEAKERS":[
+            {
+                "NAME":"Lieven De Lathauwer",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Michal Eckstein",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Shmuel Friedland",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Gilad Gour",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Pawel Horodecki",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Sooyeong Kim",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Chi-Kwong Li",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Lek-Heng Lim",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Tomasz Miller",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Raymond Sze",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Jeroen Zuiddam",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Karol Życzkowski",
+                "TITLE":"TBA"
+            }
+        ]
     }
-]
+}
