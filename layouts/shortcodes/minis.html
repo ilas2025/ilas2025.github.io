@@ -1,5 +1,5 @@
 {{ $data := dict }}
-{{ $path := "data/minis.csv"}}
+{{ $path := "data/mini-all.json"}}
 
 {{ with resources.Get $path }}
     {{ with . | transform.Unmarshal }}
@@ -10,10 +10,20 @@
 {{ end }}
 
 <ol>
-    {{ range after 1 $data }}
+    {{ range $data }}
         <li>
-            <span style="color: #009944;">{{ index . 0 }}</span><br />
-            {{ index . 1 }}
+            <span style="color: #009944;">{{ .TITLE }}</span><br />
+            {{ .ORGANIZERS }}
+            <details>
+                <summary style="opacity: 0.3;">Confirmed speakers</summary>
+                <ul>
+                    {{ range .SPEAKERS }}
+                        <li>{{ .NAME }}, 
+                            <span style="text-shadow: 2px 2px 10px lightseagreen;">{{ .TITLE }}</span>
+                        </li>
+                    {{ end }}
+                </ul>
+            </details>
         </li>
     {{ end }}
 </ol>
