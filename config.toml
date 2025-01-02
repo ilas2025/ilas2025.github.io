@@ -32,6 +32,8 @@ enableRobotsTXT = true
   recent_posts_number = 3
   custom_css = ["css/custom.css"]
   env = "production" # for robots.txt
+  # added for KaTex
+  math = true
 
 # [[params.ananke_socials]]
 # name = "twitter"
@@ -41,11 +43,17 @@ enableRobotsTXT = true
 ##### above are modified from themes/ananke/exampleSite/config.toml #####
 ##### below are new things added by Jephian #####
 
-# To use raw html in the content, set unsafe as true.
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.renderer]
-#       unsafe = false
+[markup]
+  [markup.goldmark]
+    # To use raw html in the content, set unsafe as true.
+    # [markup.goldmark.renderer]
+    #   unsafe = false
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$$', '$$']]
 
 [mount]
   [[module.mounts]]
