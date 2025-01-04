@@ -10,14 +10,16 @@
 {{ end }}
 
 <ol>
-    {{ range $data }}
+    {{ range seq 8 }}
+        {{ $ms_name := (print "MS" .) }}
+        {{ $ms := (index $data $ms_name) }}
         <li>
-            <span style="color: #009944;">{{ .TITLE }}</span><br />
-            {{ .ORGANIZERS }}
+            <span style="color: #009944;">{{ $ms.TITLE }}</span><br />
+            {{ $ms.ORGANIZERS }}
             <details>
                 <summary style="opacity: 0.3;">Confirmed speakers</summary>
                 <ul>
-                    {{ range .SPEAKERS }}
+                    {{ range $ms.SPEAKERS }}
                         <li>{{ .NAME }}, 
                             <span style="text-shadow: 2px 2px 10px lightseagreen;">{{ .TITLE }}</span>
                         </li>
