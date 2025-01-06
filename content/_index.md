@@ -10,6 +10,8 @@ cascade:
 on this conference and to receive the latest news from linear algebra 
 communities worldwide.
 
+Help us to [share this event](/files/ILAS2025-slides.pdf)!
+
 
 ### Important dates
 
