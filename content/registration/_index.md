@@ -4,6 +4,30 @@ type: page
 date: 2023-04-03T22:24:53+08:00
 ---
 
+Please click the bottome below to register.
+
+{{< reg-button >}}
+
+The botton will pop-up a new page and lead you to `blog.ilas2025.tw`, which 
+is under the same domain.
+
+1. Use **Registration Payment** to register.  You will receive an email for 
+payment information after you submitted the form.  Within one week after the 
+payment, you will receive another email for your receipt.
+2. Use **Upload Abstract** to upload your abstract.  You may type \(\TeX\) code
+in your title and abstract.  You may assume the `amsmath` package is loaded and 
+only copy and paste the content of your abstract to the form.
+
+```tex
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+% paste only this part to the abstract.
+\end{document}
+```
+
+
 ### ILAS membership
 
 The International Linear Algebra Society (ILAS) welcome all scientists, 
@@ -37,8 +61,6 @@ If you choose any ILAS member categories (including students and early career),
 
 You may choose to add optional [social events](social/) to your registration 
 package.
-
-_Registration will be open in late 2024._
 
 ### Terms of Service for ILAS2025
 

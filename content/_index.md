@@ -15,8 +15,10 @@ Help us to [share this event](/files/ILAS2025-slides.pdf)!
 
 ### Important dates
 
-Expected: Registration (soon), Contributed talk & Poster submission (January)
-
+- 2024-0108: Call for [contributed talks and posters](program/contributed-and-poster/) 
+with a deadline **March 31**.
+- 2024-0108: [Registration](registration/) is now open!  The early bird price 
+is available until **March 31**.
 - 2024-1203: The application for 
 [student support](registration/student-support/) is now open, with a deadline 
 of **January 31**, 2025.

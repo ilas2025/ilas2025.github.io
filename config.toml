@@ -117,6 +117,11 @@ enableRobotsTXT = true
   URL = '/program/mini/'
   weight = 32
 [[menu.main]]
+  parent = 'Program'
+  name = 'Contributed talks and posters'
+  URL = '/program/contributed-and-poster/'
+  weight = 33
+[[menu.main]]
   parent = 'About'
   name = 'LOGO'
   URL = '/about/logo/'
