@@ -10,7 +10,7 @@
 {{ end }}
 
 <ol>
-    {{ range seq 8 }}
+    {{ range seq (len $data) }}
         {{ $ms_name := (print "MS" .) }}
         {{ $ms := (index $data $ms_name) }}
         <li>

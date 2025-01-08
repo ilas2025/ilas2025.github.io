@@ -16,10 +16,6 @@
                 "TITLE":null
             },
             {
-                "NAME":"Sean Y S Hon",
-                "TITLE":null
-            },
-            {
                 "NAME":"Akira Imakura",
                 "TITLE":"Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula"
             },
@@ -1092,6 +1088,14 @@
             {
                 "NAME":"Laureano Gonzalez-Vega",
                 "TITLE":"Bohemian correlation matrices"
+            },
+            {
+                "NAME":"Jamie Pommersheim",
+                "TITLE":"More on eigenvalue gaps of integer matrices"
+            },
+            {
+                "NAME":"Kate Stange",
+                "TITLE":"Algebraic starscapes and Bohemian matrices"
             }
         ]
     }

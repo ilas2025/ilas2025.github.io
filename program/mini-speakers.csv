@@ -2,7 +2,6 @@ TYPE,NAME,TITLE
 MS1,Dong Bo,
 MS1,Chun-Yueh Chiang,
 MS1,King-Wah Eric Chu,
-MS1,Sean Y S Hon,
 MS1,Akira Imakura,Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula
 MS1,Zhigang Jia,Matrix completion method from compressed sensing to color video inpainting
 MS1,Chiu-Yen Kao,
@@ -228,3 +227,5 @@ MS29,Pengpeng Xie,Computing the dual matrix exponential
 MS30,Eunice Y. S. Chan,Numerical stability of algebraic linearizations
 MS30,Robert M. Corless,The maximum spread of small Bohemian matrices
 MS30,Laureano Gonzalez-Vega,Bohemian correlation matrices
+MS30,Jamie Pommersheim,More on eigenvalue gaps of integer matrices
+MS30,Kate Stange,Algebraic starscapes and Bohemian matrices
