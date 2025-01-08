@@ -43,9 +43,12 @@ discount for different categories are offered for people who register before
 **March 31, 2025**.  After that, only regular prices for ILAS members and 
 non-members are available.  
 
+Check out if your are eligible for [student support](student-support/).
 To register as a student or an early career participants 
-(within 5 years of PhD), please provide a CV indicating your current 
-educational stage.  
+(within 5 years of PhD), please use the **Comments** field to provide a short 
+description of your career status (which year you are in your PhD program 
+or after graduation, your website, or the website of your institute 
+indicating your status).  
 
 If you choose any ILAS member categories (including students and early career), 
 **you have to join the ILAS membership before March 31, 2025**. 
