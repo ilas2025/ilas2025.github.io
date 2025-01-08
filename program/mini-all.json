@@ -70,8 +70,52 @@
         "ORGANIZERS":"Julianne Chung, Arvind K. Saibaba",
         "SPEAKERS":[
             {
-                "NAME":"TBA",
+                "NAME":"Davide Bianchi",
+                "TITLE":"A data-dependent regularization method based on the graph Laplacian"
+            },
+            {
+                "NAME":"Daniela Calvetti",
+                "TITLE":"The linear algebra of space-time regularization for time-dependent distributed inverse problems"
+            },
+            {
+                "NAME":"Julianne Chung",
+                "TITLE":"Efficient Krylov subspace methods for large-scale hierarchical Bayesian inverse problems"
+            },
+            {
+                "NAME":"Matthias Chung",
+                "TITLE":"Data-driven inverse problems via autoencoder"
+            },
+            {
+                "NAME":"Tiangang Cui",
+                "TITLE":"Tensor-train methods for sequential state and parameter estimation in state-space models"
+            },
+            {
+                "NAME":"Roberto Diaz Martinez",
+                "TITLE":"On the inverse eigenvalue problem of a graph"
+            },
+            {
+                "NAME":"Srinivas Eswar",
                 "TITLE":"TBA"
+            },
+            {
+                "NAME":"Colin Fox",
+                "TITLE":"Iterative samplers"
+            },
+            {
+                "NAME":"Mirjeta Pasha",
+                "TITLE":"Efficient dynamic image reconstruction with motion estimation"
+            },
+            {
+                "NAME":"Vishwas Rao",
+                "TITLE":"Efficient randomization techniques for data assimilation"
+            },
+            {
+                "NAME":"Fred Roosta",
+                "TITLE":"Numerical linear algebra and optimization: the interplay between inner and outer iterations"
+            },
+            {
+                "NAME":"Arvind K. Saibaba",
+                "TITLE":"Efficient methods for hyperparameter estimation in Bayesian inverse problems"
             }
         ]
     },
