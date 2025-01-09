@@ -74,12 +74,12 @@
                 "TITLE":"A data-dependent regularization method based on the graph Laplacian"
             },
             {
-                "NAME":"Daniela Calvetti",
-                "TITLE":"The linear algebra of space-time regularization for time-dependent distributed inverse problems"
+                "NAME":"Jonas Bresch",
+                "TITLE":"Matrix-free stochastic calculation of operator norms without using adjoints"
             },
             {
-                "NAME":"Julianne Chung",
-                "TITLE":"Efficient Krylov subspace methods for large-scale hierarchical Bayesian inverse problems"
+                "NAME":"Daniela Calvetti",
+                "TITLE":"The linear algebra of space-time regularization for time-dependent distributed inverse problems"
             },
             {
                 "NAME":"Matthias Chung",
@@ -95,7 +95,7 @@
             },
             {
                 "NAME":"Srinivas Eswar",
-                "TITLE":"TBA"
+                "TITLE":"Exchange algorithms for optimal experimental design"
             },
             {
                 "NAME":"Colin Fox",

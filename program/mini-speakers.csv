@@ -12,12 +12,12 @@ MS1,Li-Gang (Charles) Lin,Fast SDDRE-based maneuvering-target interception at pr
 MS2,TBA,TBA
 MS3,TBA,TBA
 MS4,Davide Bianchi,A data-dependent regularization method based on the graph Laplacian
+MS4,Jonas Bresch,Matrix-free stochastic calculation of operator norms without using adjoints
 MS4,Daniela Calvetti,The linear algebra of space-time regularization for time-dependent distributed inverse problems
-MS4,Julianne Chung,Efficient Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
 MS4,Matthias Chung,Data-driven inverse problems via autoencoder
 MS4,Tiangang Cui,Tensor-train methods for sequential state and parameter estimation in state-space models
 MS4,Roberto Diaz Martinez,On the inverse eigenvalue problem of a graph
-MS4,Srinivas Eswar,TBA
+MS4,Srinivas Eswar,Exchange algorithms for optimal experimental design
 MS4,Colin Fox,Iterative samplers
 MS4,Mirjeta Pasha,Efficient dynamic image reconstruction with motion estimation
 MS4,Vishwas Rao,Efficient randomization techniques for data assimilation
