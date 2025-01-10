@@ -14,7 +14,7 @@ is under the same domain.
 1. Use **Registration Payment** to register.  You will receive an email for 
 payment information after you submitted the form.  Within one week after the 
 payment, you will receive another email for your receipt.
-2. Use **Upload Abstract** to upload your abstract.  You may type \(\TeX\) code
+2. Use **Upload Abstract** to upload your abstract.  You may type \(\TeX{}\) code
 in your title and abstract.  You may assume the `amsmath` package is loaded and 
 only copy and paste the content of your abstract to the form.
 
