@@ -212,7 +212,7 @@
         "ORGANIZERS":"Projesh Nath Choudhury, Apoorva Khare",
         "SPEAKERS":[
             {
-                "NAME":"Projesh Nath Choudhury",
+                "NAME":"Sujit Sakharam Damase",
                 "TITLE":"TBA"
             },
             {
@@ -221,10 +221,6 @@
             },
             {
                 "NAME":"Juergen Garloff",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Dominique Guillot",
                 "TITLE":"TBA"
             },
             {
@@ -821,18 +817,6 @@
         "TITLE":"Linear algebra applications in computational geometry",
         "ORGANIZERS":"Marco Sutti, Mei-Heng Yueh",
         "SPEAKERS":[
-            {
-                "NAME":"Gary Pui Tung Choi",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Chengyang Liu",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Ronald Lok Ming Lui",
-                "TITLE":"TBA"
-            },
             {
                 "NAME":"Shu-Yung Liu",
                 "TITLE":"TBA"
