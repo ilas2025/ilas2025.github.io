@@ -12,6 +12,10 @@ communities worldwide.
 
 Help us to [share this event](/files/ILAS2025-slides.pdf)!
 
+For your information, the government offers a lucky draw of 
+5000 NTD (pre-paid card or voucher) 
+for each traveler who signed up their event **before** the departure; 
+see https://5000.taiwan.net.tw/index_en.html for more details.
 
 ### Important dates
 
