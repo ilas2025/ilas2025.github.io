@@ -155,8 +155,6 @@ div.button {
 @media only screen and (min-width: 500px) {
     .menu-box {
         width: 500px;
-        max-height: 100vh;
-        overflow-y: scroll;
     }
 }
 
