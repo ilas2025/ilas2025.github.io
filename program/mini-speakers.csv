@@ -1,13 +1,13 @@
 TYPE,NAME,TITLE
-MS1,Dong Bo,
-MS1,Chun-Yueh Chiang,
-MS1,King-Wah Eric Chu,
+MS1,Dong Bo,TBA
+MS1,King-Wah Eric Chu,TBA
 MS1,Akira Imakura,Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula
 MS1,Zhigang Jia,Matrix completion method from compressed sensing to color video inpainting
-MS1,Chiu-Yen Kao,
-MS1,Hao Liu,
-MS1,Shinya Miyajima,
-MS1,Meiyue Shao,
+MS1,Chiu-Yen Kao,TBA
+MS1,Matthew M. Lin,TBA
+MS1,Hao Liu,TBA
+MS1,Shinya Miyajima,TBA
+MS1,Meiyue Shao,TBA
 MS1,Li-Gang (Charles) Lin,Fast SDDRE-based maneuvering-target interception at pre-specified orientation
 MS2,TBA,TBA
 MS3,TBA,TBA
@@ -23,8 +23,28 @@ MS4,Mirjeta Pasha,Efficient dynamic image reconstruction with motion estimation
 MS4,Vishwas Rao,Efficient randomization techniques for data assimilation
 MS4,Fred Roosta,Numerical linear algebra and optimization: the interplay between inner and outer iterations
 MS4,Arvind K. Saibaba,Efficient methods for hyperparameter estimation in Bayesian inverse problems
-MS5,TBA,TBA
-MS6,TBA,TBA
+MS5,Roberto Canogar,"New results on the matrix equation $X^*AX = I$, or how much of sesquilinear form is positive definite?"
+MS5,Fernando De Teran,The uniqueness of solution of systems of generalized Sylvester and $\star$-Sylvester equations
+MS5,Massimiliano Fasi,TBA
+MS5,Xianming Gu,TBA
+MS5,Bruno Iannazzo,TBA
+MS5,Rudra Kamat,Simultaneous symplectic reduction of quadratic forms into normal forms
+MS5,Patrick Kürschner,TBA
+MS5,Beatrice Meini,A combination of cyclic reduction and shift-and-deflate techniques for solving quadratic matrix equations
+MS5,Davide Palitta,A subspace-conjugate gradient method for linear matrix equations
+MS5,Steffen W. R. Werner,Efficiently solving nonstandard Riccati equations via indefinite factorizations
+MS6,Christopher Beattie,Data based reduced order modeling for port-Hamiltonian descriptor systems
+MS6,Nicolas Boullé,Multiplicative dynamic mode decomposition
+MS6,Saifon Chatarantabut,Nonlinear model reduction using machine learning on Grassmann manifolds
+MS6,Eric de Sturler,Model reduction techniques for dynamic and streaming-type inverse problems
+MS6,Zlatko Drmač,Koopman mode decomposition for nonlinear model reduction
+MS6,Ionut Farcas,Distributed computing for physics-based data-driven reduced modeling at scale
+MS6,Ion Victor Gosea,Model reduction by rational approximation: harnessing the advantages of various barycentric representations
+MS6,Riccardo Morandin,Structure-preserving model order reduction of linear time-varying port-Hamiltonian systems
+MS6,Sam Otto,Identifying and estimating dynamical covariance matrices with hierarchical rank structure
+MS6,Elizabeth Qian,The fundamental subspaces of Ensemble Kalman Inversion
+MS6,Zoran Tomljanovic,Efficient solution of sequences of parametrized Lyapunov equations with applications
+MS6,Ralf Zimmerman,On the errors associated with manifold interpolation for model reduction applications
 MS7,TBA,TBA
 MS8,Lieven De Lathauwer,TBA
 MS8,Michal Eckstein,TBA

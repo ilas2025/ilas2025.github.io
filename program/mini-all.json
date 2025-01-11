@@ -5,15 +5,11 @@
         "SPEAKERS":[
             {
                 "NAME":"Dong Bo",
-                "TITLE":null
-            },
-            {
-                "NAME":"Chun-Yueh Chiang",
-                "TITLE":null
+                "TITLE":"TBA"
             },
             {
                 "NAME":"King-Wah Eric Chu",
-                "TITLE":null
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Akira Imakura",
@@ -25,19 +21,23 @@
             },
             {
                 "NAME":"Chiu-Yen Kao",
-                "TITLE":null
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Matthew M. Lin",
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Hao Liu",
-                "TITLE":null
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Shinya Miyajima",
-                "TITLE":null
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Meiyue Shao",
-                "TITLE":null
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Li-Gang (Charles) Lin",
@@ -124,8 +124,44 @@
         "ORGANIZERS":"Andrii Dmytryshyn, Davide Palitta",
         "SPEAKERS":[
             {
-                "NAME":"TBA",
+                "NAME":"Roberto Canogar",
+                "TITLE":"New results on the matrix equation $X^*AX = I$, or how much of sesquilinear form is positive definite?"
+            },
+            {
+                "NAME":"Fernando De Teran",
+                "TITLE":"The uniqueness of solution of systems of generalized Sylvester and $\\star$-Sylvester equations"
+            },
+            {
+                "NAME":"Massimiliano Fasi",
                 "TITLE":"TBA"
+            },
+            {
+                "NAME":"Xianming Gu",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Bruno Iannazzo",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Rudra Kamat",
+                "TITLE":"Simultaneous symplectic reduction of quadratic forms into normal forms"
+            },
+            {
+                "NAME":"Patrick Kürschner",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Beatrice Meini",
+                "TITLE":"A combination of cyclic reduction and shift-and-deflate techniques for solving quadratic matrix equations"
+            },
+            {
+                "NAME":"Davide Palitta",
+                "TITLE":"A subspace-conjugate gradient method for linear matrix equations"
+            },
+            {
+                "NAME":"Steffen W. R. Werner",
+                "TITLE":"Efficiently solving nonstandard Riccati equations via indefinite factorizations"
             }
         ]
     },
@@ -134,8 +170,52 @@
         "ORGANIZERS":"Christopher Beattie, Zlatko Drmać",
         "SPEAKERS":[
             {
-                "NAME":"TBA",
-                "TITLE":"TBA"
+                "NAME":"Christopher Beattie",
+                "TITLE":"Data based reduced order modeling for port-Hamiltonian descriptor systems"
+            },
+            {
+                "NAME":"Nicolas Boullé",
+                "TITLE":"Multiplicative dynamic mode decomposition"
+            },
+            {
+                "NAME":"Saifon Chatarantabut",
+                "TITLE":"Nonlinear model reduction using machine learning on Grassmann manifolds"
+            },
+            {
+                "NAME":"Eric de Sturler",
+                "TITLE":"Model reduction techniques for dynamic and streaming-type inverse problems"
+            },
+            {
+                "NAME":"Zlatko Drmač",
+                "TITLE":"Koopman mode decomposition for nonlinear model reduction"
+            },
+            {
+                "NAME":"Ionut Farcas",
+                "TITLE":"Distributed computing for physics-based data-driven reduced modeling at scale"
+            },
+            {
+                "NAME":"Ion Victor Gosea",
+                "TITLE":"Model reduction by rational approximation: harnessing the advantages of various barycentric representations"
+            },
+            {
+                "NAME":"Riccardo Morandin",
+                "TITLE":"Structure-preserving model order reduction of linear time-varying port-Hamiltonian systems"
+            },
+            {
+                "NAME":"Sam Otto",
+                "TITLE":"Identifying and estimating dynamical covariance matrices with hierarchical rank structure"
+            },
+            {
+                "NAME":"Elizabeth Qian",
+                "TITLE":"The fundamental subspaces of Ensemble Kalman Inversion"
+            },
+            {
+                "NAME":"Zoran Tomljanovic",
+                "TITLE":"Efficient solution of sequences of parametrized Lyapunov equations with applications"
+            },
+            {
+                "NAME":"Ralf Zimmerman",
+                "TITLE":"On the errors associated with manifold interpolation for model reduction applications"
             }
         ]
     },
