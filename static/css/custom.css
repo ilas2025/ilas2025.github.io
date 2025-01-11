@@ -79,7 +79,16 @@ div.button {
 
 @media (pointer:coarse) {
 
-    .menu-box {display: none; position: fixed; right: 0px; top: 0px; width: 100%; background-color: #00A0E9;}
+    .menu-box {
+        display: none; 
+        position: fixed; 
+        right: 0px; 
+        top: 0px; 
+        width: 100%; 
+        background-color: #00A0E9;
+        max-height: 100vh;
+        overflow-y: scroll;
+    }
     .menu {margin: 0px 32px 0px 0px; width: 100%}
     .menu li {display: block; width: 100%;}
     .menu a {display: block; padding: 10px; font-size: 24px;}
@@ -144,7 +153,11 @@ div.button {
 }
 
 @media only screen and (min-width: 500px) {
-    .menu-box {width: 500px;}
+    .menu-box {
+        width: 500px;
+        max-height: 100vh;
+        overflow-y: scroll;
+    }
 }
 
 @media only screen and (max-width: 620px) {
