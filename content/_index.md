@@ -19,9 +19,9 @@ see https://5000.taiwan.net.tw/index_en.html for more details.
 
 ### Important dates
 
-- 2024-0108: Call for [contributed talks and posters](program/contributed-and-poster/) 
+- 2025-0108: Call for [contributed talks and posters](program/contributed-and-poster/) 
 with a deadline **March 31**.
-- 2024-0108: [Registration](registration/) is now open!  The early bird price 
+- 2025-0108: [Registration](registration/) is now open!  The early bird price 
 is available until **March 31**.
 - 2024-1203: The application for 
 [student support](registration/student-support/) is now open, with a deadline 
