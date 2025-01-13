@@ -4,7 +4,7 @@ type: page
 date: 2023-04-03T22:24:53+08:00
 ---
 
-Please click the bottome below to register.
+Please read the instruction below and click the botton to register.
 
 {{< reg-button >}}
 
@@ -14,10 +14,10 @@ is under the same domain.
 1. Use **Registration Payment** to register.  You will receive an email for 
 payment information after you submitted the form.  Within one week after the 
 payment, you will receive another email for your receipt.
+[ [detailed instructions](/files/registration-payment-instructions.pdf) ]
 2. Use **Upload Abstract** to upload your abstract.  You may type $\TeX$ code
 in your title and abstract.  You may assume the `amsmath` package is loaded and 
 only copy and paste the content of your abstract to the form.
-
 ```tex
 \documentclass{article}
 \usepackage{amsmath}
