@@ -104,16 +104,17 @@ div.button {
 
     
     .burger-lines {
-	display: block;
-	height: 26px;
-	width: 32px;
-	/* position: absolute; */
-	/* top: 17px; */
-	/* left: 20px; */
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	margin: 5px;
+        display: block;
+        height: 26px;
+        width: 32px;
+        /* position: absolute; */
+        /* top: 17px; */
+        /* left: 20px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: 5px;
+        z-index: 20;
     }
 
     .burger-lines .line {
