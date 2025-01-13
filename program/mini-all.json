@@ -133,15 +133,15 @@
             },
             {
                 "NAME":"Massimiliano Fasi",
-                "TITLE":"TBA"
+                "TITLE":"Mixed-precision algorithms for the Sylvester matrix equation"
             },
             {
                 "NAME":"Xianming Gu",
-                "TITLE":"TBA"
+                "TITLE":"On $\\tau$-preconditioners for a quasi-compact difference scheme to Riesz fractional diffusion equations with variable coefficients"
             },
             {
                 "NAME":"Bruno Iannazzo",
-                "TITLE":"TBA"
+                "TITLE":"The Lambert $W$, the Wright $\\omega$ and the unwinding number of matrices"
             },
             {
                 "NAME":"Rudra Kamat",
@@ -149,7 +149,7 @@
             },
             {
                 "NAME":"Patrick Kürschner",
-                "TITLE":"TBA"
+                "TITLE":"Extrapolation for iterative solvers for matrix equations"
             },
             {
                 "NAME":"Beatrice Meini",

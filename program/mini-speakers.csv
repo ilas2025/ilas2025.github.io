@@ -25,11 +25,11 @@ MS4,Fred Roosta,Numerical linear algebra and optimization: the interplay between
 MS4,Arvind K. Saibaba,Efficient methods for hyperparameter estimation in Bayesian inverse problems
 MS5,Roberto Canogar,"New results on the matrix equation $X^*AX = I$, or how much of sesquilinear form is positive definite?"
 MS5,Fernando De Teran,The uniqueness of solution of systems of generalized Sylvester and $\star$-Sylvester equations
-MS5,Massimiliano Fasi,TBA
-MS5,Xianming Gu,TBA
-MS5,Bruno Iannazzo,TBA
+MS5,Massimiliano Fasi,Mixed-precision algorithms for the Sylvester matrix equation
+MS5,Xianming Gu,On $\tau$-preconditioners for a quasi-compact difference scheme to Riesz fractional diffusion equations with variable coefficients
+MS5,Bruno Iannazzo,"The Lambert $W$, the Wright $\omega$ and the unwinding number of matrices"
 MS5,Rudra Kamat,Simultaneous symplectic reduction of quadratic forms into normal forms
-MS5,Patrick Kürschner,TBA
+MS5,Patrick Kürschner,Extrapolation for iterative solvers for matrix equations
 MS5,Beatrice Meini,A combination of cyclic reduction and shift-and-deflate techniques for solving quadratic matrix equations
 MS5,Davide Palitta,A subspace-conjugate gradient method for linear matrix equations
 MS5,Steffen W. R. Werner,Efficiently solving nonstandard Riccati equations via indefinite factorizations
