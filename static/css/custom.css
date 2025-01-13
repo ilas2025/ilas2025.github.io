@@ -88,6 +88,7 @@ div.button {
         background-color: #00A0E9;
         max-height: 100vh;
         overflow-y: scroll;
+        z-index: 10;
     }
     .menu {margin: 0px 32px 0px 0px; width: 100%}
     .menu li {display: block; width: 100%;}
