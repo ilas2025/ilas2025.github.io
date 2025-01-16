@@ -296,6 +296,10 @@
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Jorge Delgado Gracia",
+                "TITLE":"TBA"
+            },
+            {
                 "NAME":"Shaun Fallat",
                 "TITLE":"TBA"
             },
@@ -321,6 +325,10 @@
             },
             {
                 "NAME":"Anna Vishnyakova",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Prateek Kumar Vishwakarma",
                 "TITLE":"TBA"
             },
             {
@@ -822,7 +830,7 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Si-Han Wang",
+                "NAME":"Szu-Han Lin",
                 "TITLE":"TBA"
             },
             {
@@ -893,6 +901,10 @@
         "TITLE":"Linear algebra applications in computational geometry",
         "ORGANIZERS":"Marco Sutti, Mei-Heng Yueh",
         "SPEAKERS":[
+            {
+                "NAME":"Gary Pui Tung Choi",
+                "TITLE":"TBA"
+            },
             {
                 "NAME":"Shu-Yung Liu",
                 "TITLE":"TBA"
