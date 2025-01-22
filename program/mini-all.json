@@ -50,8 +50,48 @@
         "ORGANIZERS":"Aida Abiad, Shaun Fallat, Michael Tait",
         "SPEAKERS":[
             {
-                "NAME":"TBA",
-                "TITLE":"TBA"
+                "NAME":"Jane Breen",
+                "TITLE":"Kemeny's constant and the impact of a single transition"
+            },
+            {
+                "NAME":"Richard Brualdi",
+                "TITLE":"(Reverse-)Grassmannian permutation matrices"
+            },
+            {
+                "NAME":"Himanshu Gupta",
+                "TITLE":"Minimum number of distinct eigenvalues of Johnson and Hamming graphs"
+            },
+            {
+                "NAME":"Carlos Hoppen",
+                "TITLE":"Spectral community detection in geometric random graphs"
+            },
+            {
+                "NAME":"Zilin Jiang",
+                "TITLE":"Beyond the classification theorem of Cameron, Goethals, Seidel and Shult"
+            },
+            {
+                "NAME":"Steve Kirkland",
+                "TITLE":"Combinatorial matrix theory and control of epidemic outbreaks"
+            },
+            {
+                "NAME":"Shahla Nasserasr",
+                "TITLE":"The strong spectral property of graph-associated matrices"
+            },
+            {
+                "NAME":"Rachel Quinlan",
+                "TITLE":"Idempotent alternating sign matrices"
+            },
+            {
+                "NAME":"Helena Šmigoc",
+                "TITLE":"Characteristic polynomials of structured nonnegative matrices"
+            },
+            {
+                "NAME":"Kevin Vander Meulen",
+                "TITLE":"Sign patterns that allow or require a nonderogatory matrix"
+            },
+            {
+                "NAME":"Wei Wang",
+                "TITLE":"Some recent results on the generalized spectral characterizations of graphs"
             }
         ]
     },
