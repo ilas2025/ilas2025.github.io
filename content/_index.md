@@ -89,8 +89,14 @@ July 1 ~ 2, 2025, Quezon City, Philippines
 
 ### Sponsorship
 
+<!-- - [Economic Development Bureau, Kaohsiung City Government](https://edbkcg.kcg.gov.tw/en/Default.aspx) -->
+- [Elsevier](https://www.elsevier.com/)
+- [International Linear Algebra Society](https://ilasic.org/)
 - [National Science and Technology Council](https://www.nstc.gov.tw/)
 - [National Sun Yat-sen University](https://www.nsysu.edu.tw/)
     * [Office of Research and Development](https://ora.nsysu.edu.tw/)
     * [Department of Applied Mathematics](https://math.nsysu.edu.tw/)
+- [SIAM Activity Group on Linear Algebra](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/linear-algebra/)
+- [Taylor & Francis Group](https://taylorandfrancis.com/about/)
+
 

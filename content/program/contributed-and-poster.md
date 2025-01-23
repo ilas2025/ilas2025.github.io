@@ -8,7 +8,7 @@ The deadline for submitting a contributed talk or a poster is **March 31**.
 
 ### Contributed talks
 
-To submit a poster.  Please visit the [registration]({{< ref "/registration/">}}) page
+To submit a poster.  Please visit the [registration]({{< ref "/registration">}}) page
 to submit the abstract through **Upload Abstract**.
 
 Within one week, you will receive an email of whether the contributed talk is 
