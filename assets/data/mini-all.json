@@ -1378,5 +1378,39 @@
                 "TITLE":"TBA"
             }
         ]
+    },
+    "MS33":{
+        "TITLE":"Norms of matrices, numerical range, applications of functional analysis to matrix theory",
+        "ORGANIZERS":"Ryan O'Loughlin, Jani Virtanen, Ilya Spitkovsky",
+        "SPEAKERS":[
+            {
+                "NAME":"Catalin Badea",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Ryan O'Loughlin",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Jani A. Virtanen",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Nikos Chalmoukis",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Panayiotis J. Psarrakos",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Carlo Bellavita",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Ilya Spitkovsky",
+                "TITLE":"TBA"
+            }
+        ]
     }
 }
