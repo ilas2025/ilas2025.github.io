@@ -52,6 +52,38 @@ It is recommended to stay near metro stations such as Yanchengpu (O2) or Cianjin
 Love Pier (C11), or Glory Pier (C10). These areas offer a variety of food 
 options while still being conveniently close to the conference venue.
 
+There are many options in these area with reasonable prices.  You may choose 
+your preferred way to book the hotel, e.g., Booking.com.
+
+In terms of location, we recommend the following hotels.
+
+#### Chateau de Chine KaoHsiung
+
+- {{< newpage "Google Maps"  "https://maps.app.goo.gl/nuPFkGFDSq9mzzLR7" >}}  
+- {{< newpage "Book through here" "https://kaohsiung.chateaudechine.com/en/index" >}}
+
+Close to the metro station Yanchengpu (O2).  
+
+#### CitySuites Kaohsiung Chenai
+
+- {{< newpage "Google Maps" "https://maps.app.goo.gl/tBgTB4Xrp3XuCFDTA" >}}  
+- {{< newpage "Book through here" "https://ec.citysuiteshotels.com/webhotel/0274" >}}
+
+Close to the light rail station Dayi Pier-2 (C12).  
+
+Use promotion code `ILAS2025` to get 100 NTD discount per night.
+
+#### CitySuites Kaohsiung Pier2
+
+- {{< newpage "Google Maps" "https://maps.app.goo.gl/8iZi5hHFkPyyPu4d7" >}}  
+- {{< newpage "Book through here" "https://ec.citysuiteshotels.com/webhotel/0569" >}}
+
+Close to the light rail station Dayi Pier-2 (C12).  Same company as CitySuites 
+Kaohsiung Chenai; indeed, the breakfast of this hotel is served in the Chenai 
+building.
+
+Use promotion code `ILAS2025` to get 100 NTD discount per night.
+
 ### Public transportation
 
 - [Kaohsiung Metro](https://www.krtc.com.tw/eng/)
