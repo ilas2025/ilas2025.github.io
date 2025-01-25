@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on ILAS2025</title><link>https://ilas2025.tw/about/</link><description>Recent content in About on ILAS2025</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 05 Aug 2023 23:36:06 +0800</lastBuildDate><atom:link href="https://ilas2025.tw/about/index.xml" rel="self" type="application/rss+xml"/><item><title>LOGO</title><link>https://ilas2025.tw/about/logo/</link><pubDate>Sat, 05 Aug 2023 23:36:06 +0800</pubDate><guid>https://ilas2025.tw/about/logo/</guid><description>The conference LOGO is inspired by the Great Harbor Bridge, which is a landmark in Kaohsiung featuring its streamlined design. It is also the first bridge that can rotate horizontally to let boats pass through.
-If the LOGO is viewed as a graph, then it is the graph with its graph6 string &amp;quot;G?}WNc&amp;quot; . It second smallest Laplacian eigenvalue is 1.6202543669426&amp;hellip;
-You may run the Sage code below
-g = Graph(&amp;#34;G?</description></item><item><title>Welcoming and Inclusiveness Statement</title><link>https://ilas2025.tw/about/inclusiveness-statement/</link><pubDate>Sat, 08 Apr 2023 15:37:17 +0800</pubDate><guid>https://ilas2025.tw/about/inclusiveness-statement/</guid><description>The ILAS2025 organizing team will adhere to the Welcoming and Inclusiveness Statement of ILAS and make the conference an friendly environment for all.
-Welcoming and Inclusiveness Statement The International Linear Algebra Society (ILAS) is comprised of a diverse global membership.
-It is the policy of ILAS to offer a welcoming and inclusive environment to all participants in its activities, including all its meetings and conferences, regardless of gender, gender identity or expression, sexual orientation, race, color, national or ethnic origin, religion or religious belief, age, marital status, disabilities, and field of expertise.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on ILAS2025</title><link>https://ilas2025.tw/about/</link><description>Recent content in About on ILAS2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 05 Aug 2023 23:36:06 +0800</lastBuildDate><atom:link href="https://ilas2025.tw/about/index.xml" rel="self" type="application/rss+xml"/><item><title>LOGO</title><link>https://ilas2025.tw/about/logo/</link><pubDate>Sat, 05 Aug 2023 23:36:06 +0800</pubDate><guid>https://ilas2025.tw/about/logo/</guid><description>&lt;p>The conference LOGO is inspired by the
+&lt;a href="https://khh.travel/en/attractions/detail/1186">Great Harbor Bridge&lt;/a>,
+which is a landmark in Kaohsiung featuring its streamlined design. It
+is also the first bridge that can rotate horizontally to let boats
+pass through.&lt;/p>
+&lt;p>If the LOGO is viewed as a graph, then it is the graph with its graph6
+string &lt;code>&amp;quot;G?}WNc&amp;quot;&lt;/code> . It second smallest Laplacian eigenvalue is
+1.6&lt;strong>2025&lt;/strong>43669426&amp;hellip;&lt;/p>
+&lt;p>You may run the Sage code below&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>g &lt;span style="color:#f92672">=&lt;/span> Graph(&lt;span style="color:#e6db74">&amp;#34;G?}WNc&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>L &lt;span style="color:#f92672">=&lt;/span> g&lt;span style="color:#f92672">.&lt;/span>laplacian_matrix()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>g&lt;span style="color:#f92672">.&lt;/span>show()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>show(L)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>print(sorted(L&lt;span style="color:#f92672">.&lt;/span>eigenvalues()))
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>or use &lt;a href="https://sagecell.sagemath.org/?q=kfxpwq">SageCell&lt;/a> to see the
+graph, the Laplacian matrix, and the eigenvalues.&lt;/p></description></item><item><title>Welcoming and Inclusiveness Statement</title><link>https://ilas2025.tw/about/inclusiveness-statement/</link><pubDate>Sat, 08 Apr 2023 15:37:17 +0800</pubDate><guid>https://ilas2025.tw/about/inclusiveness-statement/</guid><description>&lt;p>The ILAS2025 organizing team will adhere to the &lt;a href="https://ilasic.org/inclusiveness-statement/">Welcoming and
+Inclusiveness Statement&lt;/a>
+of ILAS and make the conference an friendly environment for all.&lt;/p>
+&lt;h3 id="welcoming-and-inclusiveness-statement">Welcoming and Inclusiveness Statement&lt;/h3>
+&lt;p>The International Linear Algebra Society (ILAS) is comprised of a
+diverse global membership.&lt;/p>
+&lt;p>It is the policy of ILAS to offer a welcoming and inclusive
+environment to all participants in its activities, including all its
+meetings and conferences, regardless of gender, gender identity or
+expression, sexual orientation, race, color, national or ethnic
+origin, religion or religious belief, age, marital status,
+disabilities, and field of expertise.&lt;/p></description></item></channel></rss>

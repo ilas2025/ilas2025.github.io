@@ -1,23 +1,1774 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The 26th Conference of the International Linear Algebra Society on ILAS2025</title><link>https://ilas2025.tw/</link><description>Recent content in The 26th Conference of the International Linear Algebra Society on ILAS2025</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 08 Jan 2025 04:29:42 +0800</lastBuildDate><atom:link href="https://ilas2025.tw/index.xml" rel="self" type="application/rss+xml"/><item><title>Contributed talks and posters</title><link>https://ilas2025.tw/program/contributed-and-poster/</link><pubDate>Wed, 08 Jan 2025 04:29:42 +0800</pubDate><guid>https://ilas2025.tw/program/contributed-and-poster/</guid><description>The deadline for submitting a contributed talk or a poster is March 31.
-Contributed talks To submit a poster. Please visit the registration page to submit the abstract through Upload Abstract.
-Within one week, you will receive an email of whether the contributed talk is approved.
-After that, you may register the conference.
-Posters To submit a poster. Please email ilas2025 [at] math [dot] nsysu [dot] edu [dot] tw the following information:</description></item><item><title>Student support</title><link>https://ilas2025.tw/registration/student-support/</link><pubDate>Sun, 24 Nov 2024 14:45:12 +0800</pubDate><guid>https://ilas2025.tw/registration/student-support/</guid><description>ILAS welcomes and encourages students to attend the ILAS conference. For this purpose, the society offers two types of support for PhD students.
-Registration fee-waiver Travel / accommodation support up to 700 USD The students who would like to apply for one or both of them should fill in the application form before January 31.
-Registration fee-waiver Students can join ILAS for free and benefit from the reduced registration fee.</description></item><item><title>Social events</title><link>https://ilas2025.tw/registration/social/</link><pubDate>Sun, 17 Nov 2024 19:26:41 +0800</pubDate><guid>https://ilas2025.tw/registration/social/</guid><description>Welcome reception The reception will be held at the conference venue on Monday evening.
-Taiwanese delicacies and beverage will be served to welcome the linear algbera community.
-Price: included in the registration fee
-Excursion The excursion will be held on Wednesday afternoon. There are two options.
-Option 1: Cruise tour in Kaoshiung Harbor (limited vacancies) As the largest harbor in Taiwan, Kaohsiung Harbor serves as both an economic and cultural hub.</description></item><item><title>Mini-symposia</title><link>https://ilas2025.tw/program/mini/</link><pubDate>Sun, 01 Sep 2024 17:04:33 +0800</pubDate><guid>https://ilas2025.tw/program/mini/</guid><description>Mini-symposia Embracing new opportunities in numerical linear algebra
-Pengwen Chen, Matthrew Lin Potential speakers Dong Bo, TBA King-Wah Eric Chu, TBA Akira Imakura, Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula Zhigang Jia, Matrix completion method from compressed sensing to color video inpainting Chiu-Yen Kao, TBA Matthew M. Lin, TBA Hao Liu, TBA Shinya Miyajima, TBA Meiyue Shao, TBA Li-Gang (Charles) Lin, Fast SDDRE-based maneuvering-target interception at pre-specified orientation Combinatorial matrix theory</description></item><item><title>Plenary speakers</title><link>https://ilas2025.tw/program/plenary/</link><pubDate>Sat, 18 Nov 2023 23:15:09 +0800</pubDate><guid>https://ilas2025.tw/program/plenary/</guid><description>Plenary Speakers Haim Avron (Tel Aviv University) SIAG/LA Lecture Dario Bini (Università di Pisa) Hans Schneider Prize Lecture Fan Chung Graham (University of California, San Diego) Fumio Hiai (Tohoku University) Daniel Kressner (EPFL) LAA Lecture Ren-Cang Li (University of Texas at Arlington) Karen Meagher (University of Regina) Polona Oblak (University of Ljubljana) Fernando De Terán Vergara (Universidad Carlos III de Madrid) LAMA Lecture Karol Życzkowski (Jagiellonian University)</description></item><item><title>LOGO</title><link>https://ilas2025.tw/about/logo/</link><pubDate>Sat, 05 Aug 2023 23:36:06 +0800</pubDate><guid>https://ilas2025.tw/about/logo/</guid><description>The conference LOGO is inspired by the Great Harbor Bridge, which is a landmark in Kaohsiung featuring its streamlined design. It is also the first bridge that can rotate horizontally to let boats pass through.
-If the LOGO is viewed as a graph, then it is the graph with its graph6 string &amp;quot;G?}WNc&amp;quot; . It second smallest Laplacian eigenvalue is 1.6202543669426&amp;hellip;
-You may run the Sage code below
-g = Graph(&amp;#34;G?</description></item><item><title>Copyright</title><link>https://ilas2025.tw/copyright/</link><pubDate>Sat, 10 Jun 2023 18:19:42 +0800</pubDate><guid>https://ilas2025.tw/copyright/</guid><description>The website was built by Jephian Lin using Hugo static site generators and Ananke theme.
-The photos and images used in this website are from the following resources:
-Courtesy of Yu-Ting Chen. Courtesy of Jephian Lin. Wikipedia. Kaohsiung Travel.</description></item><item><title>Local</title><link>https://ilas2025.tw/taiwan/local/</link><pubDate>Sun, 30 Apr 2023 23:19:29 +0800</pubDate><guid>https://ilas2025.tw/taiwan/local/</guid><description>Kaohsiung Kaohsiung is a big city in southern Taiwan. It is located on the southwest coast and is one of Taiwan&amp;rsquo;s largest cities. Kaohsiung has a population of around 2.7 million people.
-The city has a rich history with a former name Takow given by the indigenous people. It was originally a small fishing village many years ago. Over time, it grew into an important port city. Today, Kaohsiung is known for its busy harbor, which is one of the largest in the world.</description></item><item><title>Plan your trip</title><link>https://ilas2025.tw/taiwan/travel/</link><pubDate>Tue, 25 Apr 2023 23:49:51 +0800</pubDate><guid>https://ilas2025.tw/taiwan/travel/</guid><description>Visa Many countries are eligible for the visa exemption program, with a duration of stay of up to 90 days.
-In general, you may follow the instructions of the Bureau of Consular Affairs to apply for a visa.
-Airport With fewer flight options, Kaohsiung International Airport (KHH) is the closest airport to the conference venue.
-Taiwan Taoyuan International Airport (TPE) is the primary airport of Taiwan and is an important hub in Asia.</description></item><item><title>Welcoming and Inclusiveness Statement</title><link>https://ilas2025.tw/about/inclusiveness-statement/</link><pubDate>Sat, 08 Apr 2023 15:37:17 +0800</pubDate><guid>https://ilas2025.tw/about/inclusiveness-statement/</guid><description>The ILAS2025 organizing team will adhere to the Welcoming and Inclusiveness Statement of ILAS and make the conference an friendly environment for all.
-Welcoming and Inclusiveness Statement The International Linear Algebra Society (ILAS) is comprised of a diverse global membership.
-It is the policy of ILAS to offer a welcoming and inclusive environment to all participants in its activities, including all its meetings and conferences, regardless of gender, gender identity or expression, sexual orientation, race, color, national or ethnic origin, religion or religious belief, age, marital status, disabilities, and field of expertise.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The 26th Conference of the International Linear Algebra Society on ILAS2025</title><link>https://ilas2025.tw/</link><description>Recent content in The 26th Conference of the International Linear Algebra Society on ILAS2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 08 Jan 2025 04:29:42 +0800</lastBuildDate><atom:link href="https://ilas2025.tw/index.xml" rel="self" type="application/rss+xml"/><item><title>Contributed talks and posters</title><link>https://ilas2025.tw/program/contributed-and-poster/</link><pubDate>Wed, 08 Jan 2025 04:29:42 +0800</pubDate><guid>https://ilas2025.tw/program/contributed-and-poster/</guid><description>&lt;p>The deadline for submitting a contributed talk or a poster is &lt;strong>March 31&lt;/strong>.&lt;/p>
+&lt;h3 id="contributed-talks">Contributed talks&lt;/h3>
+&lt;p>To submit a poster. Please visit the &lt;a href="https://ilas2025.tw/registration/">registration&lt;/a> page
+to submit the abstract through &lt;strong>Upload Abstract&lt;/strong>.&lt;/p>
+&lt;p>Within one week, you will receive an email of whether the contributed talk is
+approved.&lt;br>
+After that, you may register the conference.&lt;/p>
+&lt;h3 id="posters">Posters&lt;/h3>
+&lt;p>To submit a poster. Please email
+&lt;code>ilas2025 [at] math [dot] nsysu [dot] edu [dot] tw&lt;/code>
+the following information:&lt;/p></description></item><item><title>Student support</title><link>https://ilas2025.tw/registration/student-support/</link><pubDate>Sun, 24 Nov 2024 14:45:12 +0800</pubDate><guid>https://ilas2025.tw/registration/student-support/</guid><description>&lt;p>ILAS welcomes and encourages students to attend the ILAS conference.
+For this purpose, the society offers two types of support for PhD students.&lt;/p>
+&lt;ul>
+&lt;li>Registration fee-waiver&lt;/li>
+&lt;li>Travel / accommodation support up to 700 USD&lt;/li>
+&lt;/ul>
+&lt;p>The students who would like to apply for one or both of them should fill in the
+&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe-OUeEmCK8_uB_SmixpGXKQ-BzCykNfe9ndyRxzjqmsDArNg/viewform?usp=sf_link">application form&lt;/a>
+before &lt;strong>January 31&lt;/strong>.&lt;/p>
+&lt;h2 id="registration-fee-waiver">Registration fee-waiver&lt;/h2>
+&lt;p>Students can &lt;a href="https://ilasic.org/join-ilas/">join ILAS&lt;/a> for free
+and benefit from the reduced registration fee.&lt;/p>
+&lt;p>For students who are ILAS members, the basic registration fee is 1,700 NTD
+(approximately 55 USD).
+ILAS offers fee-waivers; to apply for one, please prepare&lt;/p></description></item><item><title>Social events</title><link>https://ilas2025.tw/registration/social/</link><pubDate>Sun, 17 Nov 2024 19:26:41 +0800</pubDate><guid>https://ilas2025.tw/registration/social/</guid><description>&lt;h2 id="welcome-reception">Welcome reception&lt;/h2>
+&lt;p>The reception will be held at the conference venue on Monday evening.&lt;br>
+Taiwanese delicacies and beverage will be served to welcome the linear algbera
+community.&lt;/p>
+&lt;p>Price: included in the registration fee&lt;/p>
+&lt;h2 id="excursion">Excursion&lt;/h2>
+&lt;p>The excursion will be held on Wednesday afternoon. There are two options.&lt;/p>
+&lt;h3 id="option-1-cruise-tour-in-kaoshiung-harbor-limited-vacancies">Option 1: Cruise tour in Kaoshiung Harbor (limited vacancies)&lt;/h3>
+&lt;p>As the largest harbor in Taiwan, Kaohsiung Harbor serves as both an economic
+and cultural hub. In addition to its stunning tropical ocean views, the harbor
+is surrounded by a mix of modern and historic landmarks, such as the Kaohsiung
+Music Center, the 85 Sky Tower, the Cihou Lighthouse, and the British Consulate
+at Takow. This tour will begin with a viewing of the
+&lt;a href="https://khh.travel/en/attractions/detail/1186">Great Harbor Bridge&lt;/a>
+rotation show, followed by a cruise tour of
+&lt;a href="https://khh.travel/en/attractions/detail/399">Kaohsiung Harbor&lt;/a>.&lt;/p></description></item><item><title>Mini-symposia</title><link>https://ilas2025.tw/program/mini/</link><pubDate>Sun, 01 Sep 2024 17:04:33 +0800</pubDate><guid>https://ilas2025.tw/program/mini/</guid><description>&lt;h3 id="mini-symposia">Mini-symposia&lt;/h3>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+
+
+
+
+ 
+ 
+ 
+
+
+&lt;ol>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Embracing new opportunities in numerical linear algebra&lt;/span>&lt;br />
+ Pengwen Chen, Matthrew Lin
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Dong Bo, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>King-Wah Eric Chu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Akira Imakura, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Zhigang Jia, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Matrix completion method from compressed sensing to color video inpainting&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Chiu-Yen Kao, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Matthew M. Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hao Liu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shinya Miyajima, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Meiyue Shao, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Li-Gang (Charles) Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Fast SDDRE-based maneuvering-target interception at pre-specified orientation&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Combinatorial matrix theory&lt;/span>&lt;br />
+ Aida Abiad, Shaun Fallat, Michael Tait
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Jane Breen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Kemeny&amp;#39;s constant and the impact of a single transition&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Richard Brualdi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">(Reverse-)Grassmannian permutation matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Himanshu Gupta, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Minimum number of distinct eigenvalues of Johnson and Hamming graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Carlos Hoppen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Spectral community detection in geometric random graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Zilin Jiang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Beyond the classification theorem of Cameron, Goethals, Seidel and Shult&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Steve Kirkland, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Combinatorial matrix theory and control of epidemic outbreaks&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shahla Nasserasr, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The strong spectral property of graph-associated matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Rachel Quinlan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Idempotent alternating sign matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Helena Šmigoc, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Characteristic polynomials of structured nonnegative matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Kevin Vander Meulen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Sign patterns that allow or require a nonderogatory matrix&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Wei Wang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Some recent results on the generalized spectral characterizations of graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Matrix inequalities with applications&lt;/span>&lt;br />
+ D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>TBA, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Linear algebra methods for inverse problems and data assimilation&lt;/span>&lt;br />
+ Julianne Chung, Arvind K. Saibaba
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Davide Bianchi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A data-dependent regularization method based on the graph Laplacian&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jonas Bresch, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Matrix-free stochastic calculation of operator norms without using adjoints&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Daniela Calvetti, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The linear algebra of space-time regularization for time-dependent distributed inverse problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Matthias Chung, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Data-driven inverse problems via autoencoder&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Tiangang Cui, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Tensor-train methods for sequential state and parameter estimation in state-space models&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Roberto Diaz Martinez, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the inverse eigenvalue problem of a graph&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Srinivas Eswar, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Exchange algorithms for optimal experimental design&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Colin Fox, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Iterative samplers&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mirjeta Pasha, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Efficient dynamic image reconstruction with motion estimation&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Vishwas Rao, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Efficient randomization techniques for data assimilation&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Fred Roosta, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Numerical linear algebra and optimization: the interplay between inner and outer iterations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Arvind K. Saibaba, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Efficient methods for hyperparameter estimation in Bayesian inverse problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Advances in matrix equations: Theory, computations, and applications&lt;/span>&lt;br />
+ Andrii Dmytryshyn, Davide Palitta
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Roberto Canogar, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">New results on the matrix equation $X^*AX = I$, or how much of sesquilinear form is positive definite?&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Fernando De Teran, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The uniqueness of solution of systems of generalized Sylvester and $\star$-Sylvester equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Massimiliano Fasi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Mixed-precision algorithms for the Sylvester matrix equation&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Xianming Gu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On $\tau$-preconditioners for a quasi-compact difference scheme to Riesz fractional diffusion equations with variable coefficients&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Bruno Iannazzo, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The Lambert $W$, the Wright $\omega$ and the unwinding number of matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Rudra Kamat, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Simultaneous symplectic reduction of quadratic forms into normal forms&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Patrick Kürschner, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Extrapolation for iterative solvers for matrix equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Beatrice Meini, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A combination of cyclic reduction and shift-and-deflate techniques for solving quadratic matrix equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Davide Palitta, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A subspace-conjugate gradient method for linear matrix equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Steffen W. R. Werner, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Efficiently solving nonstandard Riccati equations via indefinite factorizations&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Model Reduction&lt;/span>&lt;br />
+ Christopher Beattie, Zlatko Drmać
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Christopher Beattie, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Data based reduced order modeling for port-Hamiltonian descriptor systems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Nicolas Boullé, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Multiplicative dynamic mode decomposition&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Saifon Chatarantabut, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Nonlinear model reduction using machine learning on Grassmann manifolds&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Eric de Sturler, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Model reduction techniques for dynamic and streaming-type inverse problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Zlatko Drmač, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Koopman mode decomposition for nonlinear model reduction&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ionut Farcas, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Distributed computing for physics-based data-driven reduced modeling at scale&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ion Victor Gosea, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Model reduction by rational approximation: harnessing the advantages of various barycentric representations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Riccardo Morandin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Structure-preserving model order reduction of linear time-varying port-Hamiltonian systems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sam Otto, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Identifying and estimating dynamical covariance matrices with hierarchical rank structure&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Elizabeth Qian, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The fundamental subspaces of Ensemble Kalman Inversion&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Zoran Tomljanovic, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Efficient solution of sequences of parametrized Lyapunov equations with applications&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ralf Zimmerman, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the errors associated with manifold interpolation for model reduction applications&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Linear algebra and quantum information science&lt;/span>&lt;br />
+ Hao-Wei Huang, Ray-Kuang Lee
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>TBA, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Tensor and quantum information science&lt;/span>&lt;br />
+ Shmuel Friedland, Chi-Kwong Li
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Lieven De Lathauwer, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Michal Eckstein, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shmuel Friedland, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Gilad Gour, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Pawel Horodecki, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sooyeong Kim, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Chi-Kwong Li, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Lek-Heng Lim, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Tomasz Miller, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jiawang Nie, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Raymond Sze, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jeroen Zuiddam, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Karol Życzkowski, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Total positivity&lt;/span>&lt;br />
+ Projesh Nath Choudhury, Apoorva Khare
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Sujit Sakharam Damase, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jorge Delgado Gracia, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shaun Fallat, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Juergen Garloff, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Tanvi Jain, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Olga Katkova, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Apoorva Khare, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mihai Putinar, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Anna Vishnyakova, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Prateek Kumar Vishwakarma, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shivangi Yadav, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Matrix means and related topics&lt;/span>&lt;br />
+ Trung Hoa Dinh, Sejong Kim, Tin-Yau Tam
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Hayoung Choi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Geometric mean of T-positive definite tensors&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Trung Hoa Dinh, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Operator means and quantum divergences&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Huajun Huang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Progress of near orders on matrix means&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Knut Hüper, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Geometric means on weakly symmetric spaces and their computation&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sejong Kim, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">In-betweenness and Heinz mean type inequalities&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Luís Machado, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Spherical triangle configurations with invariant geometric mean&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Milán Mosonyi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Applications of matrix geometric means to quantum hypothesis testing&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Miklós Pálfia, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Law of large numbers for generalized operator means&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hiroyuki Osaka, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The stability properties under operator means&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Tin-Yau Tam, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Geometric inequalities for matrix means&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Trung Dung Vuong, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On new spectral geometric mean and related problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Takeaki Yamazaki, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Stability of AN-operators under functional calculus&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Structured matrix computations and its applications&lt;/span>&lt;br />
+ Tsung-Ming Huang, Yueh-Cheng Kuo
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Chun-Yueh Chiang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hung-Yuan Fan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yung-Ta Li, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ching-Sung Liu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Xing-Long Lyu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Juntao Sun, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Zhong-Heng Tan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Xiang Wang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yiqian Wang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Chin-Tien Wu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shuo Zhang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Preserver problems&lt;/span>&lt;br />
+ Lajos Molnár, Ming-Cheng Tsai, Ngai-Ching Wong
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Osamu Hatori, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A spectral property of a uniformly bounded operator&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Takeshi Miura, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Surjective isometries on Banach spaces with derivatives&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Lajos Molnár, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Relative entropy preserving maps on positive cones in operator algebras&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Michiya Mori, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the Scottish Book Problem 155 by Mazur and Sternbach&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shiho Oi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Periodic surjective isometries on Banach algebras&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Antonio Peralta, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ed Poon, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Linear preservers of parallel pairs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Saikat Roy, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Preservation of orthogonality by unitary and isometric dilations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Peter Šemrl, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Local order isomorphisms on operator and matrix domains&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sushil Singla, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Linear maps preserving product of involutions&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ryotaro Tanaka, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On homeomorphisms between geometric structure spaces of primitive $C^*$-algebras&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Dániel Virosztek, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Isometries and metric properties of quantum Wasserstein distances&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Advances in QR factorizations&lt;/span>&lt;br />
+ Sivan Toledo
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Takeshi Fukaya, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A Cholesky QR type algorithm for computing tall-skinny QR factorization with column pivoting&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mark Gates, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">PAQR: Pivoting avoiding QR factorization&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Daniel B. Szyld, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Analysis of randomized Householder-Cholesky QR Factorization with Multisketching&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sivan Toledo, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Parallel-in-time Kalman smoothing using a QR factorization and selective inversion&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Pencils, polynomial, and rational matrices&lt;/span>&lt;br />
+ Froilán Dopico, Vanni Noferini, Alicia Roca
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Shreemayee Bora, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The distance to bounded realness revisited&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Andrii Dmytryshyn, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Minimal indices through perturbation behavior&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Froilán Dopico, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Miryam Gnazzo, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Stable extraction of eigenpairs from a subspace for generalized eigenvalue problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Antti Hannukainen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Solution of multiparametric eigenproblems arising from finite element analysis&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ding Lu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Compositional optimization of Rayleigh quotients and related distance problems for matrix polynomials&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Steven Mackey, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Sign characteristic in the inverse problem for Hermitian matrix polynomials&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Vanni Noferini, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Invertible bases and root vectors for analytic matrix-valued functions&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Lauri Nyman, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Distance to stability for matrix pencils&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Javier Pérez, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Error analysis of compact Arnoldi methods for linearized polynomial eigenvalue problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Alicia Roca, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Row completion of rational matrices and partial prescription of structural data&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Punit Sharma, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Eigenvalue backward errors of Rosenbrock systems&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Graphs and their eigenvalues: Celebrating the work of Fan Chung Graham&lt;/span>&lt;br />
+ Mark Kempton
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Sinan Aksoy, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Reid Anderson, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Steve Butler, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sebastian Cioaba, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Josh Cooper, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mark Kempton, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Norhaus-Gaddum type problems for graph spectra&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Franklin Kenter, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Lincoln Lu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sam Spiro, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Michael Tait, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Zhiyu Wang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Stephen Young, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Approximations and errors in Krylov-based solvers&lt;/span>&lt;br />
+ Xin Liu, Bastien Vieublé
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Tomohiro Sogabe, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Matrix function computations using the double exponential formulas&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Eda Oktay, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Mixed precision parallel operations for tensor train arithmetic&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Weiguo Gao, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An optimal error bound for shifted CholeskyQR3 in oblique inner product&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yuxin Ma, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Backward stability of sketched GMRES&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Chensong Zhang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Study on a mixed-precision AMG preconditioning method for heterogeneous architectures&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Alexis Montoison, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">MinAres and CAr: New Krylov methods for symmetric linear systems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Xiaobo Liu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Generalizing reduced rank extrapolation to low-rank matrix sequences&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Martina Iannacito, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A subspace-conjugate gradient method for linear matrix equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Qinmeng Zou, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the loss of orthogonality of modified Gram-Schmidt and its low-synchronization variants&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Oleg Balabanov, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Preconditioning linear systems via low-precision randomized range deflation&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Bastien Vieublé, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Mixed precision preconditioning strategies for GMRES&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Graphs and matrices in honor of Leslie Hogben&amp;#39;s retirement&lt;/span>&lt;br />
+ Minerva Catral, Mary Flagg
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Aida Abiad, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Recent developments of switching methods for the construction of cospectral graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Louis Deaett, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shaun Fallat, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Leslie’s influence on recent advances on the inverse eigenvalue problem for a graph&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mary Flagg, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Reconfiguration: Zero forcing parameters and beyond&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Tracy Hall, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Minimum degree and minimum rank&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Franklin Kenter, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Anzila Laikhuram, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inverse eigenvalue problems for discrete Schrödinger operators of a graph&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jephian C.-H. Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inverse eigenvalue problem for a graph: A strong community&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Michael Tait, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Extremal eigenvalue problems on the normalized distance Laplacian&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Derek Young, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Minimum rank and zero forcing parameters for cobipartite graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">New methods in numerical multilinear algebra&lt;/span>&lt;br />
+ Xiaobo Liu, Anna Ma, Elizabeth Newman, Eda Oktay
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Maolin Che, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Efficient algorithms for Tucker decomposition via approximate matrix multiplication&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Longxiu Huang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Three-dimensional signal processing: Dynamical sampling via tensor products&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Joe Kileel, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">New approach to streaming data tensors&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hanyu Li, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Double-Tucker decomposition&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Anna Ma, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Stochastic iterative methods for solving tensor linear systems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Elizabeth Newman, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Optimal matrix-mimetic tensor algebras&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jing Niu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A tensor Alternating Anderson-Richardson method for solving multilinear systems with $\mathcal{M}$-tensors&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Junjun Pan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Multi-separable tensor decomposition&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jingmei Qiu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Adaptive tensor cross approximation&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Leonardo Robol, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A multilinear Nystr ̈om algorithm for low-rank approximation of tensors in Tucker format&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Explicit and hidden asymptotic structures, GLT Analysis, and applications&lt;/span>&lt;br />
+ Sven-Erik Ekström, David Meadon
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Antonio Cicone, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Signal processing of spherical data. From real life to mathematical challenges&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sven-Erik Ekström, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The spectrum of Toeplitz matrices with two non-zero off-diagonals&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Dario Giandinoto, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Banded block Toeplitz matrices with real asymptotic spectrum&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Asim Ilyas, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">GLT analysis and efficient regularing reconstruction for Inverse source problems in generalized diffusion equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Muhammad Faisal Khan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Matrix-sequences of geometric means in the case of hidden (asymptotic) structures&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Valerio Loi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Spectral analysis, approximation, and preconditioning for block structured matrix-sequences&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>David Meadon, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Trace approximation using GLT theory and the matrix-less method&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Stefano Serra-Capizzano, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">GLT analysis and beyond&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Boris Shapiro, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Rosita Luisa Sormani, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">GLT-based numerical solvers for fractional equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Manifold learning and statistical applications&lt;/span>&lt;br />
+ Chih-Wei Chen, ShengLi Tzeng
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Chih-Wei Chen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Guangliang Chen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Szu-Chi Chung, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hsin-Hsiung Bill Huang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shih-Hao Huang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Terence Huang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>ShengLi Tzeng, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shao-Hsuan Wang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Szu-Han Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sing-Yuan Yeh, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Linear algebra techniques in graph theory&lt;/span>&lt;br />
+ Milica Anđelić, Zhibin Du
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Milica Anđelić, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Laplacian eigenvalues of weighted threshold graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Enide Andrade, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Doubly stochastic matrices and graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Anirban Banerjee, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Spectral study of hypergraphs using linear operators&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sasmita Barik, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Limit points of the smallest positive eigenvalues of graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mushtaq Ahmad Bhat, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the trace norm of $A_\alpha$ matrix of directed graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Projesh Nath Choudhury, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Distance matrices of trees: Invariants and in a unified framework&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Joshua Cooper, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Eigenvalues of Steiner distance hypermatrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Zhibin Du, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Asymptotic normality criteria of coefficients of a polynomial and their applications in graph polynomials&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Susana Furtado, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Recent developments on efficient vectors for pairwise comparison matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hongying Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Improved lower bound on the energy of line graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Chen Ouyang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Multi-agent formation control, gain graph theory and weighted directed graph theory&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shariefuddin Pirzada, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the sum of largest eigenvalues of the distance Laplacian matrix of graphs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Krishnan Sivasubramanian, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The $2$-Steiner distance matrix of a tree&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Linear algebra applications in computational geometry&lt;/span>&lt;br />
+ Marco Sutti, Mei-Heng Yueh
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Gary Pui Tung Choi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shu-Yung Liu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Advances in Krylov subspace methods and their applications&lt;/span>&lt;br />
+ Michele Rinelli, Igor Simunec
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Benjamin Carrel, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Low-rank exponential integrators leveraged by rational Krylov techniques&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Fabio Durastante, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Krylov: Better, faster, parallel&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Amin Faghih, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Krylov subspaces and Sobolev functions&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yuwen Li, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Reduced Krylov basis methods for parametric PDEs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Stefano Massei, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An error formula for block rational Krylov approximation of matrix functions&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mariarosa Mazza, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Rational approximations of fractional power operators applied to preconditioning&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Stefano Pozza, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Krylov subspace methods and the $\star$-algebra&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Michele Rinelli, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Krylov techniques for estimating spectral gaps of sparse symmetric matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Nian Shao, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Lanczos with compression for symmetric eigenvalue problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Igor Simunec, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-memory Lanczos method with rational Krylov compression&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Raf Vandebril, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On matrix polynomials and block Krylov&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Nonnegative and related families of matrices&lt;/span>&lt;br />
+ Raphael Loewy, Julio Moro
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Jürgen Garloff, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Variation diminution under uncertainty&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Priyanks Joshi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Arbitrarily finely divisible matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ana Julio, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">About the persymmetric nonnegative inverse eigenvalue problem in low dimension&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Raphael Loewy, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the structure of the cone of polynomials preserving nonnegative matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>C. Marijuán, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Diagonalizably realizable implies universally realizable&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>H. Monterde, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Perfect state transfer between nonnegative real pure states&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>M. Pisonero, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The nonnnegative inverse eigenvalue problem and positive realizations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>K. C. Shivakumar, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inverse $Z$-matrices and bidiagonal south-west matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Enumerative/algebraic combinatorics and matrices&lt;/span>&lt;br />
+ Yen-Jen Cheng, Sen-Peng Eu, Yuan-Hsun Lo
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Arvind Ayyer, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Combinatorial proofs of multivariate Cayley–Hamilton theorems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Lei Cao, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">$123$-avoiding and $123$-forcing matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sen-Peng Eu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Combinatorial proof of determinant of Petrie matrix&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yuan-Hsun Lo, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On shift-full-rank matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Xiao-Nan Lu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Ternary circulant almost orthogonal arrays with (near) $D$-optimality and good binary sequence pairs&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Harry Richman, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Tree distance matrices and their minors&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shen-Fu Tsai, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Extremal and saturation function of multidimensional $0$-$1$ matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Utilizing structure to achieve low-complexity algorithms for data science, engineering, and physics&lt;/span>&lt;br />
+ Sirani M. Perera, Natalia Bebiano
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Hansaka Aluvihare, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-complexity LSTM network to realize multibeam beamforming&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Natalia Bebiano, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Revisiting an inverse problem proposed by Boor and Golub&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Paola Boito, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Decay bounds for inverses of banded matrices via quasiseparable structure&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yuli Eidelman, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Quasiseparable representation of matrices in numerical solution of evolutionary equations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Luca Gemignani, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Some numerical methods for nonlocal boundary value problems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Kshitij Khare, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Fast computation for high-dimensional Bayesian dynamic factor models&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ilias Kotsireas, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-complexity Algorithm for generating Legendre pairs using linear algebra approaches&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Xianqi Li, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Conditional denoising diffusion model-based robust MR image reconstruction from highly undersampled data&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sirani M. Perera, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-complexity operator learning for dynamical systems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mikhail Tyaglov, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A generalization of the Hermite-Biehler theorem and its applications to tridiagonal matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Aaron Welters, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Structural constraints and Bessmertnyi realizations for response matrices of two-element-kind networks&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Wei-Ru Xu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Revisiting an inverse problem proposed by Boor and Golub&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Linear algebra education&lt;/span>&lt;br />
+ Rachel Quinlan, Sepideh Stewart
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Fernando De Teran Vergara, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jephian C.-H. Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Steve Mackey, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Rachel Quinlan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Helena Šmigoc, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sepideh Stewart, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>David Strong, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Frank Uhlig, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">From matrix theory to Euclidean Jordan algebras, FTvN systems, and beyond&lt;/span>&lt;br />
+ Juyoung Jeong, David Sossa
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>M. Seetharama Gowda, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Commutativity concepts relative to transformation/matrix groups and semi-FTvN systems&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Juyoung Jeong, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Bounds on the eigenvalues of Jordan products&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Michael Orlitzky, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Jordan and isometric cone automorphisms in Euclidean Jordan algebras&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>David Sossa, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Analysis of optimization problems on eigenvalue orbits in Euclidean Jordan algebras&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Matrix functions and related topics&lt;/span>&lt;br />
+ Yuki Seo, Takeaki Yamazaki
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Fumio Hiai, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Joint concavity/convexity of matrix trace functions for geometric type means&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Masatoshi Ito, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The weighted power difference mean and its generalization&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Kenta Kojin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An introduction to noncommutative function theory&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jie Meng, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Convergence properties of sequences related to the Ando-Li-Mathias construction and to the weighted Cheap mean&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Mohammad Sal Moslehian, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Characterizations of the tracial functionals on matrix and operator algebras&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hiromichi Ohno, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Generalization of Böttcher-Wenzel inequality and its application&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Takashi Sano, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Convex matrix functions&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yuki Seo, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Matrix trace inequalities related to quantum Tsallis relative entropies&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Pengpeng Xie, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Computing the dual matrix exponential&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Bohemian matrices: Theory, applications, and explorations&lt;/span>&lt;br />
+ Eunice Y. S. Chan, Robert M. Corless
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Eunice Y. S. Chan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Numerical stability of algebraic linearizations&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Robert M. Corless, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The maximum spread of small Bohemian matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Laureano Gonzalez-Vega, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Bohemian correlation matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jamie Pommersheim, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">More on eigenvalue gaps of integer matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Kate Stange, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Algebraic starscapes and Bohemian matrices&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Matrix decompositions and applications&lt;/span>&lt;br />
+ Kennett Dela Rosa, Daryl Granario, Hermie Monterde
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>JD Botha, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jonathan Caalim, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Angelo Galimba, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ivan Gargate, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Michael Gargate, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Xin Hou, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Paolo Joven, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Products of skew involutions&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jenny Lualhati, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The $\phi_S$ polar decomposition when $S$ is skew-symmetric&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Dennis Merino, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Eloise Misa, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The algebra generated by nilpotent elements in a matrix centralizer&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Clement de Seguins Pazzis, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Juan Paolo Santos, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On commutators of unipotent matrices of index $2$&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Advances in matrix manifold optimization&lt;/span>&lt;br />
+ Zehua Lai
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>P.-A. Absil, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Nicolas Boumal, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ya-Ping Hsieh, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Nicu Sebe, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Anthony Man-Cho So, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Suvrit Sra, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Kim-Chuan Toh, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Nick Vannieuwenhoven, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Melanie Weber, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Chun-Hao Yang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yifan Zhang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+ 
+ 
+ &lt;li>
+ &lt;span style="color: #009944;">Norms of matrices, numerical range, applications of functional analysis to matrix theory&lt;/span>&lt;br />
+ Ryan O&amp;#39;Loughlin, Jani Virtanen, Ilya Spitkovsky
+ &lt;details>
+ &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
+ &lt;ul>
+ 
+ &lt;li>Catalin Badea, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ryan O&amp;#39;Loughlin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jani A. Virtanen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Nikos Chalmoukis, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Panayiotis J. Psarrakos, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Carlo Bellavita, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Ilya Spitkovsky, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;/ul>
+ &lt;/details>
+ &lt;/li>
+ 
+&lt;/ol>
+
+&lt;h3 id="call-for-proposals">Call for proposals&lt;/h3>
+&lt;p>The ILAS2025 conference welcomes all topics related to linear algebra. Each
+mini-symposium will feature between 4 to 12 speakers, and
+each talk has 25 minutes, including the questions and discussion.
+If you are interested in
+organizing a mini-symposium at ILAS2025, please use the proposal template
+(&lt;a href="https://ilas2025.tw/files/mini-template.tex">tex&lt;/a> &lt;a href="https://ilas2025.tw/files/mini-template.pdf">pdf&lt;/a>)
+to create your proposal and submit it through
+&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdD_ANPpvUJxmTX0WzARxjd7nOC7apPPfa86_mtD5d509Rs3g/viewform?usp=sf_link">the form&lt;/a>.&lt;/p></description></item><item><title>Plenary speakers</title><link>https://ilas2025.tw/program/plenary/</link><pubDate>Sat, 18 Nov 2023 23:15:09 +0800</pubDate><guid>https://ilas2025.tw/program/plenary/</guid><description>&lt;h3 id="plenary-speakers">Plenary Speakers&lt;/h3>
+&lt;ul>
+&lt;li>Haim Avron (Tel Aviv University) &lt;strong>SIAG/LA Lecture&lt;/strong>&lt;/li>
+&lt;li>Dario Bini (Università di Pisa) &lt;strong>Hans Schneider Prize Lecture&lt;/strong>&lt;/li>
+&lt;li>Fan Chung Graham (University of California, San Diego)&lt;/li>
+&lt;li>Fumio Hiai (Tohoku University)&lt;/li>
+&lt;li>Daniel Kressner (EPFL) &lt;strong>LAA Lecture&lt;/strong>&lt;/li>
+&lt;li>Ren-Cang Li (University of Texas at Arlington)&lt;/li>
+&lt;li>Karen Meagher (University of Regina)&lt;/li>
+&lt;li>Polona Oblak (University of Ljubljana)&lt;/li>
+&lt;li>Fernando De Terán Vergara (Universidad Carlos III de Madrid) &lt;strong>LAMA Lecture&lt;/strong>&lt;/li>
+&lt;li>Karol Życzkowski (Jagiellonian University)&lt;/li>
+&lt;/ul></description></item><item><title>LOGO</title><link>https://ilas2025.tw/about/logo/</link><pubDate>Sat, 05 Aug 2023 23:36:06 +0800</pubDate><guid>https://ilas2025.tw/about/logo/</guid><description>&lt;p>The conference LOGO is inspired by the
+&lt;a href="https://khh.travel/en/attractions/detail/1186">Great Harbor Bridge&lt;/a>,
+which is a landmark in Kaohsiung featuring its streamlined design. It
+is also the first bridge that can rotate horizontally to let boats
+pass through.&lt;/p>
+&lt;p>If the LOGO is viewed as a graph, then it is the graph with its graph6
+string &lt;code>&amp;quot;G?}WNc&amp;quot;&lt;/code> . It second smallest Laplacian eigenvalue is
+1.6&lt;strong>2025&lt;/strong>43669426&amp;hellip;&lt;/p>
+&lt;p>You may run the Sage code below&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>g &lt;span style="color:#f92672">=&lt;/span> Graph(&lt;span style="color:#e6db74">&amp;#34;G?}WNc&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>L &lt;span style="color:#f92672">=&lt;/span> g&lt;span style="color:#f92672">.&lt;/span>laplacian_matrix()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>g&lt;span style="color:#f92672">.&lt;/span>show()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>show(L)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>print(sorted(L&lt;span style="color:#f92672">.&lt;/span>eigenvalues()))
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>or use &lt;a href="https://sagecell.sagemath.org/?q=kfxpwq">SageCell&lt;/a> to see the
+graph, the Laplacian matrix, and the eigenvalues.&lt;/p></description></item><item><title>Copyright</title><link>https://ilas2025.tw/copyright/</link><pubDate>Sat, 10 Jun 2023 18:19:42 +0800</pubDate><guid>https://ilas2025.tw/copyright/</guid><description>&lt;p>The website was built by Jephian Lin using &lt;a href="https://gohugo.io/">Hugo&lt;/a>
+static site generators and
+&lt;a href="https://github.com/theNewDynamic/gohugo-theme-ananke">Ananke&lt;/a> theme.&lt;/p>
+&lt;p>The photos and images used in this website are from the following resources:&lt;/p>
+&lt;ul>
+&lt;li>Courtesy of Yu-Ting Chen.&lt;/li>
+&lt;li>Courtesy of Jephian Lin.&lt;/li>
+&lt;li>Wikipedia.&lt;/li>
+&lt;li>&lt;a href="https://khh.travel/en/">Kaohsiung Travel&lt;/a>.&lt;/li>
+&lt;/ul></description></item><item><title>Local</title><link>https://ilas2025.tw/taiwan/local/</link><pubDate>Sun, 30 Apr 2023 23:19:29 +0800</pubDate><guid>https://ilas2025.tw/taiwan/local/</guid><description>&lt;h3 id="kaohsiung">Kaohsiung&lt;/h3>
+&lt;p>Kaohsiung is a big city in southern Taiwan. It is located on the southwest coast
+and is one of Taiwan&amp;rsquo;s largest cities. Kaohsiung has a population of around 2.7
+million people.&lt;/p>
+&lt;p>The city has a rich history with a former name Takow given by the indigenous
+people. It was originally a small fishing village many years ago. Over time, it
+grew into an important port city. Today, Kaohsiung is known for its busy harbor,
+which is one of the largest in the world.&lt;/p></description></item><item><title>Plan your trip</title><link>https://ilas2025.tw/taiwan/travel/</link><pubDate>Tue, 25 Apr 2023 23:49:51 +0800</pubDate><guid>https://ilas2025.tw/taiwan/travel/</guid><description>&lt;h3 id="visa">Visa&lt;/h3>
+&lt;p>Many countries are eligible for the &lt;a href="https://www.boca.gov.tw/cp-149-4486-7785a-2.html">visa exemption
+program&lt;/a>, with a
+duration of stay of up to 90 days.&lt;/p>
+&lt;p>In general, you may follow the instructions of the &lt;a href="https://www.boca.gov.tw/np-137-2.html">Bureau of Consular
+Affairs&lt;/a> to apply for a visa.&lt;/p>
+&lt;h3 id="airport">Airport&lt;/h3>
+&lt;p>With fewer flight options, Kaohsiung International Airport (KHH) is
+the closest airport to the conference venue.&lt;/p>
+&lt;p>Taiwan Taoyuan International Airport (TPE) is the primary airport of
+Taiwan and is an important hub in Asia. Most people arrive to Taiwan
+through this airport.&lt;/p></description></item><item><title>Welcoming and Inclusiveness Statement</title><link>https://ilas2025.tw/about/inclusiveness-statement/</link><pubDate>Sat, 08 Apr 2023 15:37:17 +0800</pubDate><guid>https://ilas2025.tw/about/inclusiveness-statement/</guid><description>&lt;p>The ILAS2025 organizing team will adhere to the &lt;a href="https://ilasic.org/inclusiveness-statement/">Welcoming and
+Inclusiveness Statement&lt;/a>
+of ILAS and make the conference an friendly environment for all.&lt;/p>
+&lt;h3 id="welcoming-and-inclusiveness-statement">Welcoming and Inclusiveness Statement&lt;/h3>
+&lt;p>The International Linear Algebra Society (ILAS) is comprised of a
+diverse global membership.&lt;/p>
+&lt;p>It is the policy of ILAS to offer a welcoming and inclusive
+environment to all participants in its activities, including all its
+meetings and conferences, regardless of gender, gender identity or
+expression, sexual orientation, race, color, national or ethnic
+origin, religion or religious belief, age, marital status,
+disabilities, and field of expertise.&lt;/p></description></item></channel></rss>
