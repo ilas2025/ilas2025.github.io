@@ -1072,8 +1072,16 @@
                 "TITLE":"$123$-avoiding and $123$-forcing matrices"
             },
             {
+                "NAME":"Yen-Jen Cheng",
+                "TITLE":"TBA"
+            },
+            {
                 "NAME":"Sen-Peng Eu",
                 "TITLE":"Combinatorial proof of determinant of Petrie matrix"
+            },
+            {
+                "NAME":"Tien-Xiao He",
+                "TITLE":"High-order Eulerian numbers and matrices"
             },
             {
                 "NAME":"Yuan-Hsun Lo",
@@ -1090,6 +1098,10 @@
             {
                 "NAME":"Shen-Fu Tsai",
                 "TITLE":"Extremal and saturation function of multidimensional $0$-$1$ matrices"
+            },
+            {
+                "NAME":"Chi Ho Yuen",
+                "TITLE":"TBA"
             }
         ]
     },
