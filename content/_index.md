@@ -6,16 +6,20 @@ cascade:
   featured_image: 'https://lh3.googleusercontent.com/e7CtgHftw7YT5EzvcklPKnxT_vSZZFfpQvLT2yFMlshBe9T1UsTgbq4sKHboFDLmZ4JSJjnwZuX9gYs0jPWNhithxkLvqxYKLLsAbISPwJmr5ptAtRjgd8b47Gx0NhfejFHU1XthBWW2Dbw9KWzDV8RElDu1n7-bjhqWVpfAtJ1v6PoBub1HUtFhFCyQNeTjpcd-5lFFKdBtxF-Qg6WakSiPgQdBF11m-5sgVnVDL62SfFV5M_7Jv5joocRAs6uTGAUfXaonSs_SqsF3ht6MEhV1iL5sQKFJDahNHbetHHZWAWjGpg1q1yE_0dhXCr0RtHFSgTDGWUYKxAua7hzpT1WiBF0Af4whhMD9blBloVY6TE9bGnzmlJrkLbgHEP9p4iYx3SrmRrRSnhcfv2DA-0WgKr9wWF8bc8MC5zfshs6b46eJ6-X6BATyHj3Fqx-MXyVZBe0K8Ja5GSW--Le0UhvfdSHCKY4dzHYt7cSX4AHP7ojl3cwnxxRMjK49V2Qrpw7kkGUub_w_LA-74noi_jrX0aKXoPc6EJB16lc1Mqzw-YOQKzpXuFHW7BDR5L6l9PrKS-2Rtay-p9lxrXfuaqoVgFPvlVmyo28wk1QTqGe4knysLL3v1nCEoKrn7oit1tyDXOHFXW9xll5rRFo24jBhlR0bpo38w3HU-o0y9iZmMpjE3fLgYv_ddd0OssxmPL6xCvbrfuxnDrZmDFj2WzJcK9T54sRIDb7RBC2CqpCQlhrpmBSTj6qkS9vnrJuxlQSGZKnJDFvNTx-NNewZxlFm1Pz5s84NOy5Z-MVtOQDTiq3m2o71aDOSF9MC78dD-qmXpe5jlod1l7-tqmQDhIYzKuhThrznPzi9WNO8pNdyKMdpo76Im0y-uvzA168xOdhg-D2wvvL7ixkceUrGWQdqvMHNNpewr351WC6iudhnrnZMqQ=w1400-h933-s-no?authuser=0'
 ---
 
-**Subscribe to [ILAS-NET](https://ilasic.org/ilas-net/) for free** to stay updated 
+&#128232; **Subscribe to [ILAS-NET](https://ilasic.org/ilas-net/) for free** to stay updated 
 on this conference and to receive the latest news from linear algebra 
 communities worldwide.
+You may help us to [share this event](/files/ILAS2025-slides.pdf)!
 
-Help us to [share this event](/files/ILAS2025-slides.pdf)!
+&#10071; **Scam Alert**: The conference did not ask any travel agencies to help
+with the accomodation of participants.  Please be aware of fraudulent emails; 
+see, e.g.,
+{{< newpage "here" "https://www.world-finance-conference.com/scam.php" >}}.
 
-For your information, the government offers a lucky draw of 
+&#127882; For your information, the government offers a lucky draw of 
 5000 NTD (pre-paid card or voucher) 
 for each traveler who signed up their event **before** the departure; 
-see https://5000.taiwan.net.tw/index_en.html for more details.
+visit {{< newpage "TAIWAN THE LUCKY LAND" "https://5000.taiwan.net.tw/index_en.html" >}} for more details.
 
 ### Important dates
 

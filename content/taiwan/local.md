@@ -47,6 +47,12 @@ the Love River provides convenient food options and picturesque river views.
 
 ### Hotels
 
+&#10071; **Scam Alert**: The conference did not ask any travel agencies to help
+with the accomodation of participants.  Please be aware of fraudulent emails; 
+see, e.g.,
+{{< newpage "here" "https://www.world-finance-conference.com/scam.php" >}}.
+
+
 It is recommended to stay near metro stations such as Yanchengpu (O2) or Cianjin
 (O4), or light rail stations such as Penglai Pier-2 (C13), Dayi Pier-2 (C12), 
 Love Pier (C11), or Glory Pier (C10). These areas offer a variety of food 
