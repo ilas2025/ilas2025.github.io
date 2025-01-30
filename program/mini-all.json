@@ -988,6 +988,10 @@
                 "TITLE":"Krylov subspaces and Sobolev functions"
             },
             {
+                "NAME":"Francesco Hrobat",
+                "TITLE":"Lanczos with compression for symmetric Lyapunov equations"
+            },
+            {
                 "NAME":"Yuwen Li",
                 "TITLE":"Reduced Krylov basis methods for parametric PDEs"
             },
@@ -1054,7 +1058,7 @@
                 "TITLE":"The nonnnegative inverse eigenvalue problem and positive realizations"
             },
             {
-                "NAME":"K. C. Shivakumar",
+                "NAME":"K. C. Sivakumar",
                 "TITLE":"Inverse $Z$-matrices and bidiagonal south-west matrices"
             }
         ]

@@ -212,6 +212,7 @@ MS22,Shu-Yung Liu,TBA
 MS23,Benjamin Carrel,Low-rank exponential integrators leveraged by rational Krylov techniques
 MS23,Fabio Durastante,"Krylov: Better, faster, parallel"
 MS23,Amin Faghih,Krylov subspaces and Sobolev functions
+MS23,Francesco Hrobat,Lanczos with compression for symmetric Lyapunov equations
 MS23,Yuwen Li,Reduced Krylov basis methods for parametric PDEs
 MS23,Stefano Massei,An error formula for block rational Krylov approximation of matrix functions
 MS23,Mariarosa Mazza,Rational approximations of fractional power operators applied to preconditioning
@@ -227,7 +228,7 @@ MS24,Raphael Loewy,On the structure of the cone of polynomials preserving nonneg
 MS24,C. Marijuán,Diagonalizably realizable implies universally realizable
 MS24,H. Monterde,Perfect state transfer between nonnegative real pure states
 MS24,M. Pisonero,The nonnnegative inverse eigenvalue problem and positive realizations
-MS24,K. C. Shivakumar,Inverse $Z$-matrices and bidiagonal south-west matrices
+MS24,K. C. Sivakumar,Inverse $Z$-matrices and bidiagonal south-west matrices
 MS25,Arvind Ayyer,Combinatorial proofs of multivariate Cayley–Hamilton theorems
 MS25,Lei Cao,$123$-avoiding and $123$-forcing matrices
 MS25,Yen-Jen Cheng,TBA
