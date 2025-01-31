@@ -1064,10 +1064,6 @@
         "ORGANIZERS":"Yen-Jen Cheng, Sen-Peng Eu, Yuan-Hsun Lo",
         "SPEAKERS":[
             {
-                "NAME":"Arvind Ayyer",
-                "TITLE":"Combinatorial proofs of multivariate Cayley–Hamilton theorems"
-            },
-            {
                 "NAME":"Lei Cao",
                 "TITLE":"$123$-avoiding and $123$-forcing matrices"
             },
@@ -1094,6 +1090,10 @@
             {
                 "NAME":"Harry Richman",
                 "TITLE":"Tree distance matrices and their minors"
+            },
+            {
+                "NAME":"Lavanya Selvaganesh",
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Shen-Fu Tsai",
@@ -1422,6 +1422,66 @@
             {
                 "NAME":"Ilya Spitkovsky",
                 "TITLE":"TBA"
+            }
+        ]
+    },
+    "MS34":{
+        "TITLE":"Combinatorics, association scheme, and graphs",
+        "ORGANIZERS":"Wei-Hsuan Yu",
+        "SPEAKERS":[
+            {
+                "NAME":"Yeh-Chi Lin",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Chia-An Liu",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Akihiro Munemasa",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Sho Suda",
+                "TITLE":"Tight 3-designs and s-distance set (2s-1)designs in Hamming schemes $H(n,q)$"
+            },
+            {
+                "NAME":"Pin-Chieh Tseng",
+                "TITLE":"TBA"
+            }
+        ]
+    },
+    "MS35":{
+        "TITLE":"Preserver Problems, II",
+        "ORGANIZERS":"Ngai-Ching Wong, Sushil Singla",
+        "SPEAKERS":[
+            {
+                "NAME":"Jan Hamhalter",
+                "TITLE":"Symmetries of positive cones in operator algebra structures"
+            },
+            {
+                "NAME":"Daisuke Hirota",
+                "TITLE":"Tingley's problem concerning the direct sum of extremely $C$-regular subspaces with the $\\ell^p$-norm"
+            },
+            {
+                "NAME":"Bojan Kuzma",
+                "TITLE":"On bijections which strongly preserve Birkhoff-James orthogonality on finite-dimensional $C^*$-algebras"
+            },
+            {
+                "NAME":"Izuho Matsuzaki",
+                "TITLE":"Phase isometries on continuous function spaces"
+            },
+            {
+                "NAME":"Titkos Tamás",
+                "TITLE":"Isometries of Lipschitz free Banach spaces"
+            },
+            {
+                "NAME":"Ming-Cheng Tsai",
+                "TITLE":"Some preserving problems on the sets of non-negative matrices"
+            },
+            {
+                "NAME":"Ya-Shu Wang",
+                "TITLE":"Linear maps preserving disjoint idempotents"
             }
         ]
     }

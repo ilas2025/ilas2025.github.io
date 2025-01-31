@@ -228,7 +228,6 @@ MS24,C. Marijuán,Diagonalizably realizable implies universally realizable
 MS24,H. Monterde,Perfect state transfer between nonnegative real pure states
 MS24,M. Pisonero,The nonnnegative inverse eigenvalue problem and positive realizations
 MS24,K. C. Sivakumar,Inverse $Z$-matrices and bidiagonal south-west matrices
-MS25,Arvind Ayyer,Combinatorial proofs of multivariate Cayley–Hamilton theorems
 MS25,Lei Cao,$123$-avoiding and $123$-forcing matrices
 MS25,Yen-Jen Cheng,TBA
 MS25,Sen-Peng Eu,Combinatorial proof of determinant of Petrie matrix
@@ -236,6 +235,7 @@ MS25,Tien-Xiao He,High-order Eulerian numbers and matrices
 MS25,Yuan-Hsun Lo,On shift-full-rank matrices
 MS25,Xiao-Nan Lu,Ternary circulant almost orthogonal arrays with (near) $D$-optimality and good binary sequence pairs
 MS25,Harry Richman,Tree distance matrices and their minors
+MS25,Lavanya Selvaganesh,TBA
 MS25,Shen-Fu Tsai,Extremal and saturation function of multidimensional $0$-$1$ matrices
 MS25,Chi Ho Yuen,TBA
 MS26,Hansaka Aluvihare,A low-complexity LSTM network to realize multibeam beamforming
@@ -306,3 +306,15 @@ MS33,Nikos Chalmoukis,TBA
 MS33,Panayiotis J. Psarrakos,TBA
 MS33,Carlo Bellavita,TBA
 MS33,Ilya Spitkovsky,TBA
+MS34,Yeh-Chi Lin,TBA
+MS34,Chia-An Liu,TBA
+MS34,Akihiro Munemasa,TBA
+MS34,Sho Suda,"Tight 3-designs and s-distance set (2s-1)designs in Hamming schemes $H(n,q)$"
+MS34,Pin-Chieh Tseng,TBA
+MS35,Jan Hamhalter,Symmetries of positive cones in operator algebra structures
+MS35,Daisuke Hirota,Tingley's problem concerning the direct sum of extremely $C$-regular subspaces with the $\ell^p$-norm
+MS35,Bojan Kuzma,On bijections which strongly preserve Birkhoff-James orthogonality on finite-dimensional $C^*$-algebras
+MS35,Izuho Matsuzaki,Phase isometries on continuous function spaces
+MS35,Titkos Tamás,Isometries of Lipschitz free Banach spaces
+MS35,Ming-Cheng Tsai,Some preserving problems on the sets of non-negative matrices
+MS35,Ya-Shu Wang,Linear maps preserving disjoint idempotents
