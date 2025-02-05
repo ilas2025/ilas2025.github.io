@@ -806,6 +806,10 @@
                 "TITLE":"New approach to streaming data tensors"
             },
             {
+                "NAME":"Gilad Lerman",
+                "TITLE":"A novel outlier-robust PCA method with applications to computer vision"
+            },
+            {
                 "NAME":"Hanyu Li",
                 "TITLE":"Double-Tucker decomposition"
             },
