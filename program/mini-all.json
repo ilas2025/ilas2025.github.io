@@ -104,8 +104,36 @@
         "ORGANIZERS":"D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang",
         "SPEAKERS":[
             {
-                "NAME":"TBA",
-                "TITLE":"TBA"
+                "NAME":"Shigeru Furuichi",
+                "TITLE":"Inequalities on spectral geometric mean and application for relative entropy"
+            },
+            {
+                "NAME":"Zhuo-Heng He",
+                "TITLE":"Some inequalities of eigenvalues of quaternion tensors"
+            },
+            {
+                "NAME":"Rute Lemos",
+                "TITLE":"$J$-selfadoint matrix means and their indefinite inequalities"
+            },
+            {
+                "NAME":"Hiroyuki Osaka",
+                "TITLE":"On characterization of the monotonicity of functions on $(0, \\infty)$ by inequalities"
+            },
+            {
+                "NAME":"Zhongming Tang",
+                "TITLE":"Invariants fields of classical groups"
+            },
+            {
+                "NAME":"Dingkang Wang",
+                "TITLE":"On the minor prime factorization problem of polynomial matrices and applications"
+            },
+            {
+                "NAME":"Qing-Wen Wang",
+                "TITLE":"The new developments of matrix equations and inequalities over the dual quaternion algebras"
+            },
+            {
+                "NAME":"Huihui Zhu",
+                "TITLE":"The $(b,c)$-core inverse and its dual in semigroups with involution"
             }
         ]
     },
@@ -210,7 +238,7 @@
         ]
     },
     "MS6":{
-        "TITLE":"Model Reduction",
+        "TITLE":"Model reduction",
         "ORGANIZERS":"Christopher Beattie, Zlatko Drmać",
         "SPEAKERS":[
             {
