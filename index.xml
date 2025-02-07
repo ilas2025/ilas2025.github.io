@@ -1010,7 +1010,7 @@ rotation show, followed by a cruise tour of
  &lt;/li>
  
  &lt;li>Leonardo Robol, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A multilinear Nystr ̈om algorithm for low-rank approximation of tensors in Tucker format&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A multilinear Nyström algorithm for low-rank approximation of tensors in Tucker format&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -1278,6 +1278,10 @@ rotation show, followed by a cruise tour of
  &lt;details>
  &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
  &lt;ul>
+ 
+ &lt;li>Geir Dahl, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Near-derangements and their polytopes&lt;/span>
+ &lt;/li>
  
  &lt;li>Jürgen Garloff, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Variation diminution under uncertainty&lt;/span>
