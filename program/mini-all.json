@@ -835,7 +835,7 @@
             },
             {
                 "NAME":"Leonardo Robol",
-                "TITLE":"A multilinear Nystr ̈om algorithm for low-rank approximation of tensors in Tucker format"
+                "TITLE":"A multilinear Nyström algorithm for low-rank approximation of tensors in Tucker format"
             }
         ]
     },
@@ -1061,6 +1061,10 @@
         "TITLE":"Nonnegative and related families of matrices",
         "ORGANIZERS":"Raphael Loewy, Julio Moro",
         "SPEAKERS":[
+            {
+                "NAME":"Geir Dahl",
+                "TITLE":"Near-derangements and their polytopes"
+            },
             {
                 "NAME":"Jürgen Garloff",
                 "TITLE":"Variation diminution under uncertainty"

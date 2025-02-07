@@ -181,7 +181,7 @@ MS18,Elizabeth Newman,Optimal matrix-mimetic tensor algebras
 MS18,Jing Niu,A tensor Alternating Anderson-Richardson method for solving multilinear systems with $\mathcal{M}$-tensors
 MS18,Junjun Pan,Multi-separable tensor decomposition
 MS18,Jingmei Qiu,Adaptive tensor cross approximation
-MS18,Leonardo Robol,A multilinear Nystr ̈om algorithm for low-rank approximation of tensors in Tucker format
+MS18,Leonardo Robol,A multilinear Nyström algorithm for low-rank approximation of tensors in Tucker format
 MS19,Antonio Cicone,Signal processing of spherical data. From real life to mathematical challenges
 MS19,Sven-Erik Ekström,The spectrum of Toeplitz matrices with two non-zero off-diagonals
 MS19,Dario Giandinoto,Banded block Toeplitz matrices with real asymptotic spectrum
@@ -229,6 +229,7 @@ MS23,Michele Rinelli,Krylov techniques for estimating spectral gaps of sparse sy
 MS23,Nian Shao,Lanczos with compression for symmetric eigenvalue problems
 MS23,Igor Simunec,A low-memory Lanczos method with rational Krylov compression
 MS23,Raf Vandebril,On matrix polynomials and block Krylov
+MS24,Geir Dahl,Near-derangements and their polytopes
 MS24,Jürgen Garloff,Variation diminution under uncertainty
 MS24,Priyanks Joshi,Arbitrarily finely divisible matrices
 MS24,Ana Julio,About the persymmetric nonnegative inverse eigenvalue problem in low dimension
