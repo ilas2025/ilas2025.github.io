@@ -15,17 +15,23 @@ is under the same domain.
 payment information after you submitted the form.  Within one week after the 
 payment, you will receive another email for your receipt.
 [ [detailed instructions](/files/registration-payment-instructions.pdf) ]
-2. Use **Upload Abstract** to upload your abstract.  You may type $\TeX$ code
+2. Use **Upload Abstract** and the [template](/files/abstract-template.tex) to 
+upload your abstract.  
+
+
+
+<!-- ```tex
+You may type $\TeX$ code
 in your title and abstract.  You may assume the `amsmath` package is loaded and 
 only copy and paste the content of your abstract to the form.
-```tex
+
 \documentclass{article}
 \usepackage{amsmath}
 
 \begin{document}
 % paste only this part to the abstract.
 \end{document}
-```
+``` -->
 
 
 ### ILAS membership
