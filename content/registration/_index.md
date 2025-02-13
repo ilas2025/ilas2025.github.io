@@ -67,6 +67,7 @@ If you choose any ILAS member categories (including students and early career),
 | Early bird, non-member                | 8,400 NTD             |
 | Regular, ILAS member                  | 8,900 NTD             |
 | Regular non-member                    | 10,500 NTD            |
+| Other (accompanying people, etc.)     | 0 NTD                 |
 
 You may choose to add optional [social events](social/) to your registration 
 package.
