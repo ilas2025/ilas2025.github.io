@@ -8,7 +8,7 @@ resourceDir = "../resources"
 
 # DefaultContentLanguage = "en"
 # SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -43,6 +43,7 @@ enableRobotsTXT = true
 ##### above are modified from themes/ananke/exampleSite/config.toml #####
 ##### below are new things added by Jephian #####
 
+# added for KaTex
 [markup]
   [markup.goldmark]
     # To use raw html in the content, set unsafe as true.
@@ -53,7 +54,8 @@ enableRobotsTXT = true
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['\(', '\)'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+
 
 [mount]
   [[module.mounts]]
