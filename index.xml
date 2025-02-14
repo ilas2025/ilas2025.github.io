@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The 26th Conference of the International Linear Algebra Society on ILAS2025</title><link>https://ilas2025.tw/</link><description>Recent content in The 26th Conference of the International Linear Algebra Society on ILAS2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 07 Feb 2025 22:48:52 +0800</lastBuildDate><atom:link href="https://ilas2025.tw/index.xml" rel="self" type="application/rss+xml"/><item><title>Notes</title><link>https://ilas2025.tw/notes/</link><pubDate>Fri, 07 Feb 2025 22:48:52 +0800</pubDate><guid>https://ilas2025.tw/notes/</guid><description>&lt;h1 id="notes">Notes&lt;/h1>
-&lt;p>This is a test.&lt;/p>
-&lt;p>所有$d$次以下的多項式可以形成一個向量空間$P_d$，其常用的基底為$\alpha={1,x,&amp;hellip;,x^d}$。
+&lt;p>所有$d$次以下的多項式可以形成一個向量空間$P_d$，其常用的基底為$\alpha=\{1,x,...,x^d\}$。
 在這個基底的觀點，所有$P_d$中的多項式。&lt;/p>
 $$p(x)=c_0+c_1x+...+C_dx^d$$&lt;p>
-都可以看成向量&lt;/p></description></item><item><title>Contributed talks and posters</title><link>https://ilas2025.tw/program/contributed-and-poster/</link><pubDate>Wed, 08 Jan 2025 04:29:42 +0800</pubDate><guid>https://ilas2025.tw/program/contributed-and-poster/</guid><description>&lt;p>The deadline for submitting a contributed talk or a poster is &lt;strong>March 31&lt;/strong>.&lt;/p>
+都可以看成向量&lt;/p>
+&lt;h3 id="testing-single-dollar-sign">Testing single dollar sign.&lt;/h3>
+&lt;p>The function $f(x) = \frac{1}{x}$ is defined on the domain $X = \{1, 2, 3\}$.&lt;/p>
+&lt;h3 id="testing-code-from-mathematics-in-markdownhttpsgohugoiocontent-managementmathematics">Testing code from &lt;a href="https://gohugo.io/content-management/mathematics/">Mathematics in Markdown&lt;/a>&lt;/h3>
+&lt;p>This is an inline \(a^*=x-b^*\) equation.&lt;/p>
+&lt;p>These are block equations:&lt;/p>
+\[a^*=x-b^*\]\[ a^*=x-b^* \]\[
+a^*=x-b^*
+\]&lt;p>These are also block equations:&lt;/p>
+$$a^*=x-b^*$$$$ a^*=x-b^* $$$$
+a^*=x-b^*
+$$</description></item><item><title>Contributed talks and posters</title><link>https://ilas2025.tw/program/contributed-and-poster/</link><pubDate>Wed, 08 Jan 2025 04:29:42 +0800</pubDate><guid>https://ilas2025.tw/program/contributed-and-poster/</guid><description>&lt;p>The deadline for submitting a contributed talk or a poster is &lt;strong>March 31&lt;/strong>.&lt;/p>
 &lt;h3 id="contributed-talks">Contributed talks&lt;/h3>
 &lt;p>To submit a poster. Please visit the &lt;a href="https://ilas2025.tw/registration/">registration&lt;/a> page
 to submit the abstract through &lt;strong>Upload Abstract&lt;/strong>.&lt;/p>
@@ -43,8 +53,6 @@ at Takow. This tour will begin with a viewing of the
 &lt;a href="https://khh.travel/en/attractions/detail/1186">Great Harbor Bridge&lt;/a>
 rotation show, followed by a cruise tour of
 &lt;a href="https://khh.travel/en/attractions/detail/399">Kaohsiung Harbor&lt;/a>.&lt;/p></description></item><item><title>Mini-symposia</title><link>https://ilas2025.tw/program/mini/</link><pubDate>Sun, 01 Sep 2024 17:04:33 +0800</pubDate><guid>https://ilas2025.tw/program/mini/</guid><description>&lt;h3 id="mini-symposia">Mini-symposia&lt;/h3>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
 
 
 
