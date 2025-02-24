@@ -266,10 +266,6 @@
                 "TITLE":"Distributed computing for physics-based data-driven reduced modeling at scale"
             },
             {
-                "NAME":"Ion Victor Gosea",
-                "TITLE":"Model reduction by rational approximation: harnessing the advantages of various barycentric representations"
-            },
-            {
                 "NAME":"Riccardo Morandin",
                 "TITLE":"Structure-preserving model order reduction of linear time-varying port-Hamiltonian systems"
             },
@@ -284,6 +280,10 @@
             {
                 "NAME":"Zoran Tomljanovic",
                 "TITLE":"Efficient solution of sequences of parametrized Lyapunov equations with applications"
+            },
+            {
+                "NAME":"Steffen Werner",
+                "TITLE":"Reduced-order modeling of mechanical systems via structured barycentric forms"
             },
             {
                 "NAME":"Ralf Zimmerman",
