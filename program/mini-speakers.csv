@@ -154,7 +154,7 @@ MS16,Tomohiro Sogabe,Matrix function computations using the double exponential f
 MS16,Eda Oktay,Mixed precision parallel operations for tensor train arithmetic
 MS16,Weiguo Gao,An optimal error bound for shifted CholeskyQR3 in oblique inner product
 MS16,Yuxin Ma,Backward stability of sketched GMRES
-MS16,Chensong Zhang,Study on a mixed-precision AMG preconditioning method for heterogeneous architectures
+MS16,Zhao Li,Study on a mixed-precision AMG preconditioning method for heterogeneous architectures
 MS16,Alexis Montoison,MinAres and CAr: New Krylov methods for symmetric linear systems
 MS16,Xiaobo Liu,Generalizing reduced rank extrapolation to low-rank matrix sequences
 MS16,Martina Iannacito,A subspace-conjugate gradient method for linear matrix equations
