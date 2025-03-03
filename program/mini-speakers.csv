@@ -105,7 +105,6 @@ MS11,Ching-Sung Liu,TBA
 MS11,Xing-Long Lyu,TBA
 MS11,Juntao Sun,TBA
 MS11,Zhong-Heng Tan,TBA
-MS11,Xiang Wang,TBA
 MS11,Yiqian Wang,TBA
 MS11,Chin-Tien Wu,TBA
 MS11,Shuo Zhang,TBA
@@ -157,7 +156,6 @@ MS16,Zhao Li,Study on a mixed-precision AMG preconditioning method for heterogen
 MS16,Alexis Montoison,MinAres and CAr: New Krylov methods for symmetric linear systems
 MS16,Xiaobo Liu,Generalizing reduced rank extrapolation to low-rank matrix sequences
 MS16,Martina Iannacito,A subspace-conjugate gradient method for linear matrix equations
-MS16,Qinmeng Zou,On the loss of orthogonality of modified Gram-Schmidt and its low-synchronization variants
 MS16,Oleg Balabanov,Preconditioning linear systems via low-precision randomized range deflation
 MS16,Bastien Vieublé,Mixed precision preconditioning strategies for GMRES
 MS17,Aida Abiad,Recent developments of switching methods for the construction of cospectral graphs
@@ -275,7 +273,6 @@ MS29,Fumio Hiai,Joint concavity/convexity of matrix trace functions for geometri
 MS29,Masatoshi Ito,The weighted power difference mean and its generalization
 MS29,Kenta Kojin,An introduction to noncommutative function theory
 MS29,Jie Meng,Convergence properties of sequences related to the Ando-Li-Mathias construction and to the weighted Cheap mean
-MS29,Mohammad Sal Moslehian,Characterizations of the tracial functionals on matrix and operator algebras
 MS29,Hiromichi Ohno,Generalization of Böttcher-Wenzel inequality and its application
 MS29,Takashi Sano,Convex matrix functions
 MS29,Yuki Seo,Matrix trace inequalities related to quantum Tsallis relative entropies
@@ -326,4 +323,5 @@ MS35,Bojan Kuzma,On bijections which strongly preserve Birkhoff-James orthogonal
 MS35,Izuho Matsuzaki,Phase isometries on continuous function spaces
 MS35,Titkos Tamás,Isometries of Lipschitz free Banach spaces
 MS35,Ming-Cheng Tsai,Some preserving problems on the sets of non-negative matrices
+MS35,Ya-Shu Wang,Linear maps preserving disjoint idempotents
 MS35,Ya-Shu Wang,Linear maps preserving disjoint idempotents

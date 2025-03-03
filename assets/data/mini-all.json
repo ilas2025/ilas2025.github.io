@@ -488,10 +488,6 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Xiang Wang",
-                "TITLE":"TBA"
-            },
-            {
                 "NAME":"Yiqian Wang",
                 "TITLE":"TBA"
             },
@@ -724,10 +720,6 @@
             {
                 "NAME":"Martina Iannacito",
                 "TITLE":"A subspace-conjugate gradient method for linear matrix equations"
-            },
-            {
-                "NAME":"Qinmeng Zou",
-                "TITLE":"On the loss of orthogonality of modified Gram-Schmidt and its low-synchronization variants"
             },
             {
                 "NAME":"Oleg Balabanov",
@@ -1276,10 +1268,6 @@
                 "TITLE":"Convergence properties of sequences related to the Ando-Li-Mathias construction and to the weighted Cheap mean"
             },
             {
-                "NAME":"Mohammad Sal Moslehian",
-                "TITLE":"Characterizations of the tracial functionals on matrix and operator algebras"
-            },
-            {
                 "NAME":"Hiromichi Ohno",
                 "TITLE":"Generalization of Böttcher-Wenzel inequality and its application"
             },
@@ -1514,6 +1502,10 @@
             {
                 "NAME":"Ming-Cheng Tsai",
                 "TITLE":"Some preserving problems on the sets of non-negative matrices"
+            },
+            {
+                "NAME":"Ya-Shu Wang",
+                "TITLE":"Linear maps preserving disjoint idempotents"
             },
             {
                 "NAME":"Ya-Shu Wang",
