@@ -64,14 +64,14 @@ div.button {
 @media (pointer:fine) {
     /* Change color of dropdown links on hover */
     .dropdown-content a:hover {
-        color: #009944;
+        color: #66D2CE;
     }
 
     /* Show the dropdown menu on hover */
     .dropdown:hover .dropdown-content {display: block;}
 
     /* Change the background color of the dropdown button when the dropdown content is shown */
-    .dropdown:hover .dropbtn {color: #00A0E9;}
+    .dropdown:hover .dropbtn {color: #FFAB5B;}
 
     .burger-label {display: none;}
 }
@@ -85,7 +85,7 @@ div.button {
         right: 0px; 
         top: 0px; 
         width: 100%; 
-        background-color: #00A0E9;
+        background-color: #FFAB5B;
         max-height: 100vh;
         overflow-y: scroll;
         z-index: 10;
@@ -99,7 +99,7 @@ div.button {
     /* .menu .dropdown-content a {display: block; padding: 10px; margin: 0px;} */
     .menu .dropdown-content a::before {content: "- ";}
 
-    .burger-label {position: fixed; right: 0px; top: 0px; z-index: 3;}
+    .burger-label {position: fixed; right: 10px; top: 10px; z-index: 3;}
     .burger-input:checked ~ .menu-box {display: block;}
 
     
