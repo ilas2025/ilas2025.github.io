@@ -16,12 +16,9 @@ Affairs](https://www.boca.gov.tw/np-137-2.html) to apply for a visa.
 
 ### Airport
 
-With fewer flight options, Kaohsiung International Airport (KHH) is
-the closest airport to the conference venue.
+[Kaohsiung International Airport (KHH)](https://www.kia.gov.tw/english/) is the closest airport to the conference venue. However, it has fewer international flights, often requiring a transfer at another major international airport hub in East Asia, such as HKG (Hong Kong), PVG (Shanghai), or NRT (Tokyo Narita).
 
-Taiwan Taoyuan International Airport (TPE) is the primary airport of
-Taiwan and is an important hub in Asia.  Most people arrive to Taiwan
-through this airport.  
+[Taiwan Taoyuan International Airport (TPE)](https://www.taoyuan-airport.com/?lang=en) is Taiwan’s primary airport and a major hub in Asia. Most travelers enter Taiwan through this airport.
 
 See the details below for their differences.
 
@@ -70,7 +67,7 @@ Important sites are marked in the
 {{< ilas2025-map >}}
 
 
-### iPass and EasyCard
+### Stored-value Card (iPass and EasyCard)
 
 If you don’t like to bring changes with you, you may consider
 purchasing an [iPass card](https://www.i-pass.com.tw/en) or an
