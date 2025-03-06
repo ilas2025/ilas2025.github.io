@@ -27,7 +27,7 @@ ILAS offers fee-waivers; to apply for one, please prepare
 - a motivation letter: describe why you want to attend the ILAS2025 conference 
 and how it might benefit you within one page, 
 
-and fill in the application form.
+and fill in the application form before **January 31**.
 
 Please note that the excursion and banquet are not included in the fee-waiver!
 
@@ -46,4 +46,4 @@ To apply for the financial support, please prepare
 and how it might benefit you within one page, 
 - letter from your advisor (email separately to ilas2025@math.nsysu.edu.tw)
 
-and fill in the application form.
+and fill in the application form before **January 31**.
