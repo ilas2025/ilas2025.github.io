@@ -628,19 +628,15 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Reid Anderson",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Steve Butler",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Sebastian Cioaba",
+                "NAME":"Wei-Chia Chen",
                 "TITLE":"TBA"
             },
             {
                 "NAME":"Josh Cooper",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Himanshu Gupta",
                 "TITLE":"TBA"
             },
             {
@@ -652,23 +648,19 @@
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Kate Lorenzen",
+                "TITLE":"TBA"
+            },
+            {
                 "NAME":"Lincoln Lu",
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Sam Spiro",
+                "NAME":"Lavanya Selvaganesh",
                 "TITLE":"TBA"
             },
             {
                 "NAME":"Michael Tait",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Zhiyu Wang",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Stephen Young",
                 "TITLE":"TBA"
             }
         ]
@@ -1136,10 +1128,6 @@
             {
                 "NAME":"Paola Boito",
                 "TITLE":"Decay bounds for inverses of banded matrices via quasiseparable structure"
-            },
-            {
-                "NAME":"Yuli Eidelman",
-                "TITLE":"Quasiseparable representation of matrices in numerical solution of evolutionary equations"
             },
             {
                 "NAME":"Luca Gemignani",

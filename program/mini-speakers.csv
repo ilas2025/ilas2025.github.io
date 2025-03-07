@@ -134,17 +134,15 @@ MS14,Javier Pérez,Error analysis of compact Arnoldi methods for linearized poly
 MS14,Alicia Roca,Row completion of rational matrices and partial prescription of structural data
 MS14,Punit Sharma,Eigenvalue backward errors of Rosenbrock systems
 MS15,Sinan Aksoy,TBA
-MS15,Reid Anderson,TBA
-MS15,Steve Butler,TBA
-MS15,Sebastian Cioaba,TBA
+MS15,Wei-Chia Chen,TBA
 MS15,Josh Cooper,TBA
+MS15,Himanshu Gupta,TBA
 MS15,Mark Kempton,Norhaus-Gaddum type problems for graph spectra
 MS15,Franklin Kenter,TBA
+MS15,Kate Lorenzen,TBA
 MS15,Lincoln Lu,TBA
-MS15,Sam Spiro,TBA
+MS15,Lavanya Selvaganesh,TBA
 MS15,Michael Tait,TBA
-MS15,Zhiyu Wang,TBA
-MS15,Stephen Young,TBA
 MS16,Tomohiro Sogabe,Matrix function computations using the double exponential formulas
 MS16,Eda Oktay,Mixed precision parallel operations for tensor train arithmetic
 MS16,Weiguo Gao,An optimal error bound for shifted CholeskyQR3 in oblique inner product
@@ -245,7 +243,6 @@ MS25,Chi Ho Yuen,TBA
 MS26,Hansaka Aluvihare,A low-complexity LSTM network to realize multibeam beamforming
 MS26,Natalia Bebiano,Revisiting an inverse problem proposed by Boor and Golub
 MS26,Paola Boito,Decay bounds for inverses of banded matrices via quasiseparable structure
-MS26,Yuli Eidelman,Quasiseparable representation of matrices in numerical solution of evolutionary equations
 MS26,Luca Gemignani,Some numerical methods for nonlocal boundary value problems
 MS26,Kshitij Khare,Fast computation for high-dimensional Bayesian dynamic factor models
 MS26,Ilias Kotsireas,A low-complexity Algorithm for generating Legendre pairs using linear algebra approaches
