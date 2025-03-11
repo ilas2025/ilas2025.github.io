@@ -21,7 +21,8 @@ See the details for transportation below for landing at different airports.
 
 The conference will take place at [National Sun Yat-sen University.](https://www.nsysu.edu.tw/?Lang=en)
 
-#### Landed at Taiwan Taoyuan International Airport (TPE)  
+#### Landed at Taiwan Taoyuan International Airport (TPE)
+
 * From the airport to the Taoyuan high speed rail (HSR) station (around 18 minutes)  
   * Take [Taoyuan Metro](https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/index.php) at the Airport Terminal Station (Terminal 1 (A12) or 2 (A13)) and take off at Taoyuan HSR Station (A18)  
   * &#10071; Only commuter train will take you to the Taoyuan HSR Station (A18)   
@@ -48,16 +49,18 @@ The conference will take place at [National Sun Yat-sen University.](https://www
 {{< nsysu-tunnel >}}
 
 #### Landed at Kaohsiung International Airport (KHH)  
+
 * From the  Zuoying (Kaohsiung) HSR Station to Hamasen (NSYSU) Station (around 30 minutes)  
   * &#10071; Please follow the MRT sign in the [Kaohsiung International Airport (KHH)](https://www.kia.gov.tw/English/)   
   * Take [Kaohsiung Metro](https://www.krtc.com.tw/eng/Guide/guide_map) at the Kaohsiung International Airport (R4) to Hamasen (O1) station   
   * &#10071; Transfer Required\! You need to transfer **within the station** from the Red Line to the Orange Line at Formosa Boulevard (R10/O5).  
   * [Payment](https://www.krtc.com.tw/eng/Ticket/ticket_list?id=6991b7b988e8461194b57a12c7269697): Single-journey Ticket, Stored-value Cards (Details will be elaborated in the next section), Credit Card   
-#### From the  Hamasen  Station to the NSYSU (around 10 minutes via the **Sizihwan Tunnel**)  
+* From the  Hamasen  Station to the NSYSU (around 10 minutes via the **Sizihwan Tunnel**)  
   * Take the Exit 1 of Hamasen (O1) station for NSYSU  
   * Go straight in the same direction as the escalator takes you up, then take the Sizihwan Tunnel.  
   * &#10071; On the road, you shall pass several convenience stores and an elementary school. If you’re lost, please consult Maps in your phone.  
   * The NSYSU is on the other side of the tunnel.
+
 {{< ilas2025-map >}}
 
 ### Stored-value Card (iPass and EasyCard)
