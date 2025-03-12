@@ -84,12 +84,16 @@ Join us at the conference as we delve into the fascinating world of
 linear algebra and explore its diverse applications. We look forward
 to your participation and the invaluable insights you will bring.
 
-### Nearby events
+### Nearby and related events
 
+- [2025 Workshop on Matrices and Operators (MAO)](https://sites.google.com/view/matrices-and-operators-2025/),
+August 19 ~ 21, 2025, Regina, Canada
 - [The 17th Workshop on Numerical Ranges and Numerical Radii (WONRA)](https://sites.google.com/email.nchu.edu.tw/wonra2025), 
 June 19 ~ 21, 2025, Taichung, Taiwan
 - [International Workshop on Matrix Analysis, Linear Algebra, and Applications (MALAA)](https://sites.google.com/up.edu.ph/malaa2025/), 
 July 1 ~ 2, 2025, Quezon City, Philippines
+- [The 27th Conference of the International Linear Algebra Society (ILAS)](https://ilas2026.math.vt.edu/),
+May 18 ~ 22, 2026, Blacksburg, USA
 
 ### Sponsorship
 
