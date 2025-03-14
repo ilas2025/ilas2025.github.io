@@ -1,11 +1,8 @@
 TYPE,NAME,TITLE
-MS1,Dong Bo,TBA
 MS1,Eric King-wah Chu,TBA
 MS1,Akira Imakura,Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula
-MS1,Zhigang Jia,Matrix completion method from compressed sensing to color video inpainting
 MS1,Chiu-Yen Kao,TBA
 MS1,Matthew M. Lin,A gradient flow method to differentiate between classical and quantum correlations
-MS1,Hao Liu,TBA
 MS1,Shinya Miyajima,TBA
 MS1,Haesun Park,Integrative co-embedding of multi-view data sets
 MS1,Meiyue Shao,TBA
@@ -292,7 +289,6 @@ MS31,Clement de Seguins Pazzis,TBA
 MS31,Juan Paolo Santos,On commutators of unipotent matrices of index $2$
 MS32,P.-A. Absil,TBA
 MS32,Nicolas Boumal,TBA
-MS32,Ya-Ping Hsieh,TBA
 MS32,Nicu Sebe,TBA
 MS32,Anthony Man-Cho So,TBA
 MS32,Suvrit Sra,TBA

@@ -4,10 +4,6 @@
         "ORGANIZERS":"Pengwen Chen, Matthrew Lin",
         "SPEAKERS":[
             {
-                "NAME":"Dong Bo",
-                "TITLE":"TBA"
-            },
-            {
                 "NAME":"Eric King-wah Chu",
                 "TITLE":"TBA"
             },
@@ -16,20 +12,12 @@
                 "TITLE":"Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula"
             },
             {
-                "NAME":"Zhigang Jia",
-                "TITLE":"Matrix completion method from compressed sensing to color video inpainting"
-            },
-            {
                 "NAME":"Chiu-Yen Kao",
                 "TITLE":"TBA"
             },
             {
                 "NAME":"Matthew M. Lin",
                 "TITLE":"A gradient flow method to differentiate between classical and quantum correlations"
-            },
-            {
-                "NAME":"Hao Liu",
-                "TITLE":"TBA"
             },
             {
                 "NAME":"Shinya Miyajima",
@@ -1359,10 +1347,6 @@
             },
             {
                 "NAME":"Nicolas Boumal",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Ya-Ping Hsieh",
                 "TITLE":"TBA"
             },
             {
