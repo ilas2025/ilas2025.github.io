@@ -1342,44 +1342,20 @@
         "ORGANIZERS":"Zehua Lai",
         "SPEAKERS":[
             {
-                "NAME":"P.-A. Absil",
-                "TITLE":"TBA"
+                "NAME":"Di How",
+                "TITLE":"A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs"
             },
             {
-                "NAME":"Nicolas Boumal",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Nicu Sebe",
-                "TITLE":"TBA"
+                "NAME":"Xiang Lu",
+                "TITLE":"Special orthogonal, special unitary, and symplectic groups as products of Grassmannians"
             },
             {
                 "NAME":"Anthony Man-Cho So",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Suvrit Sra",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Kim-Chuan Toh",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Nick Vannieuwenhoven",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Melanie Weber",
-                "TITLE":"TBA"
+                "TITLE":"Randomized Riemannian submanifold subgradient method for optimization over Stiefel manifold"
             },
             {
                 "NAME":"Chun-Hao Yang",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Yifan Zhang",
-                "TITLE":"TBA"
+                "TITLE":"Nested Grassmannians for dimensionality reduction with applications"
             }
         ]
     },
