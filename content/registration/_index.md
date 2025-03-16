@@ -4,7 +4,7 @@ type: page
 date: 2023-04-03T22:24:53+08:00
 ---
 
-Please read the instruction below and click the botton to register.
+Please read the instruction below and click the bottons to register.
 
 {{< reg-button >}}
 

@@ -18,9 +18,9 @@ div.button {
     background-color: #AEE8C2; 
     border-radius: 300px; 
     font-family: monospace;
-    position: relative;
+    /* position: relative;
     left: 50%;
-    transform: translate(-50%, 0);
+    transform: translate(-50%, 0); */
     
     a:link    {color:#A42D00; background-color: transparent; text-decoration: none;}
     a:visited {color:#A42D00; background-color: transparent; text-decoration: none;}
