@@ -92,6 +92,10 @@
         "ORGANIZERS":"D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang",
         "SPEAKERS":[
             {
+                "NAME":"Pattrawut Chansagiam",
+                "TITLE":"Integral inequalities of Kantorovich and Fiedler types for Hadamard products of matrices"
+            },
+            {
                 "NAME":"Shigeru Furuichi",
                 "TITLE":"Inequalities on spectral geometric mean and application for relative entropy"
             },
