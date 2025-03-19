@@ -478,7 +478,7 @@
         ]
     },
     "MS12":{
-        "TITLE":"Preserver problems",
+        "TITLE":"Preserver problems, I",
         "ORGANIZERS":"Lajos Molnár, Ming-Cheng Tsai,  Ngai-Ching Wong",
         "SPEAKERS":[
             {
@@ -516,10 +516,6 @@
             {
                 "NAME":"Peter Šemrl",
                 "TITLE":"Local order isomorphisms on operator and matrix domains"
-            },
-            {
-                "NAME":"Sushil Singla",
-                "TITLE":"Linear maps preserving product of involutions"
             },
             {
                 "NAME":"Ryotaro Tanaka",
@@ -1440,6 +1436,14 @@
                 "TITLE":"Phase isometries on continuous function spaces"
             },
             {
+                "NAME":"Lucijan Plevnik",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Sushil Singla",
+                "TITLE":"Linear maps preserving product of involutions"
+            },
+            {
                 "NAME":"Titkos Tamás",
                 "TITLE":"Isometries of Lipschitz free Banach spaces"
             },
@@ -1450,6 +1454,10 @@
             {
                 "NAME":"Ya-Shu Wang",
                 "TITLE":"Linear maps preserving disjoint idempotents"
+            },
+            {
+                "NAME":"Ngai-Ching Wong",
+                "TITLE":"Tingley's problems for positive spheres of operator algebras"
             }
         ]
     }
