@@ -91,7 +91,7 @@ to your participation and the invaluable insights you will bring.
 ### Nearby and related events
 
 - [2025 Workshop on Matrices and Operators (MAO)](https://sites.google.com/view/matrices-and-operators-2025/),
-August 19 ~ 21, 2025, Regina, Canada
+August 19 ~ 21, 2025, Regina, Canada (hybrid: in person and over the zoom)
 - [The 17th Workshop on Numerical Ranges and Numerical Radii (WONRA)](https://sites.google.com/email.nchu.edu.tw/wonra2025), 
 June 19 ~ 21, 2025, Taichung, Taiwan
 - [International Workshop on Matrix Analysis, Linear Algebra, and Applications (MALAA)](https://sites.google.com/up.edu.ph/malaa2025/), 
