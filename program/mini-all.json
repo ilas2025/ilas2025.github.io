@@ -608,10 +608,6 @@
         "ORGANIZERS":"Mark Kempton",
         "SPEAKERS":[
             {
-                "NAME":"Sinan Aksoy",
-                "TITLE":"TBA"
-            },
-            {
                 "NAME":"Wei-Chia Chen",
                 "TITLE":"TBA"
             },
@@ -624,6 +620,10 @@
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Kristin Heysse",
+                "TITLE":"TBA"
+            },
+            {
                 "NAME":"Mark Kempton",
                 "TITLE":"Norhaus-Gaddum type problems for graph spectra"
             },
@@ -633,10 +633,6 @@
             },
             {
                 "NAME":"Kate Lorenzen",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Lincoln Lu",
                 "TITLE":"TBA"
             },
             {
@@ -1159,6 +1155,10 @@
         "TITLE":"Linear algebra education",
         "ORGANIZERS":"Rachel Quinlan, Sepideh Stewart",
         "SPEAKERS":[
+            {
+                "NAME":"Jane Breen",
+                "TITLE":"TBA"
+            },
             {
                 "NAME":"Fernando De Teran Vergara",
                 "TITLE":"TBA"
