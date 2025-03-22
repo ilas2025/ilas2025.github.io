@@ -34,7 +34,7 @@ The conference will take place at [National Sun Yat-sen University.](https://www
     * Standard Car: The most common passenger car.  
     * Business Car: Only the 6th car of each train is reserved for business class passengers. Enjoy wider seats and complimentary onboard snacks.  
     * Non-Reserved Seat: Tickets are available for on-site purchase only, with minimal discounts. No fixed seat number is assigned; passengers may sit in any vacant seat within designated cars. Typically, cars 10 to 12 are allocated for non-reserved passengers, though additional cars may be available during peak hours. If no seats are available, passengers must stand for an undetermined duration of the journey.  
-  * &#10071; It is recommended to book your ticket in advance on the THSR website if you are certain of your arrival time at the THSR station.  
+  * &#10071; To avoid long lines and ensure a smooth trip, be sure to book your THSR ticket in advance on the official website—especially on weekends when the station is often packed with travelers. 
   * Purchase: [Online Booking](https://en.thsrc.com.tw/ArticleContent/906de59a-8ea0-425a-8055-ca3afded9a3e#), [Ticket Vending Machine](https://en.thsrc.com.tw/ArticleContent/80b78cc8-1d34-43b1-8b74-67fa01e70086), [Ticket Window](https://en.thsrc.com.tw/ArticleContent/0d36ca99-aacd-4dc4-b94e-b5accb8965a0)  
 * From the  Zuoying (Kaohsiung) HSR Station to Hamasen (NSYSU) Station (around 30 minutes)  
   * &#10071; Please follow the MRT sign in the [Zuoying HSR Station](https://en.thsrc.com.tw/ArticleContent/ecdd8e68-3d12-4f0f-8385-f4891e513494)  
