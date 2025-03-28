@@ -16,6 +16,10 @@
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Li-Gang (Charles) Lin",
+                "TITLE":"Fast SDDRE-based maneuvering-target interception at pre-specified orientation"
+            },
+            {
                 "NAME":"Matthew M. Lin",
                 "TITLE":"A gradient flow method to differentiate between classical and quantum correlations"
             },
@@ -28,8 +32,8 @@
                 "TITLE":"Integrative co-embedding of multi-view data sets"
             },
             {
-                "NAME":"Li-Gang (Charles) Lin",
-                "TITLE":"Fast SDDRE-based maneuvering-target interception at pre-specified orientation"
+                "NAME":"Peter Chang-Yi Weng",
+                "TITLE":"Generalized Smith method for large-scale nonsymmetric algebraic Riccati equations"
             }
         ]
     },
