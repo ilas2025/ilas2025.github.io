@@ -282,10 +282,6 @@
         "ORGANIZERS":"Shmuel Friedland, Chi-Kwong Li",
         "SPEAKERS":[
             {
-                "NAME":"Lieven De Lathauwer",
-                "TITLE":"TBA"
-            },
-            {
                 "NAME":"Michal Eckstein",
                 "TITLE":"TBA"
             },
@@ -306,11 +302,11 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Chi-Kwong Li",
+                "NAME":"Zehua Lai",
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Lek-Heng Lim",
+                "NAME":"Chi-Kwong Li",
                 "TITLE":"TBA"
             },
             {
@@ -318,7 +314,7 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Jiawang Nie",
+                "NAME":"Albert Rico",
                 "TITLE":"TBA"
             },
             {
@@ -331,10 +327,6 @@
             },
             {
                 "NAME":"Jeroen Zuiddam",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Karol Życzkowski",
                 "TITLE":"TBA"
             }
         ]
