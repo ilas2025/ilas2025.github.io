@@ -103,7 +103,7 @@ May 18 ~ 22, 2026, Blacksburg, USA
 
 ### Sponsorship
 
-<!-- - [Economic Development Bureau, Kaohsiung City Government](https://edbkcg.kcg.gov.tw/en/Default.aspx) -->
+- [Economic Development Bureau, Kaohsiung City Government](https://edbkcg.kcg.gov.tw/en/Default.aspx)
 - [Elsevier](https://www.elsevier.com/)
 - [International Linear Algebra Society](https://ilasic.org/)
 - [National Science and Technology Council](https://www.nstc.gov.tw/)
