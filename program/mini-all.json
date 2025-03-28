@@ -138,10 +138,6 @@
                 "TITLE":"Tensor-train methods for sequential state and parameter estimation in state-space models"
             },
             {
-                "NAME":"Roberto Diaz Martinez",
-                "TITLE":"On the inverse eigenvalue problem of a graph"
-            },
-            {
                 "NAME":"Srinivas Eswar",
                 "TITLE":"Exchange algorithms for optimal experimental design"
             },
@@ -1012,8 +1008,8 @@
                 "TITLE":"A low-memory Lanczos method with rational Krylov compression"
             },
             {
-                "NAME":"Raf Vandebril",
-                "TITLE":"On matrix polynomials and block Krylov"
+                "NAME":"Robbe Vermeiren",
+                "TITLE":"An inverse eigenvalue problem linked to multiple orthogonal polynomials"
             }
         ]
     },

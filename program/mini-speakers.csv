@@ -28,7 +28,6 @@ MS4,Jonas Bresch,Matrix-free stochastic calculation of operator norms without us
 MS4,Daniela Calvetti,The linear algebra of space-time regularization for time-dependent distributed inverse problems
 MS4,Matthias Chung,Data-driven inverse problems via autoencoder
 MS4,Tiangang Cui,Tensor-train methods for sequential state and parameter estimation in state-space models
-MS4,Roberto Diaz Martinez,On the inverse eigenvalue problem of a graph
 MS4,Srinivas Eswar,Exchange algorithms for optimal experimental design
 MS4,Colin Fox,Iterative samplers
 MS4,Mirjeta Pasha,Efficient dynamic image reconstruction with motion estimation
@@ -218,7 +217,7 @@ MS23,Stefano Pozza,Krylov subspace methods and the $\star$-algebra
 MS23,Michele Rinelli,Krylov techniques for estimating spectral gaps of sparse symmetric matrices
 MS23,Nian Shao,Lanczos with compression for symmetric eigenvalue problems
 MS23,Igor Simunec,A low-memory Lanczos method with rational Krylov compression
-MS23,Raf Vandebril,On matrix polynomials and block Krylov
+MS23,Robbe Vermeiren,An inverse eigenvalue problem linked to multiple orthogonal polynomials
 MS24,Geir Dahl,Near-derangements and their polytopes
 MS24,Jürgen Garloff,Variation diminution under uncertainty
 MS24,Priyanks Joshi,Arbitrarily finely divisible matrices
