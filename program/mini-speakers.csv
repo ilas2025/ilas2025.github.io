@@ -83,9 +83,9 @@ MS9,Shivangi Yadav,TBA
 MS10,Hayoung Choi,Geometric mean of T-positive definite tensors
 MS10,Trung Hoa Dinh,Operator means and quantum divergences
 MS10,Huajun Huang,Progress of near orders on matrix means
-MS10,Knut Hüper,Geometric means on weakly symmetric spaces and their computation
 MS10,Sejong Kim,In-betweenness and Heinz mean type inequalities
 MS10,Luís Machado,Spherical triangle configurations with invariant geometric mean
+MS10,Vatsalkumar Mer,Multi-variable alternative means of positive definite matrices
 MS10,Milán Mosonyi,Applications of matrix geometric means to quantum hypothesis testing
 MS10,Miklós Pálfia,Law of large numbers for generalized operator means
 MS10,Hiroyuki Osaka,The stability properties under operator means
@@ -162,7 +162,6 @@ MS18,Maolin Che,Efficient algorithms for Tucker decomposition via approximate ma
 MS18,Longxiu Huang,Three-dimensional signal processing: Dynamical sampling via tensor products
 MS18,Joe Kileel,New approach to streaming data tensors
 MS18,Gilad Lerman,A novel outlier-robust PCA method with applications to computer vision
-MS18,Hanyu Li,Double-Tucker decomposition
 MS18,Anna Ma,Stochastic iterative methods for solving tensor linear systems
 MS18,Elizabeth Newman,Optimal matrix-mimetic tensor algebras
 MS18,Jing Niu,A tensor Alternating Anderson-Richardson method for solving multilinear systems with $\mathcal{M}$-tensors

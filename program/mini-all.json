@@ -394,16 +394,16 @@
                 "TITLE":"Progress of near orders on matrix means"
             },
             {
-                "NAME":"Knut Hüper",
-                "TITLE":"Geometric means on weakly symmetric spaces and their computation"
-            },
-            {
                 "NAME":"Sejong Kim",
                 "TITLE":"In-betweenness and Heinz mean type inequalities"
             },
             {
                 "NAME":"Luís Machado",
                 "TITLE":"Spherical triangle configurations with invariant geometric mean"
+            },
+            {
+                "NAME":"Vatsalkumar Mer",
+                "TITLE":"Multi-variable alternative means of positive definite matrices"
             },
             {
                 "NAME":"Milán Mosonyi",
@@ -756,10 +756,6 @@
             {
                 "NAME":"Gilad Lerman",
                 "TITLE":"A novel outlier-robust PCA method with applications to computer vision"
-            },
-            {
-                "NAME":"Hanyu Li",
-                "TITLE":"Double-Tucker decomposition"
             },
             {
                 "NAME":"Anna Ma",
