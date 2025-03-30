@@ -1019,39 +1019,31 @@
     },
     "MS24":{
         "TITLE":"Nonnegative and related families of matrices",
-        "ORGANIZERS":"Raphael Loewy, Julio Moro",
+        "ORGANIZERS":"Geir Dahl, Raphael Loewy, Julio Moro",
         "SPEAKERS":[
+            {
+                "NAME":"Minerva Catral",
+                "TITLE":"Refined inertias of nonnegative patterns with positive off-diagonal entries"
+            },
             {
                 "NAME":"Geir Dahl",
                 "TITLE":"Near-derangements and their polytopes"
             },
             {
-                "NAME":"Jürgen Garloff",
-                "TITLE":"Variation diminution under uncertainty"
-            },
-            {
-                "NAME":"Priyanka Joshi",
-                "TITLE":"Arbitrarily finely divisible matrices"
-            },
-            {
-                "NAME":"Ana Julio",
-                "TITLE":"About the persymmetric nonnegative inverse eigenvalue problem in low dimension"
+                "NAME":"Hitesh Kumar",
+                "TITLE":"New results on second eigenvalue extremization"
             },
             {
                 "NAME":"Raphael Loewy",
-                "TITLE":"On the structure of the cone of polynomials preserving nonnegative matrices"
+                "TITLE":"On cones of polynomials preserving nonnegative matrices"
             },
             {
-                "NAME":"C. Marijuán",
-                "TITLE":"Diagonalizably realizable implies universally realizable"
-            },
-            {
-                "NAME":"H. Monterde",
+                "NAME":"Hermie Monterde",
                 "TITLE":"Perfect state transfer between nonnegative real pure states"
             },
             {
-                "NAME":"M. Pisonero",
-                "TITLE":"The nonnnegative inverse eigenvalue problem and positive realizations"
+                "NAME":"Shivaramakrishna Pragada",
+                "TITLE":"Triangle counting and the Bollob ́as-Nikiforov conjecture"
             },
             {
                 "NAME":"K. C. Sivakumar",
