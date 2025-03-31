@@ -110,6 +110,11 @@ enableRobotsTXT = true
   weight = 22
 [[menu.main]]
   parent = 'Program'
+  name = 'Schedule'
+  URL = '/program/schedule/'
+  weight = 30
+[[menu.main]]
+  parent = 'Program'
   name = 'Plenary speakers'
   URL = '/program/plenary/'
   weight = 31
