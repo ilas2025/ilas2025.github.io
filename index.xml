@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The 26th Conference of the International Linear Algebra Society on ILAS2025</title><link>https://ilas2025.tw/</link><description>Recent content in The 26th Conference of the International Linear Algebra Society on ILAS2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 07 Feb 2025 22:48:52 +0800</lastBuildDate><atom:link href="https://ilas2025.tw/index.xml" rel="self" type="application/rss+xml"/><item><title>Notes</title><link>https://ilas2025.tw/notes/</link><pubDate>Fri, 07 Feb 2025 22:48:52 +0800</pubDate><guid>https://ilas2025.tw/notes/</guid><description>&lt;h1 id="notes">Notes&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The 26th Conference of the International Linear Algebra Society on ILAS2025</title><link>https://ilas2025.tw/</link><description>Recent content in The 26th Conference of the International Linear Algebra Society on ILAS2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 31 Mar 2025 13:13:47 +0800</lastBuildDate><atom:link href="https://ilas2025.tw/index.xml" rel="self" type="application/rss+xml"/><item><title>Schedule</title><link>https://ilas2025.tw/program/schedule/</link><pubDate>Mon, 31 Mar 2025 13:13:47 +0800</pubDate><guid>https://ilas2025.tw/program/schedule/</guid><description>&lt;p>There will be &lt;a href="https://la-education.oucreate.com/conferences-and-workshops/workshop2025/">Workshop Series on Bridging Abstract and Numerical Linear Algebra&lt;/a> on June 22, Sunday, from 2:00 pm to 4:00 pm.
+You are welcome to join and work together on linear algebra education.&lt;/p>
+&lt;p>Early check-in is also availbale on the same day,
+with details to be announced later.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://ilas2025.tw/files/schedule.pdf">Schedule&lt;/a>&lt;/li>
+&lt;li>Program TBA&lt;/li>
+&lt;/ul></description></item><item><title>Notes</title><link>https://ilas2025.tw/notes/</link><pubDate>Fri, 07 Feb 2025 22:48:52 +0800</pubDate><guid>https://ilas2025.tw/notes/</guid><description>&lt;h1 id="notes">Notes&lt;/h1>
 &lt;p>所有$d$次以下的多項式可以形成一個向量空間$P_d$，其常用的基底為$\alpha=\{1,x,...,x^d\}$。
 在這個基底的觀點，所有$P_d$中的多項式。&lt;/p>
 $$p(x)=c_0+c_1x+...+C_dx^d$$&lt;p>
