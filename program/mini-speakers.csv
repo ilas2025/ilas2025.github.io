@@ -46,8 +46,7 @@ MS5,Patrick Kürschner,Extrapolation for iterative solvers for matrix equations
 MS5,Beatrice Meini,A combination of cyclic reduction and shift-and-deflate techniques for solving quadratic matrix equations
 MS5,Davide Palitta,A subspace-conjugate gradient method for linear matrix equations
 MS5,Steffen W. R. Werner,Efficiently solving nonstandard Riccati equations via indefinite factorizations
-MS6,Christopher Beattie,Data based reduced order modeling for port-Hamiltonian descriptor systems
-MS6,Nicolas Boullé,Multiplicative dynamic mode decomposition
+MS6,Christopher Beattie,Gaussian process regression for the identification of model dynamics
 MS6,Saifon Chatarantabut,Nonlinear model reduction using machine learning on Grassmann manifolds
 MS6,Eric de Sturler,Model reduction techniques for dynamic and streaming-type inverse problems
 MS6,Zlatko Drmač,Koopman mode decomposition for nonlinear model reduction
@@ -172,6 +171,7 @@ MS18,Leonardo Robol,A multilinear Nyström algorithm for low-rank approximation 
 MS19,Antonio Cicone,Signal processing of spherical data. From real life to mathematical challenges
 MS19,Sven-Erik Ekström,The spectrum of Toeplitz matrices with two non-zero off-diagonals
 MS19,Dario Giandinoto,Banded block Toeplitz matrices with real asymptotic spectrum
+MS19,Sean Hon,An optimal preconditioned MINRES method for nonsymmetric multilevel block Toeplitz systems with applications
 MS19,Asim Ilyas,GLT analysis and efficient regularing reconstruction for Inverse source problems in generalized diffusion equations
 MS19,Muhammad Faisal Khan,Matrix-sequences of geometric means in the case of hidden (asymptotic) structures
 MS19,Valerio Loi,"Spectral analysis, approximation, and preconditioning for block structured matrix-sequences"
