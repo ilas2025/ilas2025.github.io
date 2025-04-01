@@ -108,8 +108,9 @@ May 18 ~ 22, 2026, Blacksburg, USA
 - [International Linear Algebra Society](https://ilasic.org/)
 - [National Science and Technology Council](https://www.nstc.gov.tw/)
 - [National Sun Yat-sen University](https://www.nsysu.edu.tw/)
-    * [Office of Research and Development](https://ora.nsysu.edu.tw/)
+    * [College of Science](https://science.nsysu.edu.tw/)
     * [Department of Applied Mathematics](https://math.nsysu.edu.tw/)
+    * [Office of Research and Development](https://ora.nsysu.edu.tw/)
 - [SIAM Activity Group on Linear Algebra](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/linear-algebra/)
 - [Taylor & Francis Group](https://taylorandfrancis.com/about/)
 

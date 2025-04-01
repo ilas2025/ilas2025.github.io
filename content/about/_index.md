@@ -49,6 +49,10 @@ Kung University), while the local committee members are:
 - Ngai-Ching Wong (National Sun Yat-sen University)
 - Suh-Yuh Yang (National Central Unvierstiy)
 
+Assistant Conference Director
+
+- Bing-Ze Lu (National Cheng Kung University)
+
 ### Contact
 
 If you have any question, please contact `ilas2025 [at] math [dot]
