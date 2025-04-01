@@ -290,11 +290,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;ul>
  
  &lt;li>Christopher Beattie, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Data based reduced order modeling for port-Hamiltonian descriptor systems&lt;/span>
- &lt;/li>
- 
- &lt;li>Nicolas Boullé, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Multiplicative dynamic mode decomposition&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Gaussian process regression for the identification of model dynamics&lt;/span>
  &lt;/li>
  
  &lt;li>Saifon Chatarantabut, 
@@ -960,6 +956,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Dario Giandinoto, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Banded block Toeplitz matrices with real asymptotic spectrum&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sean Hon, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An optimal preconditioned MINRES method for nonsymmetric multilevel block Toeplitz systems with applications&lt;/span>
  &lt;/li>
  
  &lt;li>Asim Ilyas, 
