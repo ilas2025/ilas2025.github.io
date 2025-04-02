@@ -250,10 +250,6 @@
                 "TITLE":"Identifying and estimating dynamical covariance matrices with hierarchical rank structure"
             },
             {
-                "NAME":"Elizabeth Qian",
-                "TITLE":"The fundamental subspaces of Ensemble Kalman Inversion"
-            },
-            {
                 "NAME":"Zoran Tomljanovic",
                 "TITLE":"Efficient solution of sequences of parametrized Lyapunov equations with applications"
             },
@@ -500,10 +496,6 @@
             {
                 "NAME":"Shiho Oi",
                 "TITLE":"Periodic surjective isometries on Banach algebras"
-            },
-            {
-                "NAME":"Antonio Peralta",
-                "TITLE":"TBA"
             },
             {
                 "NAME":"Ed Poon",
@@ -1395,10 +1387,6 @@
         "TITLE":"Preserver Problems, II",
         "ORGANIZERS":"Ngai-Ching Wong, Sushil Singla",
         "SPEAKERS":[
-            {
-                "NAME":"Jan Hamhalter",
-                "TITLE":"Symmetries of positive cones in operator algebra structures"
-            },
             {
                 "NAME":"Daisuke Hirota",
                 "TITLE":"Tingley's problem concerning the direct sum of extremely $C$-regular subspaces with the $\\ell^p$-norm"

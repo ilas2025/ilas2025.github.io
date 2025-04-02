@@ -53,7 +53,6 @@ MS6,Zlatko Drmač,Koopman mode decomposition for nonlinear model reduction
 MS6,Ionut Farcas,Distributed computing for physics-based data-driven reduced modeling at scale
 MS6,Riccardo Morandin,Structure-preserving model order reduction of linear time-varying port-Hamiltonian systems
 MS6,Sam Otto,Identifying and estimating dynamical covariance matrices with hierarchical rank structure
-MS6,Elizabeth Qian,The fundamental subspaces of Ensemble Kalman Inversion
 MS6,Zoran Tomljanovic,Efficient solution of sequences of parametrized Lyapunov equations with applications
 MS6,Steffen Werner,Reduced-order modeling of mechanical systems via structured barycentric forms
 MS6,Ralf Zimmerman,On the errors associated with manifold interpolation for model reduction applications
@@ -107,7 +106,6 @@ MS12,Takeshi Miura,Surjective isometries on Banach spaces with derivatives
 MS12,Lajos Molnár,Relative entropy preserving maps on positive cones in operator algebras
 MS12,Michiya Mori,On the Scottish Book Problem 155 by Mazur and Sternbach
 MS12,Shiho Oi,Periodic surjective isometries on Banach algebras
-MS12,Antonio Peralta,TBA
 MS12,Ed Poon,Linear preservers of parallel pairs
 MS12,Saikat Roy,Preservation of orthogonality by unitary and isometric dilations
 MS12,Peter Šemrl,Local order isomorphisms on operator and matrix domains
@@ -296,7 +294,6 @@ MS34,Chia-An Liu,TBA
 MS34,Akihiro Munemasa,TBA
 MS34,Sho Suda,"Tight 3-designs and s-distance set (2s-1)designs in Hamming schemes $H(n,q)$"
 MS34,Pin-Chieh Tseng,TBA
-MS35,Jan Hamhalter,Symmetries of positive cones in operator algebra structures
 MS35,Daisuke Hirota,Tingley's problem concerning the direct sum of extremely $C$-regular subspaces with the $\ell^p$-norm
 MS35,Bojan Kuzma,On bijections which strongly preserve Birkhoff-James orthogonality on finite-dimensional $C^*$-algebras
 MS35,Izuho Matsuzaki,Phase isometries on continuous function spaces
