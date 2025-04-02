@@ -4,6 +4,7 @@ MS1,Akira Imakura,Deflation techniques for matrix function calculations based on
 MS1,Chiu-Yen Kao,TBA
 MS1,Li-Gang (Charles) Lin,Fast SDDRE-based maneuvering-target interception at pre-specified orientation
 MS1,Matthew M. Lin,A gradient flow method to differentiate between classical and quantum correlations
+MS1,Tzon-Tzer Lu,Uncertainty principle of condition number
 MS1,Shinya Miyajima,TBA
 MS1,Haesun Park,Integrative co-embedding of multi-view data sets
 MS1,Peter Chang-Yi Weng,Generalized Smith method for large-scale nonsymmetric algebraic Riccati equations
@@ -218,6 +219,7 @@ MS23,Igor Simunec,A low-memory Lanczos method with rational Krylov compression
 MS23,Robbe Vermeiren,An inverse eigenvalue problem linked to multiple orthogonal polynomials
 MS24,Minerva Catral,Refined inertias of nonnegative patterns with positive off-diagonal entries
 MS24,Geir Dahl,Near-derangements and their polytopes
+MS24,Richard Ellard,Connecting the Hermite-Biehler Theorem to the nonnegative inverse eigenvalue problem
 MS24,Hitesh Kumar,New results on second eigenvalue extremization
 MS24,Raphael Loewy,On cones of polynomials preserving nonnegative matrices
 MS24,Hermie Monterde,Perfect state transfer between nonnegative real pure states
