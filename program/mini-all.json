@@ -2,6 +2,7 @@
     "MS1":{
         "TITLE":"Embracing new opportunities in numerical linear algebra",
         "ORGANIZERS":"Pengwen Chen, Matthrew Lin",
+        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Eric King-wah Chu",
@@ -44,6 +45,7 @@
     "MS2":{
         "TITLE":"Combinatorial matrix theory",
         "ORGANIZERS":"Aida Abiad, Shaun Fallat, Michael Tait",
+        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Jane Breen",
@@ -83,7 +85,7 @@
             },
             {
                 "NAME":"Helena Šmigoc",
-                "TITLE":"Characteristic polynomials of structured nonnegative matrices"
+                "TITLE":"Stochastic matrices with infinitely many stochastic roots"
             },
             {
                 "NAME":"Kevin Vander Meulen",
@@ -98,6 +100,7 @@
     "MS3":{
         "TITLE":"Matrix inequalities with applications",
         "ORGANIZERS":"D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang",
+        "COUNT":6,
         "SPEAKERS":[
             {
                 "NAME":"Pattrawut Chansangiam",
@@ -128,6 +131,7 @@
     "MS4":{
         "TITLE":"Linear algebra methods for inverse problems and data assimilation",
         "ORGANIZERS":"Julianne Chung, Arvind K. Saibaba",
+        "COUNT":11,
         "SPEAKERS":[
             {
                 "NAME":"Davide Bianchi",
@@ -178,6 +182,7 @@
     "MS5":{
         "TITLE":"Advances in matrix equations: Theory, computations, and applications",
         "ORGANIZERS":"Andrii Dmytryshyn, Davide Palitta",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Roberto Canogar",
@@ -224,6 +229,7 @@
     "MS6":{
         "TITLE":"Model reduction",
         "ORGANIZERS":"Christopher Beattie, Zlatko Drmać",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Christopher Beattie",
@@ -270,6 +276,7 @@
     "MS7":{
         "TITLE":"Linear algebra and quantum information science",
         "ORGANIZERS":"Hao-Wei Huang, Ray-Kuang Lee",
+        "COUNT":1,
         "SPEAKERS":[
             {
                 "NAME":"TBA",
@@ -280,6 +287,7 @@
     "MS8":{
         "TITLE":"Tensor and quantum information science",
         "ORGANIZERS":"Shmuel Friedland, Chi-Kwong Li",
+        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Michal Eckstein",
@@ -334,6 +342,7 @@
     "MS9":{
         "TITLE":"Total positivity",
         "ORGANIZERS":"Projesh Nath Choudhury, Apoorva Khare",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Sujit Sakharam Damase",
@@ -380,6 +389,7 @@
     "MS10":{
         "TITLE":"Matrix means and related topics",
         "ORGANIZERS":"Trung Hoa Dinh, Sejong Kim, Tin-Yau Tam",
+        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Hayoung Choi",
@@ -434,6 +444,7 @@
     "MS11":{
         "TITLE":"Structured matrix computations and its applications",
         "ORGANIZERS":"Tsung-Ming Huang, Yueh-Cheng Kuo, Wen-Wei Lin",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Chun-Yueh Chiang",
@@ -480,6 +491,7 @@
     "MS12":{
         "TITLE":"Preserver problems, I",
         "ORGANIZERS":"Lajos Molnár, Ming-Cheng Tsai,  Ngai-Ching Wong",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Osamu Hatori",
@@ -526,6 +538,7 @@
     "MS13":{
         "TITLE":"Advances in QR factorizations",
         "ORGANIZERS":"Sivan Toledo",
+        "COUNT":4,
         "SPEAKERS":[
             {
                 "NAME":"Takeshi Fukaya",
@@ -548,6 +561,7 @@
     "MS14":{
         "TITLE":"Pencils, polynomial, and rational matrices",
         "ORGANIZERS":"Froilán Dopico, Vanni Noferini, Alicia Roca",
+        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Shreemayee Bora",
@@ -602,6 +616,7 @@
     "MS15":{
         "TITLE":"Graphs and their eigenvalues: Celebrating the work of Fan Chung Graham",
         "ORGANIZERS":"Mark Kempton",
+        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Wei-Chia Chen",
@@ -644,6 +659,7 @@
     "MS16":{
         "TITLE":"Approximations and errors in Krylov-based solvers",
         "ORGANIZERS":"Xin Liu, Bastien Vieublé",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Tomohiro Sogabe",
@@ -690,6 +706,7 @@
     "MS17":{
         "TITLE":"Graphs and matrices in honor of Leslie Hogben's retirement",
         "ORGANIZERS":"Minerva Catral, Mary Flagg",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Aida Abiad",
@@ -736,6 +753,7 @@
     "MS18":{
         "TITLE":"New methods in numerical multilinear algebra",
         "ORGANIZERS":"Xiaobo Liu, Anna Ma, Elizabeth Newman, Eda Oktay",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Maolin Che",
@@ -782,6 +800,7 @@
     "MS19":{
         "TITLE":"Explicit and hidden asymptotic structures, GLT Analysis, and applications",
         "ORGANIZERS":"Sven-Erik Ekström, David Meadon",
+        "COUNT":11,
         "SPEAKERS":[
             {
                 "NAME":"Antonio Cicone",
@@ -832,6 +851,7 @@
     "MS20":{
         "TITLE":"Manifold learning and statistical applications",
         "ORGANIZERS":"Chih-Wei Chen, ShengLi Tzeng",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Chih-Wei Chen",
@@ -878,6 +898,7 @@
     "MS21":{
         "TITLE":"Linear algebra techniques in graph theory",
         "ORGANIZERS":"Milica Anđelić, Zhibin Du",
+        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Milica Anđelić",
@@ -932,6 +953,7 @@
     "MS22":{
         "TITLE":"Linear algebra applications in computational geometry",
         "ORGANIZERS":"Marco Sutti, Mei-Heng Yueh",
+        "COUNT":5,
         "SPEAKERS":[
             {
                 "NAME":"Gary Pui Tung Choi",
@@ -958,6 +980,7 @@
     "MS23":{
         "TITLE":"Advances in Krylov subspace methods and their applications",
         "ORGANIZERS":"Michele Rinelli, Igor Simunec",
+        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Benjamin Carrel",
@@ -1012,6 +1035,7 @@
     "MS24":{
         "TITLE":"Nonnegative and related families of matrices",
         "ORGANIZERS":"Geir Dahl, Raphael Loewy, Julio Moro",
+        "COUNT":8,
         "SPEAKERS":[
             {
                 "NAME":"Minerva Catral",
@@ -1050,6 +1074,7 @@
     "MS25":{
         "TITLE":"Enumerative\/algebraic combinatorics and matrices",
         "ORGANIZERS":"Yen-Jen Cheng, Sen-Peng Eu, Yuan-Hsun Lo",
+        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Lei Cao",
@@ -1088,6 +1113,10 @@
                 "TITLE":"Exploring graph characterization via specialized matrices"
             },
             {
+                "NAME":"Bit-Shun Tam",
+                "TITLE":"On the maximal $A_\\alpha$-index of graphs with a prescribed number of edges"
+            },
+            {
                 "NAME":"Shen-Fu Tsai",
                 "TITLE":"Extremal and saturation function of multidimensional $0$-$1$ matrices"
             },
@@ -1100,6 +1129,7 @@
     "MS26":{
         "TITLE":"Utilizing structure to achieve low-complexity algorithms for data science, engineering, and physics",
         "ORGANIZERS":"Sirani M. Perera, Natalia Bebiano",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Hansaka Aluvihare",
@@ -1146,6 +1176,7 @@
     "MS27":{
         "TITLE":"Linear algebra education",
         "ORGANIZERS":"Rachel Quinlan, Sepideh Stewart",
+        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Jane Breen",
@@ -1188,6 +1219,7 @@
     "MS28":{
         "TITLE":"From matrix theory to Euclidean Jordan algebras, FTvN systems, and beyond",
         "ORGANIZERS":"Juyoung Jeong, David Sossa",
+        "COUNT":4,
         "SPEAKERS":[
             {
                 "NAME":"M. Seetharama Gowda",
@@ -1210,6 +1242,7 @@
     "MS29":{
         "TITLE":"Matrix functions and related topics",
         "ORGANIZERS":"Yuki Seo, Takeaki Yamazaki",
+        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Fumio Hiai",
@@ -1256,6 +1289,7 @@
     "MS30":{
         "TITLE":"Bohemian matrices: Theory, applications, and explorations",
         "ORGANIZERS":"Eunice Y. S. Chan, Robert M. Corless",
+        "COUNT":5,
         "SPEAKERS":[
             {
                 "NAME":"Eunice Y. S. Chan",
@@ -1282,6 +1316,7 @@
     "MS31":{
         "TITLE":"Matrix decompositions and applications",
         "ORGANIZERS":"Kennett Dela Rosa, Daryl Granario, Hermie Monterde",
+        "COUNT":6,
         "SPEAKERS":[
             {
                 "NAME":"Angelo Galimba",
@@ -1312,6 +1347,7 @@
     "MS32":{
         "TITLE":"Advances in matrix manifold optimization",
         "ORGANIZERS":"Zehua Lai",
+        "COUNT":4,
         "SPEAKERS":[
             {
                 "NAME":"Di Hou",
@@ -1334,6 +1370,7 @@
     "MS33":{
         "TITLE":"Norms of matrices, numerical range, applications of functional analysis to matrix theory",
         "ORGANIZERS":"Ryan O'Loughlin, Jani Virtanen, Ilya Spitkovsky",
+        "COUNT":7,
         "SPEAKERS":[
             {
                 "NAME":"Catalin Badea",
@@ -1368,6 +1405,7 @@
     "MS34":{
         "TITLE":"Combinatorics, association scheme, and graphs",
         "ORGANIZERS":"Wei-Hsuan Yu",
+        "COUNT":5,
         "SPEAKERS":[
             {
                 "NAME":"Yeh-Chi Lin",
@@ -1394,6 +1432,7 @@
     "MS35":{
         "TITLE":"Preserver Problems, II",
         "ORGANIZERS":"Ngai-Ching Wong, Sushil Singla",
+        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Daisuke Hirota",

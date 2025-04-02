@@ -17,7 +17,7 @@ MS2,Emanuel Juliano,Spectral upper bounds for the Grundy number of a graph
 MS2,Steve Kirkland,Combinatorial matrix theory and control of epidemic outbreaks
 MS2,Shahla Nasserasr,The strong spectral property of graph-associated matrices
 MS2,Rachel Quinlan,Idempotent alternating sign matrices
-MS2,Helena Šmigoc,Characteristic polynomials of structured nonnegative matrices
+MS2,Helena Šmigoc,Stochastic matrices with infinitely many stochastic roots
 MS2,Kevin Vander Meulen,Sign patterns that allow or require a nonderogatory matrix
 MS2,Wei Wang,Some recent results on the generalized spectral characterizations of graphs
 MS3,Pattrawut Chansangiam,Integral inequalities of Kantorovich and Fiedler types for Hadamard products of matrices
@@ -234,6 +234,7 @@ MS25,Xiao-Nan Lu,Ternary circulant almost orthogonal arrays with (near) $D$-opti
 MS25,Soichi Okada,Bounded Littlewood identities for cylindric Schur functions and related combinatorics
 MS25,Harry Richman,Tree distance matrices and their minors
 MS25,Lavanya Selvaganesh,Exploring graph characterization via specialized matrices
+MS25,Bit-Shun Tam,On the maximal $A_\alpha$-index of graphs with a prescribed number of edges
 MS25,Shen-Fu Tsai,Extremal and saturation function of multidimensional $0$-$1$ matrices
 MS25,Chi Ho Yuen,TBA
 MS26,Hansaka Aluvihare,A low-complexity LSTM network to realize multibeam beamforming
