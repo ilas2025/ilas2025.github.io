@@ -4,7 +4,7 @@ type: page
 date: 2023-04-03T22:24:53+08:00
 ---
 
-{{< announcement "Announcement: We are currently experiencing a high volume of payments—thank you for your enthusiastic participation! The system has temporarily reached its limit set by the payment agency, and we are working to resolve the issue.  Please wait until March 31 to complete your payment, using the same link. (No need to fill out the registration form again.)  The early bird deadline has been extended to April 6." >}}
+{{< announcement "Announcement:  The early bird deadline has been extended to April 6." >}}
 
 Please read the instruction below and click the bottons to register.
 
