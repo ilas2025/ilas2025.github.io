@@ -15,10 +15,10 @@ MS13,Advances in QR factorizations,Sivan Toledo,4
 MS14,"Pencils, polynomial, and rational matrices","Froilán Dopico, Vanni Noferini, Alicia Roca",12
 MS15,Graphs and their eigenvalues: Celebrating the work of Fan Chung Graham,Mark Kempton,9
 MS16,Approximations and errors in Krylov-based solvers,"Xin Liu, Bastien Vieublé",10
-MS17,Graphs and matrices in honor of Leslie Hogben's retirement,"Minerva Catral, Mary Flagg",10
+MS17,Graphs and matrices in honor of Leslie Hogben's retirement,"Minerva Catral, Mary Flagg",11
 MS18,New methods in numerical multilinear algebra,"Xiaobo Liu, Anna Ma, Elizabeth Newman, Eda Oktay",10
 MS19,"Explicit and hidden asymptotic structures, GLT Analysis, and applications","Sven-Erik Ekström, David Meadon",11
-MS20,Manifold learning and statistical applications,"Chih-Wei Chen, ShengLi Tzeng",10
+MS20,Manifold learning and statistical applications,"Chih-Wei Chen, ShengLi Tzeng",9
 MS21,Linear algebra techniques in graph theory,"Milica Anđelić, Zhibin Du",12
 MS22,Linear algebra applications in computational geometry,"Marco Sutti, Mei-Heng Yueh",5
 MS23,Advances in Krylov subspace methods and their applications,"Michele Rinelli, Igor Simunec",12
@@ -28,7 +28,7 @@ MS26,"Utilizing structure to achieve low-complexity algorithms for data science,
 MS27,Linear algebra education,"Rachel Quinlan, Sepideh Stewart",9
 MS28,"From matrix theory to Euclidean Jordan algebras, FTvN systems, and beyond","Juyoung Jeong, David Sossa",4
 MS29,Matrix functions and related topics,"Yuki Seo, Takeaki Yamazaki",10
-MS30,"Bohemian matrices: Theory, applications, and explorations","Eunice Y. S. Chan, Robert M. Corless",5
+MS30,"Bohemian matrices: Theory, applications, and explorations","Eunice Y. S. Chan, Robert M. Corless",3
 MS31,Matrix decompositions and applications,"Kennett Dela Rosa, Daryl Granario, Hermie Monterde",6
 MS32,Advances in matrix manifold optimization,Zehua Lai,4
 MS33,"Norms of matrices, numerical range, applications of functional analysis to matrix theory","Ryan O'Loughlin, Jani Virtanen, Ilya Spitkovsky",7

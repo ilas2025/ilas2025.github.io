@@ -706,11 +706,15 @@
     "MS17":{
         "TITLE":"Graphs and matrices in honor of Leslie Hogben's retirement",
         "ORGANIZERS":"Minerva Catral, Mary Flagg",
-        "COUNT":10,
+        "COUNT":11,
         "SPEAKERS":[
             {
                 "NAME":"Aida Abiad",
                 "TITLE":"Recent developments of switching methods for the construction of cospectral graphs"
+            },
+            {
+                "NAME":"Chassidy Bozeman",
+                "TITLE":"On the tree cover number and the positive semidefinite maximum nullity of a graph"
             },
             {
                 "NAME":"Louis Deaett",
@@ -851,7 +855,7 @@
     "MS20":{
         "TITLE":"Manifold learning and statistical applications",
         "ORGANIZERS":"Chih-Wei Chen, ShengLi Tzeng",
-        "COUNT":10,
+        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Chih-Wei Chen",
@@ -863,10 +867,6 @@
             },
             {
                 "NAME":"Szu-Chi Chung",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Hsin-Hsiung Bill Huang",
                 "TITLE":"TBA"
             },
             {
@@ -1289,15 +1289,11 @@
     "MS30":{
         "TITLE":"Bohemian matrices: Theory, applications, and explorations",
         "ORGANIZERS":"Eunice Y. S. Chan, Robert M. Corless",
-        "COUNT":5,
+        "COUNT":3,
         "SPEAKERS":[
             {
                 "NAME":"Eunice Y. S. Chan",
                 "TITLE":"Numerical stability of algebraic linearizations"
-            },
-            {
-                "NAME":"Robert M. Corless",
-                "TITLE":"The maximum spread of small Bohemian matrices"
             },
             {
                 "NAME":"Laureano Gonzalez-Vega",
@@ -1306,10 +1302,6 @@
             {
                 "NAME":"Jamie Pommersheim",
                 "TITLE":"More on eigenvalue gaps of integer matrices"
-            },
-            {
-                "NAME":"Kate Stange",
-                "TITLE":"Algebraic starscapes and Bohemian matrices"
             }
         ]
     },

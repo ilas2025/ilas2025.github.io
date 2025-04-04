@@ -148,6 +148,7 @@ MS16,Martina Iannacito,A subspace-conjugate gradient method for linear matrix eq
 MS16,Oleg Balabanov,Preconditioning linear systems via low-precision randomized range deflation
 MS16,Bastien Vieublé,Mixed precision preconditioning strategies for GMRES
 MS17,Aida Abiad,Recent developments of switching methods for the construction of cospectral graphs
+MS17,Chassidy Bozeman,On the tree cover number and the positive semidefinite maximum nullity of a graph
 MS17,Louis Deaett,TBA
 MS17,Shaun Fallat,Leslie’s influence on recent advances on the inverse eigenvalue problem for a graph
 MS17,Mary Flagg,Reconfiguration: Zero forcing parameters and beyond
@@ -181,7 +182,6 @@ MS19,Rosita Luisa Sormani,GLT-based numerical solvers for fractional equations
 MS20,Chih-Wei Chen,TBA
 MS20,Guangliang Chen,TBA
 MS20,Szu-Chi Chung,TBA
-MS20,Hsin-Hsiung Bill Huang,TBA
 MS20,Shih-Hao Huang,TBA
 MS20,Terence Huang,TBA
 MS20,ShengLi Tzeng,TBA
@@ -271,10 +271,8 @@ MS29,Yuki Seo,Matrix trace inequalities related to quantum Tsallis relative entr
 MS29,Shuhei Wada,TBA
 MS29,Pengpeng Xie,Computing the dual matrix exponential
 MS30,Eunice Y. S. Chan,Numerical stability of algebraic linearizations
-MS30,Robert M. Corless,The maximum spread of small Bohemian matrices
 MS30,Laureano Gonzalez-Vega,Bohemian correlation matrices
 MS30,Jamie Pommersheim,More on eigenvalue gaps of integer matrices
-MS30,Kate Stange,Algebraic starscapes and Bohemian matrices
 MS31,Angelo Galimba,Reversibility problem for real quaternion matrices
 MS31,Daryl Granario,TBA
 MS31,Paolo Joven,Products of skew involutions
