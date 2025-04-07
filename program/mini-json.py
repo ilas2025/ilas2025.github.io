@@ -2,13 +2,13 @@
 import pandas as pd
 import json
 
-minis = pd.read_csv("minis.csv").set_index("SID")
+minis = pd.read_csv("minis.csv").set_index("MID")
 mini_speakers = pd.read_csv("mini-speakers.csv")
 mini_all = minis.copy()
 
 sdata = []
-for SID in minis.index:
-    mask = (mini_speakers.TYPE == SID)
+for mid in minis.index:
+    mask = (mini_speakers.TYPE == mid)
     query = mini_speakers.loc[mask, ["NAME", "TITLE"]].to_json(orient="records", force_ascii=False)
     sdata.append(json.loads(query))
 
