@@ -1,4 +1,4 @@
-SID,TITLE,ORGANIZERS,COUNT
+MID,TITLE,ORGANIZERS,COUNT
 MS1,Embracing new opportunities in numerical linear algebra,"Pengwen Chen, Matthrew Lin",9
 MS2,Combinatorial matrix theory,"Aida Abiad, Shaun Fallat, Michael Tait",12
 MS3,Matrix inequalities with applications,"D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang",6
@@ -29,7 +29,7 @@ MS27,Linear algebra education,"Rachel Quinlan, Sepideh Stewart",9
 MS28,"From matrix theory to Euclidean Jordan algebras, FTvN systems, and beyond","Juyoung Jeong, David Sossa",4
 MS29,Matrix functions and related topics,"Yuki Seo, Takeaki Yamazaki",10
 MS30,"Bohemian matrices: Theory, applications, and explorations","Eunice Y. S. Chan, Robert M. Corless",3
-MS31,Matrix decompositions and applications,"Kennett Dela Rosa, Daryl Granario, Hermie Monterde",6
+MS31,Matrix decompositions and applications,"Kennett Dela Rosa, Daryl Granario, Hermie Monterde",7
 MS32,Advances in matrix manifold optimization,Zehua Lai,4
 MS33,"Norms of matrices, numerical range, applications of functional analysis to matrix theory","Ryan O'Loughlin, Jani Virtanen, Ilya Spitkovsky",7
 MS34,"Combinatorics, association scheme, and graphs",Wei-Hsuan Yu,5

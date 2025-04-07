@@ -1308,7 +1308,7 @@
     "MS31":{
         "TITLE":"Matrix decompositions and applications",
         "ORGANIZERS":"Kennett Dela Rosa, Daryl Granario, Hermie Monterde",
-        "COUNT":6,
+        "COUNT":7,
         "SPEAKERS":[
             {
                 "NAME":"Angelo Galimba",
@@ -1321,6 +1321,10 @@
             {
                 "NAME":"Paolo Joven",
                 "TITLE":"Products of skew involutions"
+            },
+            {
+                "NAME":"Tejbir Lohan",
+                "TITLE":"Product of two involutions in special linear groups"
             },
             {
                 "NAME":"Jenny Salinasan",
