@@ -872,6 +872,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inverse eigenvalue problem for a graph: A strong community&lt;/span>
  &lt;/li>
  
+ &lt;li>Hermie Monterde, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
  &lt;li>Michael Tait, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Extremal eigenvalue problems on the normalized distance Laplacian&lt;/span>
  &lt;/li>
@@ -1313,10 +1317,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
  &lt;ul>
  
- &lt;li>Hansaka Aluvihare, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-complexity LSTM network to realize multibeam beamforming&lt;/span>
- &lt;/li>
- 
  &lt;li>Natalia Bebiano, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Revisiting an inverse problem proposed by Boor and Golub&lt;/span>
  &lt;/li>
@@ -1337,16 +1337,12 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-complexity Algorithm for generating Legendre pairs using linear algebra approaches&lt;/span>
  &lt;/li>
  
- &lt;li>Xianqi Li, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Conditional denoising diffusion model-based robust MR image reconstruction from highly undersampled data&lt;/span>
- &lt;/li>
- 
  &lt;li>Sirani M. Perera, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-complexity operator learning for dynamical systems&lt;/span>
  &lt;/li>
  
- &lt;li>Mikhail Tyaglov, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A generalization of the Hermite-Biehler theorem and its applications to tridiagonal matrices&lt;/span>
+ &lt;li>Erkki Somersalo, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Model reduction and matrix compression in dictionary learning applications &lt;/span>
  &lt;/li>
  
  &lt;li>Aaron Welters, 
@@ -1446,6 +1442,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Fumio Hiai, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Joint concavity/convexity of matrix trace functions for geometric type means&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Jinmi Hwang, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Near-order relation of power means &lt;/span>
  &lt;/li>
  
  &lt;li>Masatoshi Ito, 
@@ -1592,31 +1592,19 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
  &lt;ul>
  
- &lt;li>Catalin Badea, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;li>Dragana Cvetkovic Ilic, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Dragana Cvetkovic Ilic&lt;/span>
  &lt;/li>
  
  &lt;li>Ryan O&amp;#39;Loughlin, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
+ &lt;li>Brooke Randell, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
  &lt;li>Jani A. Virtanen, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Nikos Chalmoukis, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Panayiotis J. Psarrakos, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Carlo Bellavita, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Ilya Spitkovsky, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
