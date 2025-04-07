@@ -156,6 +156,7 @@ MS17,Tracy Hall,Minimum degree and minimum rank
 MS17,Franklin Kenter,TBA
 MS17,Anzila Laikhuram,Inverse eigenvalue problems for discrete Schrödinger operators of a graph
 MS17,Jephian C.-H. Lin,Inverse eigenvalue problem for a graph: A strong community
+MS17,Hermie Monterde,TBA
 MS17,Michael Tait,Extremal eigenvalue problems on the normalized distance Laplacian
 MS17,Derek Young,Minimum rank and zero forcing parameters for cobipartite graphs
 MS18,Maolin Che,Efficient algorithms for Tucker decomposition via approximate matrix multiplication
@@ -237,15 +238,13 @@ MS25,Lavanya Selvaganesh,Exploring graph characterization via specialized matric
 MS25,Bit-Shun Tam,On the maximal $A_\alpha$-index of graphs with a prescribed number of edges
 MS25,Shen-Fu Tsai,Extremal and saturation function of multidimensional $0$-$1$ matrices
 MS25,Chi Ho Yuen,TBA
-MS26,Hansaka Aluvihare,A low-complexity LSTM network to realize multibeam beamforming
 MS26,Natalia Bebiano,Revisiting an inverse problem proposed by Boor and Golub
 MS26,Paola Boito,Decay bounds for inverses of banded matrices via quasiseparable structure
 MS26,Luca Gemignani,Some numerical methods for nonlocal boundary value problems
 MS26,Kshitij Khare,Fast computation for high-dimensional Bayesian dynamic factor models
 MS26,Ilias Kotsireas,A low-complexity Algorithm for generating Legendre pairs using linear algebra approaches
-MS26,Xianqi Li,Conditional denoising diffusion model-based robust MR image reconstruction from highly undersampled data
 MS26,Sirani M. Perera,A low-complexity operator learning for dynamical systems
-MS26,Mikhail Tyaglov,A generalization of the Hermite-Biehler theorem and its applications to tridiagonal matrices
+MS26,Erkki Somersalo,Model reduction and matrix compression in dictionary learning applications 
 MS26,Aaron Welters,Structural constraints and Bessmertnyi realizations for response matrices of two-element-kind networks
 MS27,Jane Breen,TBA
 MS27,Fernando De Teran Vergara,TBA
@@ -261,6 +260,7 @@ MS28,Juyoung Jeong,Bounds on the eigenvalues of Jordan products
 MS28,Michael Orlitzky,Jordan and isometric cone automorphisms in Euclidean Jordan algebras
 MS28,David Sossa,Analysis of optimization problems on eigenvalue orbits in Euclidean Jordan algebras
 MS29,Fumio Hiai,Joint concavity/convexity of matrix trace functions for geometric type means
+MS29,Jinmi Hwang,Near-order relation of power means 
 MS29,Masatoshi Ito,The weighted power difference mean and its generalization
 MS29,Miran Jeong,TBA
 MS29,Kenta Kojin,An introduction to noncommutative function theory
@@ -284,13 +284,10 @@ MS32,Di Hou,A low-rank augmented Lagrangian method for doubly nonnegative relaxa
 MS32,Xiang Lu,"Special orthogonal, special unitary, and symplectic groups as products of Grassmannians"
 MS32,Anthony Man-Cho So,Randomized Riemannian submanifold subgradient method for optimization over Stiefel manifold
 MS32,Chun-Hao Yang,Nested Grassmannians for dimensionality reduction with applications
-MS33,Catalin Badea,TBA
+MS33,Dragana Cvetkovic Ilic,Dragana Cvetkovic Ilic
 MS33,Ryan O'Loughlin,TBA
+MS33,Brooke Randell,TBA
 MS33,Jani A. Virtanen,TBA
-MS33,Nikos Chalmoukis,TBA
-MS33,Panayiotis J. Psarrakos,TBA
-MS33,Carlo Bellavita,TBA
-MS33,Ilya Spitkovsky,TBA
 MS34,Yeh-Chi Lin,TBA
 MS34,Chia-An Liu,TBA
 MS34,Akihiro Munemasa,TBA
