@@ -36,6 +36,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
  &lt;ul>
  
+ &lt;li>Pengwen Chen, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
  &lt;li>Eric King-wah Chu, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
@@ -48,7 +52,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
- &lt;li>Li-Gang (Charles) Lin, 
+ &lt;li>Li-Gang Lin, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Fast SDDRE-based maneuvering-target interception at pre-specified orientation&lt;/span>
  &lt;/li>
  
@@ -346,7 +350,35 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
  &lt;ul>
  
- &lt;li>TBA, 
+ &lt;li>Saptak Bhattacharya, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Man-Duen Choi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Chung-Yun Hsieh, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Hsien-Yi Hsieh, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Shao-Hua Hu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Bing-Ze Lu, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Bui Ngoc Muoi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sang-Gyun Youn, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
@@ -554,27 +586,11 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
- &lt;li>Xing-Long Lyu, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Juntao Sun, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Zhong-Heng Tan, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Yiqian Wang, 
+ &lt;li>Shih-Feng Shieh, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
  &lt;li>Chin-Tien Wu, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Shuo Zhang, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
@@ -1316,6 +1332,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;details>
  &lt;summary style="opacity: 0.3;">Potential speakers&lt;/summary>
  &lt;ul>
+ 
+ &lt;li>Hansaka Aluvihare, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A low-complexity LSTM network to realize multibeam beamforming&lt;/span>
+ &lt;/li>
  
  &lt;li>Natalia Bebiano, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Revisiting an inverse problem proposed by Boor and Golub&lt;/span>
