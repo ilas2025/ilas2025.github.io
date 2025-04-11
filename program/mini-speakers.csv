@@ -1,8 +1,9 @@
 TYPE,NAME,TITLE
+MS1,Pengwen Chen,TBA
 MS1,Eric King-wah Chu,TBA
 MS1,Akira Imakura,Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula
 MS1,Chiu-Yen Kao,TBA
-MS1,Li-Gang (Charles) Lin,Fast SDDRE-based maneuvering-target interception at pre-specified orientation
+MS1,Li-Gang Lin,Fast SDDRE-based maneuvering-target interception at pre-specified orientation
 MS1,Matthew M. Lin,A gradient flow method to differentiate between classical and quantum correlations
 MS1,Tzon-Tzer Lu,Uncertainty principle of condition number
 MS1,Shinya Miyajima,TBA
@@ -57,7 +58,14 @@ MS6,Sam Otto,Identifying and estimating dynamical covariance matrices with hiera
 MS6,Zoran Tomljanovic,Efficient solution of sequences of parametrized Lyapunov equations with applications
 MS6,Steffen Werner,Reduced-order modeling of mechanical systems via structured barycentric forms
 MS6,Ralf Zimmerman,On the errors associated with manifold interpolation for model reduction applications
-MS7,TBA,TBA
+MS7,Saptak Bhattacharya,TBA
+MS7,Man-Duen Choi,TBA
+MS7,Chung-Yun Hsieh,TBA
+MS7,Hsien-Yi Hsieh,TBA
+MS7,Shao-Hua Hu,TBA
+MS7,Bing-Ze Lu,TBA
+MS7,Bui Ngoc Muoi,TBA
+MS7,Sang-Gyun Youn,TBA
 MS8,Michal Eckstein,TBA
 MS8,Shmuel Friedland,TBA
 MS8,Gilad Gour,TBA
@@ -96,12 +104,8 @@ MS11,Chun-Yueh Chiang,TBA
 MS11,Hung-Yuan Fan,Inheritance properties of conjugate discrete-time algebraic Riccati equations
 MS11,Yung-Ta Li,TBA
 MS11,Ching-Sung Liu,TBA
-MS11,Xing-Long Lyu,TBA
-MS11,Juntao Sun,TBA
-MS11,Zhong-Heng Tan,TBA
-MS11,Yiqian Wang,TBA
+MS11,Shih-Feng Shieh,TBA
 MS11,Chin-Tien Wu,TBA
-MS11,Shuo Zhang,TBA
 MS12,Osamu Hatori,A spectral property of a uniformly bounded operator
 MS12,Takeshi Miura,Surjective isometries on Banach spaces with derivatives
 MS12,Lajos Molnár,Relative entropy preserving maps on positive cones in operator algebras
@@ -238,6 +242,7 @@ MS25,Lavanya Selvaganesh,Exploring graph characterization via specialized matric
 MS25,Bit-Shun Tam,On the maximal $A_\alpha$-index of graphs with a prescribed number of edges
 MS25,Shen-Fu Tsai,Extremal and saturation function of multidimensional $0$-$1$ matrices
 MS25,Chi Ho Yuen,TBA
+MS26,Hansaka Aluvihare,A low-complexity LSTM network to realize multibeam beamforming
 MS26,Natalia Bebiano,Revisiting an inverse problem proposed by Boor and Golub
 MS26,Paola Boito,Decay bounds for inverses of banded matrices via quasiseparable structure
 MS26,Luca Gemignani,Some numerical methods for nonlocal boundary value problems

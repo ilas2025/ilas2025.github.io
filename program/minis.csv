@@ -5,11 +5,11 @@ MS3,Matrix inequalities with applications,"D. S. Cvetković Ilić, Qing-Wen Wang
 MS4,Linear algebra methods for inverse problems and data assimilation,"Julianne Chung, Arvind K. Saibaba",11
 MS5,"Advances in matrix equations: Theory, computations, and applications","Andrii Dmytryshyn, Davide Palitta",10
 MS6,Model reduction,"Christopher Beattie, Zlatko Drmać",10
-MS7,Linear algebra and quantum information science,"Hao-Wei Huang, Ray-Kuang Lee",1
+MS7,Linear algebra and quantum information science,"Hao-Wei Huang, Ray-Kuang Lee",8
 MS8,Tensor and quantum information science,"Shmuel Friedland, Chi-Kwong Li",12
 MS9,Total positivity,"Projesh Nath Choudhury, Apoorva Khare",10
 MS10,Matrix means and related topics,"Trung Hoa Dinh, Sejong Kim, Tin-Yau Tam",12
-MS11,Structured matrix computations and its applications,"Tsung-Ming Huang, Yueh-Cheng Kuo, Wen-Wei Lin",10
+MS11,Structured matrix computations and its applications,"Tsung-Ming Huang, Yueh-Cheng Kuo, Wen-Wei Lin",6
 MS12,"Preserver problems, I","Lajos Molnár, Ming-Cheng Tsai,  Ngai-Ching Wong",10
 MS13,Advances in QR factorizations,Sivan Toledo,4
 MS14,"Pencils, polynomial, and rational matrices","Froilán Dopico, Vanni Noferini, Alicia Roca",12
@@ -24,7 +24,7 @@ MS22,Linear algebra applications in computational geometry,"Marco Sutti, Mei-Hen
 MS23,Advances in Krylov subspace methods and their applications,"Michele Rinelli, Igor Simunec",12
 MS24,Nonnegative and related families of matrices,"Geir Dahl, Raphael Loewy, Julio Moro",8
 MS25,Enumerative/algebraic combinatorics and matrices,"Yen-Jen Cheng, Sen-Peng Eu, Yuan-Hsun Lo",12
-MS26,"Utilizing structure to achieve low-complexity algorithms for data science, engineering, and physics","Sirani M. Perera, Natalia Bebiano",8
+MS26,"Utilizing structure to achieve low-complexity algorithms for data science, engineering, and physics","Sirani M. Perera, Natalia Bebiano",9
 MS27,Linear algebra education,"Rachel Quinlan, Sepideh Stewart",9
 MS28,"From matrix theory to Euclidean Jordan algebras, FTvN systems, and beyond","Juyoung Jeong, David Sossa",4
 MS29,Matrix functions and related topics,"Yuki Seo, Takeaki Yamazaki",11

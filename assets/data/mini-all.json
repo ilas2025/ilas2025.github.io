@@ -5,6 +5,10 @@
         "COUNT":9,
         "SPEAKERS":[
             {
+                "NAME":"Pengwen Chen",
+                "TITLE":"TBA"
+            },
+            {
                 "NAME":"Eric King-wah Chu",
                 "TITLE":"TBA"
             },
@@ -17,7 +21,7 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Li-Gang (Charles) Lin",
+                "NAME":"Li-Gang Lin",
                 "TITLE":"Fast SDDRE-based maneuvering-target interception at pre-specified orientation"
             },
             {
@@ -276,10 +280,38 @@
     "MS7":{
         "TITLE":"Linear algebra and quantum information science",
         "ORGANIZERS":"Hao-Wei Huang, Ray-Kuang Lee",
-        "COUNT":1,
+        "COUNT":8,
         "SPEAKERS":[
             {
-                "NAME":"TBA",
+                "NAME":"Saptak Bhattacharya",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Man-Duen Choi",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Chung-Yun Hsieh",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Hsien-Yi Hsieh",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Shao-Hua Hu",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Bing-Ze Lu",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Bui Ngoc Muoi",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Sang-Gyun Youn",
                 "TITLE":"TBA"
             }
         ]
@@ -444,7 +476,7 @@
     "MS11":{
         "TITLE":"Structured matrix computations and its applications",
         "ORGANIZERS":"Tsung-Ming Huang, Yueh-Cheng Kuo, Wen-Wei Lin",
-        "COUNT":10,
+        "COUNT":6,
         "SPEAKERS":[
             {
                 "NAME":"Chun-Yueh Chiang",
@@ -463,27 +495,11 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Xing-Long Lyu",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Juntao Sun",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Zhong-Heng Tan",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Yiqian Wang",
+                "NAME":"Shih-Feng Shieh",
                 "TITLE":"TBA"
             },
             {
                 "NAME":"Chin-Tien Wu",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Shuo Zhang",
                 "TITLE":"TBA"
             }
         ]
@@ -1133,8 +1149,12 @@
     "MS26":{
         "TITLE":"Utilizing structure to achieve low-complexity algorithms for data science, engineering, and physics",
         "ORGANIZERS":"Sirani M. Perera, Natalia Bebiano",
-        "COUNT":8,
+        "COUNT":9,
         "SPEAKERS":[
+            {
+                "NAME":"Hansaka Aluvihare",
+                "TITLE":"A low-complexity LSTM network to realize multibeam beamforming"
+            },
             {
                 "NAME":"Natalia Bebiano",
                 "TITLE":"Revisiting an inverse problem proposed by Boor and Golub"
