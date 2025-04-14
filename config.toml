@@ -129,6 +129,11 @@ enableRobotsTXT = true
   URL = '/program/contributed-and-poster/'
   weight = 33
 [[menu.main]]
+  parent = 'Program'
+  name = 'Talks Similarity Dashboard'
+  URL = '/program/talks-similarity-dashboard/'
+  weight = 34
+[[menu.main]]
   parent = 'About'
   name = 'LOGO'
   URL = '/about/logo/'
