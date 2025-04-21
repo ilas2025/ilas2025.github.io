@@ -4,7 +4,7 @@ type: page
 date: 2023-04-03T22:24:53+08:00
 ---
 
-<!-- {{< announcement "Announcement:  The early bird deadline has been extended to April 6." >}} -->
+{{< announcement "Announcement: Please complete your registration and payment by **May 15** to receive a printed name badge, a conference package, and secure your spot for the excursion and banquet." >}}
 
 Please read the instruction below and click the bottons to register.
 
