@@ -120,7 +120,7 @@ enableRobotsTXT = true
   weight = 31
 [[menu.main]]
   parent = 'Program'
-  name = 'Mini-symposia'
+  name = 'Mini-symposia and early career speakers'
   URL = '/program/mini/'
   weight = 32
 [[menu.main]]
@@ -130,7 +130,7 @@ enableRobotsTXT = true
   weight = 33
 [[menu.main]]
   parent = 'Program'
-  name = 'Talks Similarity Dashboard'
+  name = 'Talks similarity dashboard'
   URL = '/program/talks-similarity-dashboard/'
   weight = 34
 [[menu.main]]

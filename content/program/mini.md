@@ -1,8 +1,16 @@
 ---
-title: "Mini-symposia"
+title: "Mini-symposia and early career speakers"
 type: page
 date: 2024-09-01T17:04:33+08:00
 ---
+
+### Early career speakers
+
+- Vương Trung Dũng
+- Srinivas Eswar
+- Michiya Mori
+- Eda Oktay
+- Rosita Luisa Sormani
 
 ### Mini-symposia
 
