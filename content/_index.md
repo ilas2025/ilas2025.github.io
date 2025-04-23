@@ -1,5 +1,6 @@
 ---
 title: "The 26th Conference of the International Linear Algebra Society"
+type: page
 
 description: "June 23 ~ 27, 2025 ∞ Kaohsiung"
 cascade:
