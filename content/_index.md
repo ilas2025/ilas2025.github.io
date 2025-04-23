@@ -117,5 +117,3 @@ May 18 ~ 22, 2026, Blacksburg, USA
     * [Office of Research and Development](https://ora.nsysu.edu.tw/)
 - [SIAM Activity Group on Linear Algebra](https://www.siam.org/get-involved/connect-with-a-community/activity-groups/linear-algebra/)
 - [Taylor & Francis Group](https://taylorandfrancis.com/about/)
-
-### LOGO
