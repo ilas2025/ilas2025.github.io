@@ -22,6 +22,7 @@ You may help us to [share this event](/files/ILAS2025-slides.pdf)!
 with the accomodation of participants.  Please be aware of fraudulent emails; 
 see, e.g.,
 {{< newpage "here" "https://www.world-finance-conference.com/scam.php" >}}.
+We offer some hotel options in [Local](taiwan/local/).
 
 &#127882; For your information, the government offers a lucky draw of 
 5000 NTD (pre-paid card or voucher) 
