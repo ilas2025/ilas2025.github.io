@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 minis = pd.read_csv("minis.csv").set_index("MID")
-mini_speakers = pd.read_csv("mini-speakers.csv")
+mini_speakers = pd.read_csv("mini-speakers.csv").fillna("TBA")
 mini_all = minis.copy()
 
 sdata = []
