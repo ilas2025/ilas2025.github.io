@@ -1,309 +1,311 @@
 TYPE,NAME,TITLE
-MS1,Pengwen Chen,TBA
-MS1,Eric King-wah Chu,TBA
-MS1,Akira Imakura,Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula
-MS1,Chiu-Yen Kao,TBA
-MS1,Li-Gang Lin,Fast SDDRE-based maneuvering-target interception at pre-specified orientation
-MS1,Matthew M. Lin,A gradient flow method to differentiate between classical and quantum correlations
+MS1,Pengwen Chen,
+MS1,Eric King-wah Chu,
+MS1,Van Su Giap,Spectral properties of stochastic block model
+MS1,Akira Imakura,
+MS1,Chiu-Yen Kao,A semi-definite optimization method for maximizing the shared band gap of topologicalpPhotonic crystals
+MS1,Li-Gang Lin,Fast SDDRE-based maneuvering-target interception at prespecified orientation
+MS1,Matthew M. Lin,
+MS1,Etna Lindy,Nonnegative rank-2 approximations -- on choosing a starting point for ANLS
 MS1,Tzon-Tzer Lu,Uncertainty principle of condition number
-MS1,Shinya Miyajima,TBA
-MS1,Haesun Park,Integrative co-embedding of multi-view data sets
+MS1,Shinya Miyajima,Some norm bounds on the complimentary error matrix functions
+MS1,Haesun Park,
 MS1,Peter Chang-Yi Weng,Generalized Smith method for large-scale nonsymmetric algebraic Riccati equations
-MS2,Jane Breen,Kemeny's constant and the impact of a single transition
-MS2,Richard Brualdi,(Reverse-)Grassmannian permutation matrices
+MS2,Jane Breen,
+MS2,Richard A. Brualdi,(Reverse-)Grassmannian permutation matrices
 MS2,Himanshu Gupta,Minimum number of distinct eigenvalues of Johnson and Hamming graphs
 MS2,Carlos Hoppen,Spectral community detection in geometric random graphs
-MS2,Zilin Jiang,"Beyond the classification theorem of Cameron, Goethals, Seidel and Shult"
-MS2,Emanuel Juliano,Spectral upper bounds for the Grundy number of a graph
-MS2,Steve Kirkland,Combinatorial matrix theory and control of epidemic outbreaks
-MS2,Shahla Nasserasr,The strong spectral property of graph-associated matrices
+MS2,Zilin Jiang,Median eigenvalues of subcubic graphs
+MS2,Steve Kirkland,A centrality measure for cut edges in undirected graphs
+MS2,Emanuel Juliano Morais Silva,Spectral upper bounds for the Grundy number of a graph
+MS2,Shahla Nasserasr,An approach to computing maximum multiplicity of eigenvalues in graphs
 MS2,Rachel Quinlan,Idempotent alternating sign matrices
 MS2,Helena Šmigoc,Stochastic matrices with infinitely many stochastic roots
-MS2,Kevin Vander Meulen,Sign patterns that allow or require a nonderogatory matrix
-MS2,Wei Wang,Some recent results on the generalized spectral characterizations of graphs
+MS2,Kevin Vander Meulen,Matrix sign patterns that allow the strong multiplicity property
+MS2,Wei Wang,
 MS3,Pattrawut Chansangiam,Integral inequalities of Kantorovich and Fiedler types for Hadamard products of matrices
 MS3,Shigeru Furuichi,Inequalities on spectral geometric mean and application for relative entropy
 MS3,Rute Lemos,$J$-selfadoint matrix means and their indefinite inequalities
-MS3,Zhongshan Jason Li,Orthogonal similarity via transversal intersection of manifolds
-MS3,Hiroyuki Osaka,"On characterization of the monotonicity of functions on $(0, \infty)$ by inequalities"
-MS3,Yang Zhang,Reduced biquaternion tensors and applications
-MS4,Davide Bianchi,A data-dependent regularization method based on the graph Laplacian
-MS4,Jonas Bresch,Matrix-free stochastic calculation of operator norms without using adjoints
+MS3,Zhongshan Li,The orthogonal equivalence transversality property
+MS3,Hiroyuki Osaka,
+MS3,Yang Zhang,
+MS4,Davide Bianchi,
+MS4,Jonas Bresch,Matrix-free stochastic calculation of operator norms without using adjoint---on the way to compute the adjoint mismatch
 MS4,Daniela Calvetti,The linear algebra of space-time regularization for time-dependent distributed inverse problems
-MS4,Matthias Chung,Data-driven inverse problems via autoencoder
-MS4,Tiangang Cui,Tensor-train methods for sequential state and parameter estimation in state-space models
-MS4,Srinivas Eswar,Exchange algorithms for optimal experimental design
-MS4,Colin Fox,Iterative samplers
-MS4,Mirjeta Pasha,Efficient dynamic image reconstruction with motion estimation
-MS4,Vishwas Rao,Efficient randomization techniques for data assimilation
-MS4,Fred Roosta,Numerical linear algebra and optimization: the interplay between inner and outer iterations
-MS4,Arvind K. Saibaba,Efficient methods for hyperparameter estimation in Bayesian inverse problems
-MS5,Roberto Canogar,"New results on the matrix equation $X^*AX = I$, or how much of sesquilinear form is positive definite?"
-MS5,Fernando De Teran,The uniqueness of solution of systems of generalized Sylvester and $\star$-Sylvester equations
+MS4,Matthias Chung,
+MS4,Tiangang Cui,
+MS4,Philip Dinenis,Preconditioning for uncertainty quantification of high-dimensional inverse problems
+MS4,Srinivas Eswar,
+MS4,Colin Fox,
+MS4,Mirjeta Pasha,
+MS4,Vishwas Rao,
+MS4,Fred Roosta,
+MS4,Arvind K. Saibaba,
+MS5,Anjali Beniwal,Computation of an exact and approximate GCRD of several polynomial matrices using generalized Sylvester matrices
+MS5,Roberto Canogar,
+MS5,Fernando De Terán,The uniqueness of solution of systems of generalized Sylvester and $\star$-Sylvester equations
 MS5,Massimiliano Fasi,Mixed-precision algorithms for the Sylvester matrix equation
-MS5,Xianming Gu,On $\tau$-preconditioners for a quasi-compact difference scheme to Riesz fractional diffusion equations with variable coefficients
-MS5,Bruno Iannazzo,"The Lambert $W$, the Wright $\omega$ and the unwinding number of matrices"
-MS5,Rudra Kamat,Simultaneous symplectic reduction of quadratic forms into normal forms
-MS5,Patrick Kürschner,Extrapolation for iterative solvers for matrix equations
+MS5,Bruno Iannazzo,
+MS5,Rudra Kamat,Simultaneous symplectic normalisation of quadratic forms
+MS5,Patrick Kürschner,
 MS5,Beatrice Meini,A combination of cyclic reduction and shift-and-deflate techniques for solving quadratic matrix equations
 MS5,Davide Palitta,A subspace-conjugate gradient method for linear matrix equations
 MS5,Steffen W. R. Werner,Efficiently solving nonstandard Riccati equations via indefinite factorizations
+MS6,Robin Armstrong,Identifying and estimating dynamical covariance matrices with hierarchical rank structure
 MS6,Christopher Beattie,Gaussian process regression for the identification of model dynamics
-MS6,Saifon Chatarantabut,Nonlinear model reduction using machine learning on Grassmann manifolds
-MS6,Eric de Sturler,Model reduction techniques for dynamic and streaming-type inverse problems
-MS6,Zlatko Drmač,Koopman mode decomposition for nonlinear model reduction
-MS6,Ionut Farcas,Distributed computing for physics-based data-driven reduced modeling at scale
+MS6,Saifon Chaturantabut,Nonlinear model reduction using machine learning on Grassmann Manifol
+MS6,Zlatko Drmac,Koopman mode decomposition for nonlinear model reduction
 MS6,Riccardo Morandin,Structure-preserving model order reduction of linear time-varying port-Hamiltonian systems
-MS6,Sam Otto,Identifying and estimating dynamical covariance matrices with hierarchical rank structure
 MS6,Zoran Tomljanovic,Efficient solution of sequences of parametrized Lyapunov equations with applications
-MS6,Steffen Werner,Reduced-order modeling of mechanical systems via structured barycentric forms
-MS6,Ralf Zimmerman,On the errors associated with manifold interpolation for model reduction applications
-MS7,Saptak Bhattacharya,TBA
-MS7,Man-Duen Choi,TBA
-MS7,Chung-Yun Hsieh,TBA
-MS7,Hsien-Yi Hsieh,TBA
-MS7,Shao-Hua Hu,TBA
-MS7,Bing-Ze Lu,TBA
-MS7,Bui Ngoc Muoi,TBA
-MS7,Sang-Gyun Youn,TBA
-MS8,Michal Eckstein,TBA
-MS8,Shmuel Friedland,TBA
-MS8,Gilad Gour,TBA
-MS8,Pawel Horodecki,TBA
-MS8,Sooyeong Kim,TBA
-MS8,Zehua Lai,TBA
-MS8,Chi-Kwong Li,TBA
-MS8,Tomasz Miller,TBA
-MS8,Albert Rico,TBA
+MS6,Steffen W. R. Werner,Reduced-order modeling of mechanical systems via structured barycentric forms
+MS6,Ralf Zimmermann,Maximum volume coordinates for subspace interpolation
+MS7,Saptak Bhattacharya,
+MS7,Ngoc Muoi Bui,On entanglement-breaking quantum channels
+MS7,Man-Duen Choi,
+MS7,Chung-Yun Hsieh,Quantum complementarity: A novel resource for exclusion
+MS7,Hsien-Yi Hsieh,
+MS7,Shao-Hua Hu,
+MS7,Bing-Ze Lu,
+MS7,Sang-Gyun Youn,
+MS8,Michal Eckstein,Max-type quasidistances probability simplices
+MS8,Shmuel Friedland,"On entaglement, separability and their computability"
+MS8,Gilad Gour,Tensors structures in single-shot quantum information: from convex splits to induced divergences
+MS8,Sooyeong Kim,
+MS8,Zehua Lai,
+MS8,Chi-Kwong Li,
+MS8,Tomasz Miller,A new class of distances between pure quantum states
+MS8,Albert Rico,
 MS8,Shakir Showkat Sofi,Tensor train completion of multiway data observed in a single mode
-MS8,Raymond Sze,TBA
-MS8,Jeroen Zuiddam,TBA
-MS9,Sujit Sakharam Damase,TBA
-MS9,Jorge Delgado Gracia,TBA
-MS9,Shaun Fallat,TBA
-MS9,Tanvi Jain,TBA
-MS9,Dmitrii Karp,TBA
-MS9,Olga Katkova,TBA
-MS9,Apoorva Khare,TBA
-MS9,Anna Vishnyakova,TBA
-MS9,Prateek Kumar Vishwakarma,TBA
-MS9,Shivangi Yadav,TBA
+MS8,Raymond Sze,
+MS8,Jeroen Zuiddam,
+MS9,Sujit Sakharam Damase,
+MS9,Jorge Delgado,Computations with high relative accuracy for the collocation matrices of q-Jacobi polynomials
+MS9,Shaun Fallat,Preservers of totally positive and totally nonnegative matrices
+MS9,Tanvi Jain,
+MS9,Dmitrii Karp,Unimodality preservation by ratios of functional series and integral transforms
+MS9,Olga Katkova,
+MS9,Apoorva Khare,Univariate preservers of totally positive matrices and kernels
+MS9,Anna Vishnyakova,On total positivity of sequences generated by  real polynomials and $q$-polynomials
+MS9,Shivangi Yadav,Linear preservers of sign regularity
 MS10,Hayoung Choi,Geometric mean of T-positive definite tensors
 MS10,Trung Hoa Dinh,Operator means and quantum divergences
-MS10,Huajun Huang,Progress of near orders on matrix means
-MS10,Sejong Kim,In-betweenness and Heinz mean type inequalities
-MS10,Luís Machado,Spherical triangle configurations with invariant geometric mean
-MS10,Vatsalkumar Mer,Multi-variable alternative means of positive definite matrices
-MS10,Milán Mosonyi,Applications of matrix geometric means to quantum hypothesis testing
-MS10,Miklós Pálfia,Law of large numbers for generalized operator means
-MS10,Hiroyuki Osaka,The stability properties under operator means
-MS10,Tin-Yau Tam,Geometric inequalities for matrix means
-MS10,Trung Dung Vuong,On new spectral geometric mean and related problems
+MS10,Huajun Huang,Progress on Orders of Matrix Means
+MS10,Sejong Kim,Quasi-Wasserstein mean of positive definite matrices
+MS10,Luís Machado,Spherical triangular configurations with invariant geometric mean
+MS10,Vatsalkumar Mer,
+MS10,Milán Mosonyi,
+MS10,Miklós Pálfia,
+MS10,Tin-Yau Tam,
+MS10,Anmary Tonny,Results on the symplectic spectrum of some special classes of operators
+MS10,Trung Dung Vuong,
 MS10,Takeaki Yamazaki,Stability of AN-operators under functional calculus
-MS11,Chun-Yueh Chiang,TBA
+MS11,Chun-Yueh Chiang,
 MS11,Hung-Yuan Fan,Inheritance properties of conjugate discrete-time algebraic Riccati equations
-MS11,Yung-Ta Li,TBA
-MS11,Ching-Sung Liu,TBA
-MS11,Shih-Feng Shieh,TBA
-MS11,Chin-Tien Wu,TBA
-MS12,Osamu Hatori,A spectral property of a uniformly bounded operator
+MS11,Yung-Ta Li,
+MS11,Ching-Sung Liu,
+MS11,Homoon Ryu,
+MS11,Shih-Feng Shieh,
+MS11,Chin-Tien Wu,
+MS12,Osamu Hatori,Isometries on groups of invertible elements in Fourier-Stieltjes algebras
 MS12,Takeshi Miura,Surjective isometries on Banach spaces with derivatives
-MS12,Lajos Molnár,Relative entropy preserving maps on positive cones in operator algebras
+MS12,Lajos Molnár,
 MS12,Michiya Mori,On the Scottish Book Problem 155 by Mazur and Sternbach
 MS12,Shiho Oi,Periodic surjective isometries on Banach algebras
-MS12,Ed Poon,Linear preservers of parallel pairs
+MS12,Edward Poon,Linear preservers of parallel pairs
 MS12,Saikat Roy,Preservation of orthogonality by unitary and isometric dilations
-MS12,Peter Šemrl,Local order isomorphisms on operator and matrix domains
+MS12,Peter Semrl,Local order isomorphisms on operator and matrix domains
 MS12,Ryotaro Tanaka,On homeomorphisms between geometric structure spaces of primitive $C^*$-algebras
 MS12,Dániel Virosztek,Isometries and metric properties of quantum Wasserstein distances
-MS13,Takeshi Fukaya,A Cholesky QR type algorithm for computing tall-skinny QR factorization with column pivoting
-MS13,Mark Gates,PAQR: Pivoting avoiding QR factorization
-MS13,Daniel B. Szyld,Analysis of randomized Householder-Cholesky QR Factorization with Multisketching
-MS13,Sivan Toledo,Parallel-in-time Kalman smoothing using a QR factorization and selective inversion
+MS13,Takeshi Fukaya,
+MS13,Mark Gates,
+MS13,Daniel B. Szyld,
+MS13,Sivan Toledo,
 MS14,Shreemayee Bora,The distance to bounded realness revisited
 MS14,Andrii Dmytryshyn,Minimal indices through perturbation behavior
-MS14,Froilán Dopico,Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed
+MS14,Froilan M. Dopico,Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed
 MS14,Miryam Gnazzo,Stable extraction of eigenpairs from a subspace for generalized eigenvalue problems
-MS14,Antti Hannukainen,Solution of multiparametric eigenproblems arising from finite element analysis
-MS14,Ding Lu,Compositional optimization of Rayleigh quotients and related distance problems for matrix polynomials
-MS14,Steven Mackey,Sign characteristic in the inverse problem for Hermitian matrix polynomials
+MS14,Antti Hannukainen,A Ritz method for solution of parametric generalized EVPs
+MS14,Ding Lu,
+MS14,Steve Mackey,Sign characteristic in the inverse problem for Hermitian matrix polynomials
 MS14,Vanni Noferini,Invertible bases and root vectors for analytic matrix-valued functions
-MS14,Lauri Nyman,Distance to stability for matrix pencils
-MS14,Javier Pérez,Error analysis of compact Arnoldi methods for linearized polynomial eigenvalue problems
-MS14,Alicia Roca,Row completion of rational matrices and partial prescription of structural data
+MS14,Lauri Nyman,Nearest $\Omega$-stable pencil with Riemannian optimization
+MS14,Javier Perez,On the numerical stability of compact Krylov methods
+MS14,Alicia Roca,Row completion of polynomial and rational matrices and partial prescription of their  structure
 MS14,Punit Sharma,Eigenvalue backward errors of Rosenbrock systems
-MS15,Wei-Chia Chen,TBA
-MS15,Josh Cooper,TBA
-MS15,Himanshu Gupta,TBA
-MS15,Kristin Heysse,TBA
-MS15,Mark Kempton,Nordhaus-Gaddum type problems for graph spectra
-MS15,Franklin Kenter,TBA
-MS15,Kate Lorenzen,TBA
-MS15,Lavanya Selvaganesh,TBA
-MS15,Michael Tait,TBA
-MS16,Tomohiro Sogabe,Matrix function computations using the double exponential formulas
+MS15,Wei-Chia Chen,Curvature on graphs via distance matrix
+MS15,Joshua Cooper,Principal eigenvectors and principal ratios in hypergraph Tur\'{a}n problems
+MS15,Himanshu Gupta,"On the eigenvalues of the graphs $D(5, q)$"
+MS15,Kristin Heysse,Degenerate eigenvalues for the non-backtracking matrix
+MS15,Mark Kempton,"Nonbacktracking random walks: mixing rate, Kemeny's constant, and beyond"
+MS15,Franklin Kenter,A geometric adaptation of the Chung-Lu graph model
+MS15,Kate Lorenzen,Cospectral constructions for the generalized distance matrix
+MS15,Lavanya Selvaganesh,Perfect codes and spectrum of graphs - a brief survey
+MS15,Michael Tait,Expansion and the normalized distance Laplacian matrix
+MS16,Oleg Balabanov,
+MS16,Zhao Li,
+MS16,Xiaobo Liu,
 MS16,Eda Oktay,Mixed precision parallel operations for tensor train arithmetic
-MS16,Weiguo Gao,An optimal error bound for shifted CholeskyQR3 in oblique inner product
-MS16,Yuxin Ma,Backward stability of sketched GMRES
-MS16,Zhao Li,Study on a mixed-precision AMG preconditioning method for heterogeneous architectures
-MS16,Alexis Montoison,MinAres and CAr: New Krylov methods for symmetric linear systems
-MS16,Xiaobo Liu,Generalizing reduced rank extrapolation to low-rank matrix sequences
-MS16,Martina Iannacito,A subspace-conjugate gradient method for linear matrix equations
-MS16,Oleg Balabanov,Preconditioning linear systems via low-precision randomized range deflation
-MS16,Bastien Vieublé,Mixed precision preconditioning strategies for GMRES
+MS16,Michael Saunders,
+MS16,Tomohiro Sogabe,Numerical algorithms for matrix functions using the double exponential formulas
+MS16,Sofia Sukmaniuk,
+MS16,Bastien Vieublé,Mixed precision strategies for preconditioned GMRES
+MS16,Ning Zheng,
 MS17,Aida Abiad,Recent developments of switching methods for the construction of cospectral graphs
 MS17,Chassidy Bozeman,On the tree cover number and the positive semidefinite maximum nullity of a graph
-MS17,Louis Deaett,TBA
-MS17,Shaun Fallat,Leslie’s influence on recent advances on the inverse eigenvalue problem for a graph
-MS17,Mary Flagg,Reconfiguration: Zero forcing parameters and beyond
-MS17,Tracy Hall,Minimum degree and minimum rank
-MS17,Franklin Kenter,TBA
-MS17,Anzila Laikhuram,Inverse eigenvalue problems for discrete Schrödinger operators of a graph
-MS17,Jephian C.-H. Lin,Inverse eigenvalue problem for a graph: A strong community
-MS17,Hermie Monterde,TBA
-MS17,Michael Tait,Extremal eigenvalue problems on the normalized distance Laplacian
-MS17,Derek Young,Minimum rank and zero forcing parameters for cobipartite graphs
-MS18,Maolin Che,Efficient algorithms for Tucker decomposition via approximate matrix multiplication
-MS18,Longxiu Huang,Three-dimensional signal processing: Dynamical sampling via tensor products
-MS18,Joe Kileel,New approach to streaming data tensors
-MS18,Gilad Lerman,A novel outlier-robust PCA method with applications to computer vision
+MS17,Louis Deaett,I love the triangle number!
+MS17,Shaun Fallat,Leslie's enduring influence on the IEP-G and zero forcing
+MS17,Mary Flagg,Reconfiguring a community
+MS17,Tracy Hall,
+MS17,Franklin Kenter,Leaky forcing: extending zero forcing results to a fault-tolerant setting
+MS17,Anzila Laikhuram,Inverse eigenvalue problem for discrete Schrödinger operators of a graph
+MS17,Jephian C.-H. Lin,Inverse fiedler vector problem of a graph
+MS17,Hermie Monterde,Uniform mixing and apportionability
+MS17,Michael Tait,Extremal problems on graphs with $q=2$
+MS17,Derek Young,Relationships between minimum rank problem parameters for cobipartite graphs
+MS18,Maolin Che,
+MS18,Longxiu Huang,
+MS18,Joe Kileel,
+MS18,Gilad Lerman,
 MS18,Anna Ma,Stochastic iterative methods for solving tensor linear systems
-MS18,Elizabeth Newman,Optimal matrix-mimetic tensor algebras
-MS18,Jing Niu,A tensor Alternating Anderson-Richardson method for solving multilinear systems with $\mathcal{M}$-tensors
-MS18,Junjun Pan,Multi-separable tensor decomposition
-MS18,Jingmei Qiu,Adaptive tensor cross approximation
+MS18,Elizabeth Newman,Optimal matrix-mimetic tensor algebras via variable projection
+MS18,Jing Niu,A tensor alternating Anderson--Richardson method for solving multilinear systems with $ \mathcal{M} $-tensors
+MS18,Junjun Pan,
+MS18,Jingmei Qiu,
 MS18,Leonardo Robol,A multilinear Nyström algorithm for low-rank approximation of tensors in Tucker format
 MS19,Antonio Cicone,Signal processing of spherical data. From real life to mathematical challenges
-MS19,Sven-Erik Ekström,The spectrum of Toeplitz matrices with two non-zero off-diagonals
-MS19,Dario Giandinoto,Banded block Toeplitz matrices with real asymptotic spectrum
+MS19,Sven-Erik Ekström,
+MS19,Dario Giandinoto,
 MS19,Sean Hon,An optimal preconditioned MINRES method for nonsymmetric multilevel block Toeplitz systems with applications
-MS19,Asim Ilyas,GLT analysis and efficient regularing reconstruction for Inverse source problems in generalized diffusion equations
-MS19,Muhammad Faisal Khan,Matrix-sequences of geometric means in the case of hidden (asymptotic) structures
+MS19,Asim Ilyas,Quasi-boundary regularization for space-time fractional diffusion equations with variable coefficients
+MS19,Muhammad Faisal Khan,"Geometric means of HPD GLT matrix-sequences: structure, invertibility, and convergence"
 MS19,Valerio Loi,"Spectral analysis, approximation, and preconditioning for block structured matrix-sequences"
-MS19,David Meadon,Trace approximation using GLT theory and the matrix-less method
-MS19,Stefano Serra-Capizzano,GLT analysis and beyond
-MS19,Boris Shapiro,TBA
-MS19,Rosita Luisa Sormani,GLT-based numerical solvers for fractional equations
-MS20,Chih-Wei Chen,TBA
-MS20,Guangliang Chen,TBA
-MS20,Szu-Chi Chung,TBA
-MS20,Shih-Hao Huang,TBA
-MS20,Terence Huang,TBA
-MS20,ShengLi Tzeng,TBA
-MS20,Shao-Hsuan Wang,TBA
-MS20,Szu-Han Lin,TBA
-MS20,Sing-Yuan Yeh,TBA
-MS21,Milica Anđelić,Laplacian eigenvalues of weighted threshold graphs
+MS19,David Meadon,
+MS19,Stefano Serra-Capizzano,
+MS19,Boris Shapiro,On eigenvalues of rectangular matrices
+MS19,Rosita Luisa Sormani,GLT-based preconditioning for nonsymmetric Toeplitz systems
+MS20,Chih-Wei Chen,Convergence of Hessian estimator from random samples on a manifold with boundary
+MS20,Guangliang Chen,"On parameter tuning for spectral clustering: two simple, fast, and effective criteria"
+MS20,Szu-Chi Chung,A framework for exploring the conformational landscape of cryo-EM using energy-aware pathfinding algorithm
+MS20,Shih-Hao Huang,Coordinate testing for general sufficient dimension reduction methods
+MS20,Yu-Jie Huang,Application of VoxelMorph and SynthMorph for multitype 3D medical image registration
+MS20,Szu-Han Lin,Distributed $t$-SNE
+MS20,ShengLi Tzeng,Integrating Covariates in Learning Spatio-Temporal Patterns
+MS20,Shao-Hsuan Wang,
+MS20,Sing-Yuan Yeh,Landmark diffusion accelerates alternating diffusion maps for multi-sensor fusion
 MS21,Enide Andrade,Doubly stochastic matrices and graphs
-MS21,Anirban Banerjee,Spectral study of hypergraphs using linear operators
+MS21,Milica Anđelić,Laplacian eigenvalues of weighted threshold graphs
+MS21,Anirban  Banarjee,
 MS21,Sasmita Barik,Limit points of the smallest positive eigenvalues of graphs
-MS21,Mushtaq Ahmad Bhat,On the trace norm of $A_\alpha$ matrix of directed graphs
-MS21,Projesh Nath Choudhury,Distance matrices of trees: Invariants and in a unified framework
-MS21,Joshua Cooper,Eigenvalues of Steiner distance hypermatrices
-MS21,Zhibin Du,Asymptotic normality criteria of coefficients of a polynomial and their applications in graph polynomials
-MS21,Susana Furtado,Recent developments on efficient vectors for pairwise comparison matrices
-MS21,Hongying Lin,Improved lower bound on the energy of line graphs
-MS21,Chen Ouyang,"Multi-agent formation control, gain graph theory and weighted directed graph theory"
-MS21,Krishnan Sivasubramanian,The $2$-Steiner distance matrix of a tree
-MS22,Gary Pui Tung Choi,TBA
-MS22,Shu-Yung Liu,TBA
-MS22,Ronald Lok Ming Lui,TBA
-MS22,Marco Sutti,TBA
-MS22,Mei-Heng Yueh,TBA
+MS21,Mushtaq Ahmad Bhat,
+MS21,Projesh Nath Choudhury,"Two invariants of distance matrices of trees, in a unified framework"
+MS21,Joshua Cooper,Determinants of Steiner distance hypermatrices
+MS21,Susana Furtado,Approximation of reciprocal matrices by consistent matrices
+MS21,Iswar Mahato,A generalized class of matrices associated to threshold and chain graphs
+MS21,Debabrota Mondal,Smallest positive eigenvalue of non-bipartite unicyclic graphs
+MS21,Madhab Mondal,A $q$-analogue of the distance matrix of a tree with matrix weights
+MS21,Krishnan Sivasubramanian,
+MS22,Gary Choi,Density-equalizing map with applications
+MS22,Shu-Yung Liu,Spherical volume-preserving parameterization via energy minimization
+MS22,Ronald Lok Ming Lui,Density-equalizing quasiconformal surface and volmeteric parameterization
+MS22,Kristian Sabo,A method for searching for a globally optimal k-partition of higher-dimensional datasets
+MS22,Marco Sutti,
+MS22,Mei-Heng Yueh,Authalic energy minimization for area-preserving mappings
+MS23,Kensuke Aihara,Block cross-interactive residual smoothing for block Lanczos-type iterative solvers
 MS23,Benjamin Carrel,Low-rank exponential integrators leveraged by rational Krylov techniques
-MS23,Fabio Durastante,"Krylov: Better, faster, parallel"
+MS23,Fabio Durastante,"Krylov: better, faster, parallel"
 MS23,Amin Faghih,Krylov subspaces and Sobolev functions
 MS23,Francesco Hrobat,Lanczos with compression for symmetric Lyapunov equations
-MS23,Yuwen Li,Reduced Krylov basis methods for parametric PDEs
-MS23,Stefano Massei,An error formula for block rational Krylov approximation of matrix functions
+MS23,Yuwen Li,Reduced Krylov basis methods
+MS23,Stefano Massei,Error formulas for block rational Krylov approximations of matrix functions
 MS23,Mariarosa Mazza,Rational approximations of fractional power operators applied to preconditioning
-MS23,Stefano Pozza,Krylov subspace methods and the $\star$-algebra
+MS23,Stefano Pozza,Krylov subspace methods an the $\star$-algebra
 MS23,Michele Rinelli,Krylov techniques for estimating spectral gaps of sparse symmetric matrices
-MS23,Nian Shao,Lanczos with compression for symmetric eigenvalue problems
-MS23,Igor Simunec,A low-memory Lanczos method with rational Krylov compression
+MS23,Igor Simunec,Lanczos with compression for symmetric matrix functions
 MS23,Robbe Vermeiren,An inverse eigenvalue problem linked to multiple orthogonal polynomials
-MS24,Minerva Catral,Refined inertias of nonnegative patterns with positive off-diagonal entries
-MS24,Geir Dahl,Near-derangements and their polytopes
-MS24,Richard Ellard,Connecting the Hermite-Biehler Theorem to the nonnegative inverse eigenvalue problem
-MS24,Hitesh Kumar,New results on second eigenvalue extremization
+MS24,Minnie Catral,Refined inertias of nonnegative patterns with positive off-diagonal entries
+MS24,Geir Dahl,Near-derangements and polytopes
+MS24,Richard Ellard,Connecting the Hermite-Biehler theorem to the nonnegative inverse eigenvalue problem
+MS24,Hitesh Kumar,
 MS24,Raphael Loewy,On cones of polynomials preserving nonnegative matrices
-MS24,Hermie Monterde,Perfect state transfer between nonnegative real pure states
-MS24,Shivaramakrishna Pragada,Triangle counting and the Bollob ́as-Nikiforov conjecture
-MS24,K. C. Sivakumar,Inverse $Z$-matrices and bidiagonal south-west matrices
-MS25,Lei Cao,$123$-avoiding and $123$-forcing matrices
-MS25,Yen-Jen Cheng,On the maximal spectral radius of digraphs with prescribed number of arcs
-MS25,Tien-Xiao He,High-order Eulerian numbers and matrices
+MS24,Hermie Monterde,Nonnegativity in quantum walks
+MS24,Shivaramakrishna Pragada,
+MS24,K. C. Sivakumar,
+MS25,Lei Cao,"Pattern avoiding and pattern forcing $(0,1)$-matrices for some permutation patterns"
+MS25,Yen-Jen Cheng,On the maximal spectral radius of digraphs with a prescribed number of arcs
+MS25,Tian-Xiao He,High-order eulerian numbers and matrices
 MS25,Yi-Lin Lee,"Domino tilings, domino shuffling, and the nabla operator"
-MS25,Yuan-Hsun Lo,On shift-full-rank matrices
-MS25,Xiao-Nan Lu,Ternary circulant almost orthogonal arrays with (near) $D$-optimality and good binary sequence pairs
+MS25,Yuan-Hsun Lo,
+MS25,Xiao-Nan Lu,Ternary circulant almost orthogonal arrays with (near) D-optimality and good binary sequence pairs
 MS25,Soichi Okada,Bounded Littlewood identities for cylindric Schur functions and related combinatorics
-MS25,Harry Richman,Tree distance matrices and their minors
+MS25,Harry Richman,Principal minors of tree distance matrices
 MS25,Lavanya Selvaganesh,Exploring graph characterization via specialized matrices
 MS25,Bit-Shun Tam,On the maximal $A_\alpha$-index of graphs with a prescribed number of edges
-MS25,Shen-Fu Tsai,Extremal and saturation function of multidimensional $0$-$1$ matrices
-MS25,Chi Ho Yuen,TBA
+MS25,Shen-Fu Tsai,Extremal and saturation function of multidimensional 0-1 matrices
+MS25,Chi Ho Yuen,The critical groups of hypercubes and beyond
 MS26,Hansaka Aluvihare,A low-complexity LSTM network to realize multibeam beamforming
-MS26,Natalia Bebiano,Revisiting an inverse problem proposed by Boor and Golub
+MS26,Natalia Bebiano,
 MS26,Paola Boito,Decay bounds for inverses of banded matrices via quasiseparable structure
-MS26,Luca Gemignani,Some numerical methods for nonlocal boundary value problems
-MS26,Kshitij Khare,Fast computation for high-dimensional Bayesian dynamic factor models
-MS26,Ilias Kotsireas,A low-complexity Algorithm for generating Legendre pairs using linear algebra approaches
-MS26,Sirani M. Perera,A low-complexity operator learning for dynamical systems
-MS26,Erkki Somersalo,Model reduction and matrix compression in dictionary learning applications 
-MS26,Aaron Welters,Structural constraints and Bessmertnyi realizations for response matrices of two-element-kind networks
-MS27,Jane Breen,TBA
-MS27,Fernando De Teran Vergara,TBA
-MS27,Jephian C.-H. Lin,TBA
-MS27,Steve Mackey,TBA
-MS27,Mike Michailidis,TBA
-MS27,Rachel Quinlan,TBA
-MS27,Helena Šmigoc,TBA
-MS27,Sepideh Stewart,TBA
-MS27,Frank Uhlig,TBA
-MS28,M. Seetharama Gowda,Commutativity concepts relative to transformation/matrix groups and semi-FTvN systems
-MS28,Juyoung Jeong,Bounds on the eigenvalues of Jordan products
+MS26,Luca Gemignani,On the numerical solution of nonLocal boundary value problems by matrix function computations
+MS26,Kshitij Khare,
+MS26,Ilias Kotsireas,A low-complexity algorithm to search for Legendre pairs
+MS26,Sirani M. Perera,A low-complexity structured neural network approach for dynamical systems
+MS26,Erkki Somersalo,Model reduction and matrix compression in dictionary learning applications
+MS26,Aaron Welters,
+MS27,Jane Breen,
+MS27,Fernando De Terán,A linear algebra online course experience at UC3M: development and teaching
+MS27,Jephian C.-H. Lin,Engaging students with collaborative tasks in Linear Algebra
+MS27,Steve Mackey,Exciting eigenvectors: seeing is believing
+MS27,Mike Michailidis,Computational labs to enhance linear algebra intuition
+MS27,Rachel Quinlan,Project work in an undergraduate linear algebra course
+MS27,Helena Šmigoc,Posing a question
+MS27,Sepideh Stewart,Bridging abstract and numerical linear algebra
+MS27,Frank Uhlig,
+MS28,Muddappa Gowda,Commutativity concepts relative to transformation/matrix groups and semi-FTvN systems
+MS28,Juyoung Jeong,
 MS28,Michael Orlitzky,Jordan and isometric cone automorphisms in Euclidean Jordan algebras
-MS28,David Sossa,Analysis of optimization problems on eigenvalue orbits in Euclidean Jordan algebras
+MS28,David Sossa,
+MS29,Athul Augustine,Composition operators and convexity of their Berezin range on functional Hilbert spaces
 MS29,Fumio Hiai,Joint concavity/convexity of matrix trace functions for geometric type means
-MS29,Jinmi Hwang,Near-order relation of power means 
+MS29,Jinmi Hwang,Near-order relation of power means
 MS29,Masatoshi Ito,The weighted power difference mean and its generalization
-MS29,Miran Jeong,TBA
-MS29,Kenta Kojin,An introduction to noncommutative function theory
+MS29,Miran Jeong,New weighted spectral geometric mean and quantum divergence
 MS29,Jie Meng,Convergence properties of sequences related to the Ando-Li-Mathias construction and to the weighted Cheap mean
-MS29,Hiromichi Ohno,Generalization of Böttcher-Wenzel inequality and its application
+MS29,Hiromichi Ohno,"Generalization of B\""ottcher-Wenzel inequality and its application"
 MS29,Takashi Sano,Convex matrix functions
 MS29,Yuki Seo,Matrix trace inequalities related to quantum Tsallis relative entropies
-MS29,Shuhei Wada,TBA
-MS29,Pengpeng Xie,Computing the dual matrix exponential
-MS30,Eunice Y. S. Chan,Numerical stability of algebraic linearizations
-MS30,Laureano Gonzalez-Vega,Bohemian correlation matrices
-MS30,Jamie Pommersheim,More on eigenvalue gaps of integer matrices
+MS29,Shuhei Wada,On some multi-variable means of ALM type
+MS30,Eunice Y. S. Chan,
+MS30,Laureano Gonzalez-Vega,
+MS30,Jamie Pommersheim,
 MS31,Angelo Galimba,Reversibility problem for real quaternion matrices
-MS31,Daryl Granario,TBA
-MS31,Paolo Joven,Products of skew involutions
+MS31,Daryl Granario,Some factorizations in the complex symplectic group
+MS31,Jesus Paolo Joven,Product of skew-involutions
 MS31,Tejbir Lohan,Product of two involutions in special linear groups
-MS31,Jenny Salinasan,The $\phi_S$ polar decomposition when $S$ is skew-symmetric
 MS31,Eloise Misa,The algebra generated by nilpotent elements in a matrix centralizer
+MS31,Jenny Salinasan,The $\phi_S$ polar decomposition when $S$ is skew-symmetric
 MS31,Juan Paolo Santos,On commutators of unipotent matrices of index $2$
-MS32,Di Hou,A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs
-MS32,Xiang Lu,"Special orthogonal, special unitary, and symplectic groups as products of Grassmannians"
-MS32,Anthony Man-Cho So,Randomized Riemannian submanifold subgradient method for optimization over Stiefel manifold
+MS32,Di Hou,
+MS32,Xiang Lu,
+MS32,Anthony Man-Cho So,
 MS32,Chun-Hao Yang,Nested Grassmannians for dimensionality reduction with applications
-MS33,Dragana Cvetkovic Ilic,Dragana Cvetkovic Ilic
-MS33,Ryan O'Loughlin,TBA
-MS33,Brooke Randell,TBA
-MS33,Jani A. Virtanen,TBA
-MS34,Yeh-Chi Lin,TBA
-MS34,Chia-An Liu,TBA
-MS34,Akihiro Munemasa,TBA
-MS34,Sho Suda,"Tight 3-designs and s-distance set (2s-1)designs in Hamming schemes $H(n,q)$"
-MS34,Pin-Chieh Tseng,TBA
-MS35,Daisuke Hirota,Tingley's problem concerning the direct sum of extremely $C$-regular subspaces with the $\ell^p$-norm
+MS33,Dragana Cvetkovic Ilic,Large similarities between the numerical range of an operator and of certain generalized inverses
+MS33,Ryan O'Loughlin,
+MS33,Brooke Randell,Exploring the numerical range of block Toeplitz operators
+MS33,Jani A. Virtanen,
+MS34,Yen-chi Lin,
+MS34,Chia-An Liu,
+MS34,Akihiro Munemasa,
+MS34,Wasin So,Formal orthogonal systems
+MS34,Sho Suda,
+MS34,Wei-Liang Sun,Power difference sets and cyclotomic matrices
+MS34,Pin-Chieh Tseng,
+MS35,Daisuke Hirota,Tingley's problem concerning the direct sum of extremely C-regular subspaces with the $\ell^p$-norm.
 MS35,Bojan Kuzma,On bijections which strongly preserve Birkhoff-James orthogonality on finite-dimensional $C^*$-algebras
-MS35,Izuho Matsuzaki,Phase isometries on continuous function spaces
+MS35,Izuho Matsuzaki,
 MS35,Lucijan Plevnik,Linear preservers of rank one projections
+MS35,Manideepa Saha,On linear preservers of semimonotone matrices
 MS35,Sushil Singla,Linear maps preserving product of involutions
-MS35,Titkos Tamás,Isometries of Lipschitz free Banach spaces
-MS35,Ming-Cheng Tsai,Some preserving problems on the sets of non-negative matrices
+MS35,Tamas Titkos,Isometries of Lipschitz free Banach spaces
+MS35,Ming-Cheng Tsai,
 MS35,Ya-Shu Wang,Linear maps preserving disjoint idempotents
-MS35,Ngai-Ching Wong,Tingley's problems for positive spheres of operator algebras
+MS35,Ngai-Ching Wong,

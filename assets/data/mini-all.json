@@ -2,7 +2,6 @@
     "MS1":{
         "TITLE":"Embracing new opportunities in numerical linear algebra",
         "ORGANIZERS":"Pengwen Chen, Matthrew Lin",
-        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Pengwen Chen",
@@ -13,20 +12,28 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Akira Imakura",
-                "TITLE":"Deflation techniques for matrix function calculations based on double exponential-type numerical integral formula"
+                "NAME":"Van Su Giap",
+                "TITLE":"Spectral properties of stochastic block model"
             },
             {
-                "NAME":"Chiu-Yen Kao",
+                "NAME":"Akira Imakura",
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Chiu-Yen Kao",
+                "TITLE":"A semi-definite optimization method for maximizing the shared band gap of topologicalpPhotonic crystals"
+            },
+            {
                 "NAME":"Li-Gang Lin",
-                "TITLE":"Fast SDDRE-based maneuvering-target interception at pre-specified orientation"
+                "TITLE":"Fast SDDRE-based maneuvering-target interception at prespecified orientation"
             },
             {
                 "NAME":"Matthew M. Lin",
-                "TITLE":"A gradient flow method to differentiate between classical and quantum correlations"
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Etna Lindy",
+                "TITLE":"Nonnegative rank-2 approximations -- on choosing a starting point for ANLS"
             },
             {
                 "NAME":"Tzon-Tzer Lu",
@@ -34,11 +41,11 @@
             },
             {
                 "NAME":"Shinya Miyajima",
-                "TITLE":"TBA"
+                "TITLE":"Some norm bounds on the complimentary error matrix functions"
             },
             {
                 "NAME":"Haesun Park",
-                "TITLE":"Integrative co-embedding of multi-view data sets"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Peter Chang-Yi Weng",
@@ -49,14 +56,13 @@
     "MS2":{
         "TITLE":"Combinatorial matrix theory",
         "ORGANIZERS":"Aida Abiad, Shaun Fallat, Michael Tait",
-        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Jane Breen",
-                "TITLE":"Kemeny's constant and the impact of a single transition"
+                "TITLE":"TBA"
             },
             {
-                "NAME":"Richard Brualdi",
+                "NAME":"Richard A. Brualdi",
                 "TITLE":"(Reverse-)Grassmannian permutation matrices"
             },
             {
@@ -69,19 +75,19 @@
             },
             {
                 "NAME":"Zilin Jiang",
-                "TITLE":"Beyond the classification theorem of Cameron, Goethals, Seidel and Shult"
-            },
-            {
-                "NAME":"Emanuel Juliano",
-                "TITLE":"Spectral upper bounds for the Grundy number of a graph"
+                "TITLE":"Median eigenvalues of subcubic graphs"
             },
             {
                 "NAME":"Steve Kirkland",
-                "TITLE":"Combinatorial matrix theory and control of epidemic outbreaks"
+                "TITLE":"A centrality measure for cut edges in undirected graphs"
+            },
+            {
+                "NAME":"Emanuel Juliano Morais Silva",
+                "TITLE":"Spectral upper bounds for the Grundy number of a graph"
             },
             {
                 "NAME":"Shahla Nasserasr",
-                "TITLE":"The strong spectral property of graph-associated matrices"
+                "TITLE":"An approach to computing maximum multiplicity of eigenvalues in graphs"
             },
             {
                 "NAME":"Rachel Quinlan",
@@ -93,18 +99,17 @@
             },
             {
                 "NAME":"Kevin Vander Meulen",
-                "TITLE":"Sign patterns that allow or require a nonderogatory matrix"
+                "TITLE":"Matrix sign patterns that allow the strong multiplicity property"
             },
             {
                 "NAME":"Wei Wang",
-                "TITLE":"Some recent results on the generalized spectral characterizations of graphs"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS3":{
         "TITLE":"Matrix inequalities with applications",
         "ORGANIZERS":"D. S. Cvetković Ilić, Qing-Wen Wang, Yang Zhang",
-        "COUNT":6,
         "SPEAKERS":[
             {
                 "NAME":"Pattrawut Chansangiam",
@@ -119,31 +124,30 @@
                 "TITLE":"$J$-selfadoint matrix means and their indefinite inequalities"
             },
             {
-                "NAME":"Zhongshan Jason Li",
-                "TITLE":"Orthogonal similarity via transversal intersection of manifolds"
+                "NAME":"Zhongshan Li",
+                "TITLE":"The orthogonal equivalence transversality property"
             },
             {
                 "NAME":"Hiroyuki Osaka",
-                "TITLE":"On characterization of the monotonicity of functions on $(0, \\infty)$ by inequalities"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Yang Zhang",
-                "TITLE":"Reduced biquaternion tensors and applications"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS4":{
         "TITLE":"Linear algebra methods for inverse problems and data assimilation",
         "ORGANIZERS":"Julianne Chung, Arvind K. Saibaba",
-        "COUNT":11,
         "SPEAKERS":[
             {
                 "NAME":"Davide Bianchi",
-                "TITLE":"A data-dependent regularization method based on the graph Laplacian"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Jonas Bresch",
-                "TITLE":"Matrix-free stochastic calculation of operator norms without using adjoints"
+                "TITLE":"Matrix-free stochastic calculation of operator norms without using adjoint---on the way to compute the adjoint mismatch"
             },
             {
                 "NAME":"Daniela Calvetti",
@@ -151,49 +155,56 @@
             },
             {
                 "NAME":"Matthias Chung",
-                "TITLE":"Data-driven inverse problems via autoencoder"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Tiangang Cui",
-                "TITLE":"Tensor-train methods for sequential state and parameter estimation in state-space models"
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Philip Dinenis",
+                "TITLE":"Preconditioning for uncertainty quantification of high-dimensional inverse problems"
             },
             {
                 "NAME":"Srinivas Eswar",
-                "TITLE":"Exchange algorithms for optimal experimental design"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Colin Fox",
-                "TITLE":"Iterative samplers"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Mirjeta Pasha",
-                "TITLE":"Efficient dynamic image reconstruction with motion estimation"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Vishwas Rao",
-                "TITLE":"Efficient randomization techniques for data assimilation"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Fred Roosta",
-                "TITLE":"Numerical linear algebra and optimization: the interplay between inner and outer iterations"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Arvind K. Saibaba",
-                "TITLE":"Efficient methods for hyperparameter estimation in Bayesian inverse problems"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS5":{
         "TITLE":"Advances in matrix equations: Theory, computations, and applications",
         "ORGANIZERS":"Andrii Dmytryshyn, Davide Palitta",
-        "COUNT":10,
         "SPEAKERS":[
             {
-                "NAME":"Roberto Canogar",
-                "TITLE":"New results on the matrix equation $X^*AX = I$, or how much of sesquilinear form is positive definite?"
+                "NAME":"Anjali Beniwal",
+                "TITLE":"Computation of an exact and approximate GCRD of several polynomial matrices using generalized Sylvester matrices"
             },
             {
-                "NAME":"Fernando De Teran",
+                "NAME":"Roberto Canogar",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Fernando De Terán",
                 "TITLE":"The uniqueness of solution of systems of generalized Sylvester and $\\star$-Sylvester equations"
             },
             {
@@ -201,20 +212,16 @@
                 "TITLE":"Mixed-precision algorithms for the Sylvester matrix equation"
             },
             {
-                "NAME":"Xianming Gu",
-                "TITLE":"On $\\tau$-preconditioners for a quasi-compact difference scheme to Riesz fractional diffusion equations with variable coefficients"
-            },
-            {
                 "NAME":"Bruno Iannazzo",
-                "TITLE":"The Lambert $W$, the Wright $\\omega$ and the unwinding number of matrices"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Rudra Kamat",
-                "TITLE":"Simultaneous symplectic reduction of quadratic forms into normal forms"
+                "TITLE":"Simultaneous symplectic normalisation of quadratic forms"
             },
             {
                 "NAME":"Patrick Kürschner",
-                "TITLE":"Extrapolation for iterative solvers for matrix equations"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Beatrice Meini",
@@ -233,58 +240,52 @@
     "MS6":{
         "TITLE":"Model reduction",
         "ORGANIZERS":"Christopher Beattie, Zlatko Drmać",
-        "COUNT":10,
         "SPEAKERS":[
+            {
+                "NAME":"Robin Armstrong",
+                "TITLE":"Identifying and estimating dynamical covariance matrices with hierarchical rank structure"
+            },
             {
                 "NAME":"Christopher Beattie",
                 "TITLE":"Gaussian process regression for the identification of model dynamics"
             },
             {
-                "NAME":"Saifon Chatarantabut",
-                "TITLE":"Nonlinear model reduction using machine learning on Grassmann manifolds"
+                "NAME":"Saifon Chaturantabut",
+                "TITLE":"Nonlinear model reduction using machine learning on Grassmann Manifol"
             },
             {
-                "NAME":"Eric de Sturler",
-                "TITLE":"Model reduction techniques for dynamic and streaming-type inverse problems"
-            },
-            {
-                "NAME":"Zlatko Drmač",
+                "NAME":"Zlatko Drmac",
                 "TITLE":"Koopman mode decomposition for nonlinear model reduction"
-            },
-            {
-                "NAME":"Ionut Farcas",
-                "TITLE":"Distributed computing for physics-based data-driven reduced modeling at scale"
             },
             {
                 "NAME":"Riccardo Morandin",
                 "TITLE":"Structure-preserving model order reduction of linear time-varying port-Hamiltonian systems"
             },
             {
-                "NAME":"Sam Otto",
-                "TITLE":"Identifying and estimating dynamical covariance matrices with hierarchical rank structure"
-            },
-            {
                 "NAME":"Zoran Tomljanovic",
                 "TITLE":"Efficient solution of sequences of parametrized Lyapunov equations with applications"
             },
             {
-                "NAME":"Steffen Werner",
+                "NAME":"Steffen W. R. Werner",
                 "TITLE":"Reduced-order modeling of mechanical systems via structured barycentric forms"
             },
             {
-                "NAME":"Ralf Zimmerman",
-                "TITLE":"On the errors associated with manifold interpolation for model reduction applications"
+                "NAME":"Ralf Zimmermann",
+                "TITLE":"Maximum volume coordinates for subspace interpolation"
             }
         ]
     },
     "MS7":{
         "TITLE":"Linear algebra and quantum information science",
         "ORGANIZERS":"Hao-Wei Huang, Ray-Kuang Lee",
-        "COUNT":8,
         "SPEAKERS":[
             {
                 "NAME":"Saptak Bhattacharya",
                 "TITLE":"TBA"
+            },
+            {
+                "NAME":"Ngoc Muoi Bui",
+                "TITLE":"On entanglement-breaking quantum channels"
             },
             {
                 "NAME":"Man-Duen Choi",
@@ -292,7 +293,7 @@
             },
             {
                 "NAME":"Chung-Yun Hsieh",
-                "TITLE":"TBA"
+                "TITLE":"Quantum complementarity: A novel resource for exclusion"
             },
             {
                 "NAME":"Hsien-Yi Hsieh",
@@ -307,10 +308,6 @@
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Bui Ngoc Muoi",
-                "TITLE":"TBA"
-            },
-            {
                 "NAME":"Sang-Gyun Youn",
                 "TITLE":"TBA"
             }
@@ -319,23 +316,18 @@
     "MS8":{
         "TITLE":"Tensor and quantum information science",
         "ORGANIZERS":"Shmuel Friedland, Chi-Kwong Li",
-        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Michal Eckstein",
-                "TITLE":"TBA"
+                "TITLE":"Max-type quasidistances probability simplices"
             },
             {
                 "NAME":"Shmuel Friedland",
-                "TITLE":"TBA"
+                "TITLE":"On entaglement, separability and their computability"
             },
             {
                 "NAME":"Gilad Gour",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Pawel Horodecki",
-                "TITLE":"TBA"
+                "TITLE":"Tensors structures in single-shot quantum information: from convex splits to induced divergences"
             },
             {
                 "NAME":"Sooyeong Kim",
@@ -351,7 +343,7 @@
             },
             {
                 "NAME":"Tomasz Miller",
-                "TITLE":"TBA"
+                "TITLE":"A new class of distances between pure quantum states"
             },
             {
                 "NAME":"Albert Rico",
@@ -374,19 +366,18 @@
     "MS9":{
         "TITLE":"Total positivity",
         "ORGANIZERS":"Projesh Nath Choudhury, Apoorva Khare",
-        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Sujit Sakharam Damase",
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Jorge Delgado Gracia",
-                "TITLE":"TBA"
+                "NAME":"Jorge Delgado",
+                "TITLE":"Computations with high relative accuracy for the collocation matrices of q-Jacobi polynomials"
             },
             {
                 "NAME":"Shaun Fallat",
-                "TITLE":"TBA"
+                "TITLE":"Preservers of totally positive and totally nonnegative matrices"
             },
             {
                 "NAME":"Tanvi Jain",
@@ -394,7 +385,7 @@
             },
             {
                 "NAME":"Dmitrii Karp",
-                "TITLE":"TBA"
+                "TITLE":"Unimodality preservation by ratios of functional series and integral transforms"
             },
             {
                 "NAME":"Olga Katkova",
@@ -402,26 +393,21 @@
             },
             {
                 "NAME":"Apoorva Khare",
-                "TITLE":"TBA"
+                "TITLE":"Univariate preservers of totally positive matrices and kernels"
             },
             {
                 "NAME":"Anna Vishnyakova",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Prateek Kumar Vishwakarma",
-                "TITLE":"TBA"
+                "TITLE":"On total positivity of sequences generated by  real polynomials and $q$-polynomials"
             },
             {
                 "NAME":"Shivangi Yadav",
-                "TITLE":"TBA"
+                "TITLE":"Linear preservers of sign regularity"
             }
         ]
     },
     "MS10":{
         "TITLE":"Matrix means and related topics",
         "ORGANIZERS":"Trung Hoa Dinh, Sejong Kim, Tin-Yau Tam",
-        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Hayoung Choi",
@@ -433,39 +419,39 @@
             },
             {
                 "NAME":"Huajun Huang",
-                "TITLE":"Progress of near orders on matrix means"
+                "TITLE":"Progress on Orders of Matrix Means"
             },
             {
                 "NAME":"Sejong Kim",
-                "TITLE":"In-betweenness and Heinz mean type inequalities"
+                "TITLE":"Quasi-Wasserstein mean of positive definite matrices"
             },
             {
                 "NAME":"Luís Machado",
-                "TITLE":"Spherical triangle configurations with invariant geometric mean"
+                "TITLE":"Spherical triangular configurations with invariant geometric mean"
             },
             {
                 "NAME":"Vatsalkumar Mer",
-                "TITLE":"Multi-variable alternative means of positive definite matrices"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Milán Mosonyi",
-                "TITLE":"Applications of matrix geometric means to quantum hypothesis testing"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Miklós Pálfia",
-                "TITLE":"Law of large numbers for generalized operator means"
-            },
-            {
-                "NAME":"Hiroyuki Osaka",
-                "TITLE":"The stability properties under operator means"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Tin-Yau Tam",
-                "TITLE":"Geometric inequalities for matrix means"
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Anmary Tonny",
+                "TITLE":"Results on the symplectic spectrum of some special classes of operators"
             },
             {
                 "NAME":"Trung Dung Vuong",
-                "TITLE":"On new spectral geometric mean and related problems"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Takeaki Yamazaki",
@@ -476,7 +462,6 @@
     "MS11":{
         "TITLE":"Structured matrix computations and its applications",
         "ORGANIZERS":"Tsung-Ming Huang, Yueh-Cheng Kuo, Wen-Wei Lin",
-        "COUNT":6,
         "SPEAKERS":[
             {
                 "NAME":"Chun-Yueh Chiang",
@@ -495,6 +480,10 @@
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Homoon Ryu",
+                "TITLE":"TBA"
+            },
+            {
                 "NAME":"Shih-Feng Shieh",
                 "TITLE":"TBA"
             },
@@ -507,11 +496,10 @@
     "MS12":{
         "TITLE":"Preserver problems, I",
         "ORGANIZERS":"Lajos Molnár, Ming-Cheng Tsai,  Ngai-Ching Wong",
-        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Osamu Hatori",
-                "TITLE":"A spectral property of a uniformly bounded operator"
+                "TITLE":"Isometries on groups of invertible elements in Fourier-Stieltjes algebras"
             },
             {
                 "NAME":"Takeshi Miura",
@@ -519,7 +507,7 @@
             },
             {
                 "NAME":"Lajos Molnár",
-                "TITLE":"Relative entropy preserving maps on positive cones in operator algebras"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Michiya Mori",
@@ -530,7 +518,7 @@
                 "TITLE":"Periodic surjective isometries on Banach algebras"
             },
             {
-                "NAME":"Ed Poon",
+                "NAME":"Edward Poon",
                 "TITLE":"Linear preservers of parallel pairs"
             },
             {
@@ -538,7 +526,7 @@
                 "TITLE":"Preservation of orthogonality by unitary and isometric dilations"
             },
             {
-                "NAME":"Peter Šemrl",
+                "NAME":"Peter Semrl",
                 "TITLE":"Local order isomorphisms on operator and matrix domains"
             },
             {
@@ -554,30 +542,28 @@
     "MS13":{
         "TITLE":"Advances in QR factorizations",
         "ORGANIZERS":"Sivan Toledo",
-        "COUNT":4,
         "SPEAKERS":[
             {
                 "NAME":"Takeshi Fukaya",
-                "TITLE":"A Cholesky QR type algorithm for computing tall-skinny QR factorization with column pivoting"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Mark Gates",
-                "TITLE":"PAQR: Pivoting avoiding QR factorization"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Daniel B. Szyld",
-                "TITLE":"Analysis of randomized Householder-Cholesky QR Factorization with Multisketching"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Sivan Toledo",
-                "TITLE":"Parallel-in-time Kalman smoothing using a QR factorization and selective inversion"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS14":{
         "TITLE":"Pencils, polynomial, and rational matrices",
         "ORGANIZERS":"Froilán Dopico, Vanni Noferini, Alicia Roca",
-        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Shreemayee Bora",
@@ -588,7 +574,7 @@
                 "TITLE":"Minimal indices through perturbation behavior"
             },
             {
-                "NAME":"Froilán Dopico",
+                "NAME":"Froilan M. Dopico",
                 "TITLE":"Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed"
             },
             {
@@ -597,14 +583,14 @@
             },
             {
                 "NAME":"Antti Hannukainen",
-                "TITLE":"Solution of multiparametric eigenproblems arising from finite element analysis"
+                "TITLE":"A Ritz method for solution of parametric generalized EVPs"
             },
             {
                 "NAME":"Ding Lu",
-                "TITLE":"Compositional optimization of Rayleigh quotients and related distance problems for matrix polynomials"
+                "TITLE":"TBA"
             },
             {
-                "NAME":"Steven Mackey",
+                "NAME":"Steve Mackey",
                 "TITLE":"Sign characteristic in the inverse problem for Hermitian matrix polynomials"
             },
             {
@@ -613,15 +599,15 @@
             },
             {
                 "NAME":"Lauri Nyman",
-                "TITLE":"Distance to stability for matrix pencils"
+                "TITLE":"Nearest $\\Omega$-stable pencil with Riemannian optimization"
             },
             {
-                "NAME":"Javier Pérez",
-                "TITLE":"Error analysis of compact Arnoldi methods for linearized polynomial eigenvalue problems"
+                "NAME":"Javier Perez",
+                "TITLE":"On the numerical stability of compact Krylov methods"
             },
             {
                 "NAME":"Alicia Roca",
-                "TITLE":"Row completion of rational matrices and partial prescription of structural data"
+                "TITLE":"Row completion of polynomial and rational matrices and partial prescription of their  structure"
             },
             {
                 "NAME":"Punit Sharma",
@@ -632,97 +618,90 @@
     "MS15":{
         "TITLE":"Graphs and their eigenvalues: Celebrating the work of Fan Chung Graham",
         "ORGANIZERS":"Mark Kempton",
-        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Wei-Chia Chen",
-                "TITLE":"TBA"
+                "TITLE":"Curvature on graphs via distance matrix"
             },
             {
-                "NAME":"Josh Cooper",
-                "TITLE":"TBA"
+                "NAME":"Joshua Cooper",
+                "TITLE":"Principal eigenvectors and principal ratios in hypergraph Tur\\'{a}n problems"
             },
             {
                 "NAME":"Himanshu Gupta",
-                "TITLE":"TBA"
+                "TITLE":"On the eigenvalues of the graphs $D(5, q)$"
             },
             {
                 "NAME":"Kristin Heysse",
-                "TITLE":"TBA"
+                "TITLE":"Degenerate eigenvalues for the non-backtracking matrix"
             },
             {
                 "NAME":"Mark Kempton",
-                "TITLE":"Nordhaus-Gaddum type problems for graph spectra"
+                "TITLE":"Nonbacktracking random walks: mixing rate, Kemeny's constant, and beyond"
             },
             {
                 "NAME":"Franklin Kenter",
-                "TITLE":"TBA"
+                "TITLE":"A geometric adaptation of the Chung-Lu graph model"
             },
             {
                 "NAME":"Kate Lorenzen",
-                "TITLE":"TBA"
+                "TITLE":"Cospectral constructions for the generalized distance matrix"
             },
             {
                 "NAME":"Lavanya Selvaganesh",
-                "TITLE":"TBA"
+                "TITLE":"Perfect codes and spectrum of graphs - a brief survey"
             },
             {
                 "NAME":"Michael Tait",
-                "TITLE":"TBA"
+                "TITLE":"Expansion and the normalized distance Laplacian matrix"
             }
         ]
     },
     "MS16":{
         "TITLE":"Approximations and errors in Krylov-based solvers",
         "ORGANIZERS":"Xin Liu, Bastien Vieublé",
-        "COUNT":10,
         "SPEAKERS":[
             {
-                "NAME":"Tomohiro Sogabe",
-                "TITLE":"Matrix function computations using the double exponential formulas"
+                "NAME":"Oleg Balabanov",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Zhao Li",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Xiaobo Liu",
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Eda Oktay",
                 "TITLE":"Mixed precision parallel operations for tensor train arithmetic"
             },
             {
-                "NAME":"Weiguo Gao",
-                "TITLE":"An optimal error bound for shifted CholeskyQR3 in oblique inner product"
+                "NAME":"Michael Saunders",
+                "TITLE":"TBA"
             },
             {
-                "NAME":"Yuxin Ma",
-                "TITLE":"Backward stability of sketched GMRES"
+                "NAME":"Tomohiro Sogabe",
+                "TITLE":"Numerical algorithms for matrix functions using the double exponential formulas"
             },
             {
-                "NAME":"Zhao Li",
-                "TITLE":"Study on a mixed-precision AMG preconditioning method for heterogeneous architectures"
-            },
-            {
-                "NAME":"Alexis Montoison",
-                "TITLE":"MinAres and CAr: New Krylov methods for symmetric linear systems"
-            },
-            {
-                "NAME":"Xiaobo Liu",
-                "TITLE":"Generalizing reduced rank extrapolation to low-rank matrix sequences"
-            },
-            {
-                "NAME":"Martina Iannacito",
-                "TITLE":"A subspace-conjugate gradient method for linear matrix equations"
-            },
-            {
-                "NAME":"Oleg Balabanov",
-                "TITLE":"Preconditioning linear systems via low-precision randomized range deflation"
+                "NAME":"Sofia Sukmaniuk",
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Bastien Vieublé",
-                "TITLE":"Mixed precision preconditioning strategies for GMRES"
+                "TITLE":"Mixed precision strategies for preconditioned GMRES"
+            },
+            {
+                "NAME":"Ning Zheng",
+                "TITLE":"TBA"
             }
         ]
     },
     "MS17":{
         "TITLE":"Graphs and matrices in honor of Leslie Hogben's retirement",
         "ORGANIZERS":"Minerva Catral, Mary Flagg",
-        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Aida Abiad",
@@ -734,66 +713,65 @@
             },
             {
                 "NAME":"Louis Deaett",
-                "TITLE":"TBA"
+                "TITLE":"I love the triangle number!"
             },
             {
                 "NAME":"Shaun Fallat",
-                "TITLE":"Leslie’s influence on recent advances on the inverse eigenvalue problem for a graph"
+                "TITLE":"Leslie's enduring influence on the IEP-G and zero forcing"
             },
             {
                 "NAME":"Mary Flagg",
-                "TITLE":"Reconfiguration: Zero forcing parameters and beyond"
+                "TITLE":"Reconfiguring a community"
             },
             {
                 "NAME":"Tracy Hall",
-                "TITLE":"Minimum degree and minimum rank"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Franklin Kenter",
-                "TITLE":"TBA"
+                "TITLE":"Leaky forcing: extending zero forcing results to a fault-tolerant setting"
             },
             {
                 "NAME":"Anzila Laikhuram",
-                "TITLE":"Inverse eigenvalue problems for discrete Schrödinger operators of a graph"
+                "TITLE":"Inverse eigenvalue problem for discrete Schrödinger operators of a graph"
             },
             {
                 "NAME":"Jephian C.-H. Lin",
-                "TITLE":"Inverse eigenvalue problem for a graph: A strong community"
+                "TITLE":"Inverse fiedler vector problem of a graph"
             },
             {
                 "NAME":"Hermie Monterde",
-                "TITLE":"TBA"
+                "TITLE":"Uniform mixing and apportionability"
             },
             {
                 "NAME":"Michael Tait",
-                "TITLE":"Extremal eigenvalue problems on the normalized distance Laplacian"
+                "TITLE":"Extremal problems on graphs with $q=2$"
             },
             {
                 "NAME":"Derek Young",
-                "TITLE":"Minimum rank and zero forcing parameters for cobipartite graphs"
+                "TITLE":"Relationships between minimum rank problem parameters for cobipartite graphs"
             }
         ]
     },
     "MS18":{
         "TITLE":"New methods in numerical multilinear algebra",
         "ORGANIZERS":"Xiaobo Liu, Anna Ma, Elizabeth Newman, Eda Oktay",
-        "COUNT":10,
         "SPEAKERS":[
             {
                 "NAME":"Maolin Che",
-                "TITLE":"Efficient algorithms for Tucker decomposition via approximate matrix multiplication"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Longxiu Huang",
-                "TITLE":"Three-dimensional signal processing: Dynamical sampling via tensor products"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Joe Kileel",
-                "TITLE":"New approach to streaming data tensors"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Gilad Lerman",
-                "TITLE":"A novel outlier-robust PCA method with applications to computer vision"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Anna Ma",
@@ -801,19 +779,19 @@
             },
             {
                 "NAME":"Elizabeth Newman",
-                "TITLE":"Optimal matrix-mimetic tensor algebras"
+                "TITLE":"Optimal matrix-mimetic tensor algebras via variable projection"
             },
             {
                 "NAME":"Jing Niu",
-                "TITLE":"A tensor Alternating Anderson-Richardson method for solving multilinear systems with $\\mathcal{M}$-tensors"
+                "TITLE":"A tensor alternating Anderson--Richardson method for solving multilinear systems with $ \\mathcal{M} $-tensors"
             },
             {
                 "NAME":"Junjun Pan",
-                "TITLE":"Multi-separable tensor decomposition"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Jingmei Qiu",
-                "TITLE":"Adaptive tensor cross approximation"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Leonardo Robol",
@@ -824,7 +802,6 @@
     "MS19":{
         "TITLE":"Explicit and hidden asymptotic structures, GLT Analysis, and applications",
         "ORGANIZERS":"Sven-Erik Ekström, David Meadon",
-        "COUNT":11,
         "SPEAKERS":[
             {
                 "NAME":"Antonio Cicone",
@@ -832,11 +809,11 @@
             },
             {
                 "NAME":"Sven-Erik Ekström",
-                "TITLE":"The spectrum of Toeplitz matrices with two non-zero off-diagonals"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Dario Giandinoto",
-                "TITLE":"Banded block Toeplitz matrices with real asymptotic spectrum"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Sean Hon",
@@ -844,11 +821,11 @@
             },
             {
                 "NAME":"Asim Ilyas",
-                "TITLE":"GLT analysis and efficient regularing reconstruction for Inverse source problems in generalized diffusion equations"
+                "TITLE":"Quasi-boundary regularization for space-time fractional diffusion equations with variable coefficients"
             },
             {
                 "NAME":"Muhammad Faisal Khan",
-                "TITLE":"Matrix-sequences of geometric means in the case of hidden (asymptotic) structures"
+                "TITLE":"Geometric means of HPD GLT matrix-sequences: structure, invertibility, and convergence"
             },
             {
                 "NAME":"Valerio Loi",
@@ -856,81 +833,79 @@
             },
             {
                 "NAME":"David Meadon",
-                "TITLE":"Trace approximation using GLT theory and the matrix-less method"
-            },
-            {
-                "NAME":"Stefano Serra-Capizzano",
-                "TITLE":"GLT analysis and beyond"
-            },
-            {
-                "NAME":"Boris Shapiro",
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Stefano Serra-Capizzano",
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Boris Shapiro",
+                "TITLE":"On eigenvalues of rectangular matrices"
+            },
+            {
                 "NAME":"Rosita Luisa Sormani",
-                "TITLE":"GLT-based numerical solvers for fractional equations"
+                "TITLE":"GLT-based preconditioning for nonsymmetric Toeplitz systems"
             }
         ]
     },
     "MS20":{
         "TITLE":"Manifold learning and statistical applications",
         "ORGANIZERS":"Chih-Wei Chen, ShengLi Tzeng",
-        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Chih-Wei Chen",
-                "TITLE":"TBA"
+                "TITLE":"Convergence of Hessian estimator from random samples on a manifold with boundary"
             },
             {
                 "NAME":"Guangliang Chen",
-                "TITLE":"TBA"
+                "TITLE":"On parameter tuning for spectral clustering: two simple, fast, and effective criteria"
             },
             {
                 "NAME":"Szu-Chi Chung",
-                "TITLE":"TBA"
+                "TITLE":"A framework for exploring the conformational landscape of cryo-EM using energy-aware pathfinding algorithm"
             },
             {
                 "NAME":"Shih-Hao Huang",
-                "TITLE":"TBA"
+                "TITLE":"Coordinate testing for general sufficient dimension reduction methods"
             },
             {
-                "NAME":"Terence Huang",
-                "TITLE":"TBA"
+                "NAME":"Yu-Jie Huang",
+                "TITLE":"Application of VoxelMorph and SynthMorph for multitype 3D medical image registration"
+            },
+            {
+                "NAME":"Szu-Han Lin",
+                "TITLE":"Distributed $t$-SNE"
             },
             {
                 "NAME":"ShengLi Tzeng",
-                "TITLE":"TBA"
+                "TITLE":"Integrating Covariates in Learning Spatio-Temporal Patterns"
             },
             {
                 "NAME":"Shao-Hsuan Wang",
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Szu-Han Lin",
-                "TITLE":"TBA"
-            },
-            {
                 "NAME":"Sing-Yuan Yeh",
-                "TITLE":"TBA"
+                "TITLE":"Landmark diffusion accelerates alternating diffusion maps for multi-sensor fusion"
             }
         ]
     },
     "MS21":{
         "TITLE":"Linear algebra techniques in graph theory",
         "ORGANIZERS":"Milica Anđelić, Zhibin Du",
-        "COUNT":12,
         "SPEAKERS":[
-            {
-                "NAME":"Milica Anđelić",
-                "TITLE":"Laplacian eigenvalues of weighted threshold graphs"
-            },
             {
                 "NAME":"Enide Andrade",
                 "TITLE":"Doubly stochastic matrices and graphs"
             },
             {
-                "NAME":"Anirban Banerjee",
-                "TITLE":"Spectral study of hypergraphs using linear operators"
+                "NAME":"Milica Anđelić",
+                "TITLE":"Laplacian eigenvalues of weighted threshold graphs"
+            },
+            {
+                "NAME":"Anirban  Banarjee",
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Sasmita Barik",
@@ -938,54 +913,57 @@
             },
             {
                 "NAME":"Mushtaq Ahmad Bhat",
-                "TITLE":"On the trace norm of $A_\\alpha$ matrix of directed graphs"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Projesh Nath Choudhury",
-                "TITLE":"Distance matrices of trees: Invariants and in a unified framework"
+                "TITLE":"Two invariants of distance matrices of trees, in a unified framework"
             },
             {
                 "NAME":"Joshua Cooper",
-                "TITLE":"Eigenvalues of Steiner distance hypermatrices"
-            },
-            {
-                "NAME":"Zhibin Du",
-                "TITLE":"Asymptotic normality criteria of coefficients of a polynomial and their applications in graph polynomials"
+                "TITLE":"Determinants of Steiner distance hypermatrices"
             },
             {
                 "NAME":"Susana Furtado",
-                "TITLE":"Recent developments on efficient vectors for pairwise comparison matrices"
+                "TITLE":"Approximation of reciprocal matrices by consistent matrices"
             },
             {
-                "NAME":"Hongying Lin",
-                "TITLE":"Improved lower bound on the energy of line graphs"
+                "NAME":"Iswar Mahato",
+                "TITLE":"A generalized class of matrices associated to threshold and chain graphs"
             },
             {
-                "NAME":"Chen Ouyang",
-                "TITLE":"Multi-agent formation control, gain graph theory and weighted directed graph theory"
+                "NAME":"Debabrota Mondal",
+                "TITLE":"Smallest positive eigenvalue of non-bipartite unicyclic graphs"
+            },
+            {
+                "NAME":"Madhab Mondal",
+                "TITLE":"A $q$-analogue of the distance matrix of a tree with matrix weights"
             },
             {
                 "NAME":"Krishnan Sivasubramanian",
-                "TITLE":"The $2$-Steiner distance matrix of a tree"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS22":{
         "TITLE":"Linear algebra applications in computational geometry",
         "ORGANIZERS":"Marco Sutti, Mei-Heng Yueh",
-        "COUNT":5,
         "SPEAKERS":[
             {
-                "NAME":"Gary Pui Tung Choi",
-                "TITLE":"TBA"
+                "NAME":"Gary Choi",
+                "TITLE":"Density-equalizing map with applications"
             },
             {
                 "NAME":"Shu-Yung Liu",
-                "TITLE":"TBA"
+                "TITLE":"Spherical volume-preserving parameterization via energy minimization"
             },
             {
                 "NAME":"Ronald Lok Ming Lui",
-                "TITLE":"TBA"
+                "TITLE":"Density-equalizing quasiconformal surface and volmeteric parameterization"
+            },
+            {
+                "NAME":"Kristian Sabo",
+                "TITLE":"A method for searching for a globally optimal k-partition of higher-dimensional datasets"
             },
             {
                 "NAME":"Marco Sutti",
@@ -993,22 +971,25 @@
             },
             {
                 "NAME":"Mei-Heng Yueh",
-                "TITLE":"TBA"
+                "TITLE":"Authalic energy minimization for area-preserving mappings"
             }
         ]
     },
     "MS23":{
         "TITLE":"Advances in Krylov subspace methods and their applications",
         "ORGANIZERS":"Michele Rinelli, Igor Simunec",
-        "COUNT":12,
         "SPEAKERS":[
+            {
+                "NAME":"Kensuke Aihara",
+                "TITLE":"Block cross-interactive residual smoothing for block Lanczos-type iterative solvers"
+            },
             {
                 "NAME":"Benjamin Carrel",
                 "TITLE":"Low-rank exponential integrators leveraged by rational Krylov techniques"
             },
             {
                 "NAME":"Fabio Durastante",
-                "TITLE":"Krylov: Better, faster, parallel"
+                "TITLE":"Krylov: better, faster, parallel"
             },
             {
                 "NAME":"Amin Faghih",
@@ -1020,11 +1001,11 @@
             },
             {
                 "NAME":"Yuwen Li",
-                "TITLE":"Reduced Krylov basis methods for parametric PDEs"
+                "TITLE":"Reduced Krylov basis methods"
             },
             {
                 "NAME":"Stefano Massei",
-                "TITLE":"An error formula for block rational Krylov approximation of matrix functions"
+                "TITLE":"Error formulas for block rational Krylov approximations of matrix functions"
             },
             {
                 "NAME":"Mariarosa Mazza",
@@ -1032,19 +1013,15 @@
             },
             {
                 "NAME":"Stefano Pozza",
-                "TITLE":"Krylov subspace methods and the $\\star$-algebra"
+                "TITLE":"Krylov subspace methods an the $\\star$-algebra"
             },
             {
                 "NAME":"Michele Rinelli",
                 "TITLE":"Krylov techniques for estimating spectral gaps of sparse symmetric matrices"
             },
             {
-                "NAME":"Nian Shao",
-                "TITLE":"Lanczos with compression for symmetric eigenvalue problems"
-            },
-            {
                 "NAME":"Igor Simunec",
-                "TITLE":"A low-memory Lanczos method with rational Krylov compression"
+                "TITLE":"Lanczos with compression for symmetric matrix functions"
             },
             {
                 "NAME":"Robbe Vermeiren",
@@ -1055,23 +1032,22 @@
     "MS24":{
         "TITLE":"Nonnegative and related families of matrices",
         "ORGANIZERS":"Geir Dahl, Raphael Loewy, Julio Moro",
-        "COUNT":8,
         "SPEAKERS":[
             {
-                "NAME":"Minerva Catral",
+                "NAME":"Minnie Catral",
                 "TITLE":"Refined inertias of nonnegative patterns with positive off-diagonal entries"
             },
             {
                 "NAME":"Geir Dahl",
-                "TITLE":"Near-derangements and their polytopes"
+                "TITLE":"Near-derangements and polytopes"
             },
             {
                 "NAME":"Richard Ellard",
-                "TITLE":"Connecting the Hermite-Biehler Theorem to the nonnegative inverse eigenvalue problem"
+                "TITLE":"Connecting the Hermite-Biehler theorem to the nonnegative inverse eigenvalue problem"
             },
             {
                 "NAME":"Hitesh Kumar",
-                "TITLE":"New results on second eigenvalue extremization"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Raphael Loewy",
@@ -1079,34 +1055,33 @@
             },
             {
                 "NAME":"Hermie Monterde",
-                "TITLE":"Perfect state transfer between nonnegative real pure states"
+                "TITLE":"Nonnegativity in quantum walks"
             },
             {
                 "NAME":"Shivaramakrishna Pragada",
-                "TITLE":"Triangle counting and the Bollob ́as-Nikiforov conjecture"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"K. C. Sivakumar",
-                "TITLE":"Inverse $Z$-matrices and bidiagonal south-west matrices"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS25":{
         "TITLE":"Enumerative\/algebraic combinatorics and matrices",
         "ORGANIZERS":"Yen-Jen Cheng, Sen-Peng Eu, Yuan-Hsun Lo",
-        "COUNT":12,
         "SPEAKERS":[
             {
                 "NAME":"Lei Cao",
-                "TITLE":"$123$-avoiding and $123$-forcing matrices"
+                "TITLE":"Pattern avoiding and pattern forcing $(0,1)$-matrices for some permutation patterns"
             },
             {
                 "NAME":"Yen-Jen Cheng",
-                "TITLE":"On the maximal spectral radius of digraphs with prescribed number of arcs"
+                "TITLE":"On the maximal spectral radius of digraphs with a prescribed number of arcs"
             },
             {
-                "NAME":"Tien-Xiao He",
-                "TITLE":"High-order Eulerian numbers and matrices"
+                "NAME":"Tian-Xiao He",
+                "TITLE":"High-order eulerian numbers and matrices"
             },
             {
                 "NAME":"Yi-Lin Lee",
@@ -1114,11 +1089,11 @@
             },
             {
                 "NAME":"Yuan-Hsun Lo",
-                "TITLE":"On shift-full-rank matrices"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Xiao-Nan Lu",
-                "TITLE":"Ternary circulant almost orthogonal arrays with (near) $D$-optimality and good binary sequence pairs"
+                "TITLE":"Ternary circulant almost orthogonal arrays with (near) D-optimality and good binary sequence pairs"
             },
             {
                 "NAME":"Soichi Okada",
@@ -1126,7 +1101,7 @@
             },
             {
                 "NAME":"Harry Richman",
-                "TITLE":"Tree distance matrices and their minors"
+                "TITLE":"Principal minors of tree distance matrices"
             },
             {
                 "NAME":"Lavanya Selvaganesh",
@@ -1138,18 +1113,17 @@
             },
             {
                 "NAME":"Shen-Fu Tsai",
-                "TITLE":"Extremal and saturation function of multidimensional $0$-$1$ matrices"
+                "TITLE":"Extremal and saturation function of multidimensional 0-1 matrices"
             },
             {
                 "NAME":"Chi Ho Yuen",
-                "TITLE":"TBA"
+                "TITLE":"The critical groups of hypercubes and beyond"
             }
         ]
     },
     "MS26":{
         "TITLE":"Utilizing structure to achieve low-complexity algorithms for data science, engineering, and physics",
         "ORGANIZERS":"Sirani M. Perera, Natalia Bebiano",
-        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Hansaka Aluvihare",
@@ -1157,7 +1131,7 @@
             },
             {
                 "NAME":"Natalia Bebiano",
-                "TITLE":"Revisiting an inverse problem proposed by Boor and Golub"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Paola Boito",
@@ -1165,66 +1139,65 @@
             },
             {
                 "NAME":"Luca Gemignani",
-                "TITLE":"Some numerical methods for nonlocal boundary value problems"
+                "TITLE":"On the numerical solution of nonLocal boundary value problems by matrix function computations"
             },
             {
                 "NAME":"Kshitij Khare",
-                "TITLE":"Fast computation for high-dimensional Bayesian dynamic factor models"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Ilias Kotsireas",
-                "TITLE":"A low-complexity Algorithm for generating Legendre pairs using linear algebra approaches"
+                "TITLE":"A low-complexity algorithm to search for Legendre pairs"
             },
             {
                 "NAME":"Sirani M. Perera",
-                "TITLE":"A low-complexity operator learning for dynamical systems"
+                "TITLE":"A low-complexity structured neural network approach for dynamical systems"
             },
             {
                 "NAME":"Erkki Somersalo",
-                "TITLE":"Model reduction and matrix compression in dictionary learning applications "
+                "TITLE":"Model reduction and matrix compression in dictionary learning applications"
             },
             {
                 "NAME":"Aaron Welters",
-                "TITLE":"Structural constraints and Bessmertnyi realizations for response matrices of two-element-kind networks"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS27":{
         "TITLE":"Linear algebra education",
         "ORGANIZERS":"Rachel Quinlan, Sepideh Stewart",
-        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Jane Breen",
                 "TITLE":"TBA"
             },
             {
-                "NAME":"Fernando De Teran Vergara",
-                "TITLE":"TBA"
+                "NAME":"Fernando De Terán",
+                "TITLE":"A linear algebra online course experience at UC3M: development and teaching"
             },
             {
                 "NAME":"Jephian C.-H. Lin",
-                "TITLE":"TBA"
+                "TITLE":"Engaging students with collaborative tasks in Linear Algebra"
             },
             {
                 "NAME":"Steve Mackey",
-                "TITLE":"TBA"
+                "TITLE":"Exciting eigenvectors: seeing is believing"
             },
             {
                 "NAME":"Mike Michailidis",
-                "TITLE":"TBA"
+                "TITLE":"Computational labs to enhance linear algebra intuition"
             },
             {
                 "NAME":"Rachel Quinlan",
-                "TITLE":"TBA"
+                "TITLE":"Project work in an undergraduate linear algebra course"
             },
             {
                 "NAME":"Helena Šmigoc",
-                "TITLE":"TBA"
+                "TITLE":"Posing a question"
             },
             {
                 "NAME":"Sepideh Stewart",
-                "TITLE":"TBA"
+                "TITLE":"Bridging abstract and numerical linear algebra"
             },
             {
                 "NAME":"Frank Uhlig",
@@ -1235,15 +1208,14 @@
     "MS28":{
         "TITLE":"From matrix theory to Euclidean Jordan algebras, FTvN systems, and beyond",
         "ORGANIZERS":"Juyoung Jeong, David Sossa",
-        "COUNT":4,
         "SPEAKERS":[
             {
-                "NAME":"M. Seetharama Gowda",
+                "NAME":"Muddappa Gowda",
                 "TITLE":"Commutativity concepts relative to transformation\/matrix groups and semi-FTvN systems"
             },
             {
                 "NAME":"Juyoung Jeong",
-                "TITLE":"Bounds on the eigenvalues of Jordan products"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Michael Orlitzky",
@@ -1251,22 +1223,25 @@
             },
             {
                 "NAME":"David Sossa",
-                "TITLE":"Analysis of optimization problems on eigenvalue orbits in Euclidean Jordan algebras"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS29":{
         "TITLE":"Matrix functions and related topics",
         "ORGANIZERS":"Yuki Seo, Takeaki Yamazaki",
-        "COUNT":11,
         "SPEAKERS":[
+            {
+                "NAME":"Athul Augustine",
+                "TITLE":"Composition operators and convexity of their Berezin range on functional Hilbert spaces"
+            },
             {
                 "NAME":"Fumio Hiai",
                 "TITLE":"Joint concavity\/convexity of matrix trace functions for geometric type means"
             },
             {
                 "NAME":"Jinmi Hwang",
-                "TITLE":"Near-order relation of power means "
+                "TITLE":"Near-order relation of power means"
             },
             {
                 "NAME":"Masatoshi Ito",
@@ -1274,11 +1249,7 @@
             },
             {
                 "NAME":"Miran Jeong",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Kenta Kojin",
-                "TITLE":"An introduction to noncommutative function theory"
+                "TITLE":"New weighted spectral geometric mean and quantum divergence"
             },
             {
                 "NAME":"Jie Meng",
@@ -1286,7 +1257,7 @@
             },
             {
                 "NAME":"Hiromichi Ohno",
-                "TITLE":"Generalization of Böttcher-Wenzel inequality and its application"
+                "TITLE":"Generalization of B\\\"ottcher-Wenzel inequality and its application"
             },
             {
                 "NAME":"Takashi Sano",
@@ -1298,37 +1269,31 @@
             },
             {
                 "NAME":"Shuhei Wada",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Pengpeng Xie",
-                "TITLE":"Computing the dual matrix exponential"
+                "TITLE":"On some multi-variable means of ALM type"
             }
         ]
     },
     "MS30":{
         "TITLE":"Bohemian matrices: Theory, applications, and explorations",
         "ORGANIZERS":"Eunice Y. S. Chan, Robert M. Corless",
-        "COUNT":3,
         "SPEAKERS":[
             {
                 "NAME":"Eunice Y. S. Chan",
-                "TITLE":"Numerical stability of algebraic linearizations"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Laureano Gonzalez-Vega",
-                "TITLE":"Bohemian correlation matrices"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Jamie Pommersheim",
-                "TITLE":"More on eigenvalue gaps of integer matrices"
+                "TITLE":"TBA"
             }
         ]
     },
     "MS31":{
         "TITLE":"Matrix decompositions and applications",
         "ORGANIZERS":"Kennett Dela Rosa, Daryl Granario, Hermie Monterde",
-        "COUNT":7,
         "SPEAKERS":[
             {
                 "NAME":"Angelo Galimba",
@@ -1336,23 +1301,23 @@
             },
             {
                 "NAME":"Daryl Granario",
-                "TITLE":"TBA"
+                "TITLE":"Some factorizations in the complex symplectic group"
             },
             {
-                "NAME":"Paolo Joven",
-                "TITLE":"Products of skew involutions"
+                "NAME":"Jesus Paolo Joven",
+                "TITLE":"Product of skew-involutions"
             },
             {
                 "NAME":"Tejbir Lohan",
                 "TITLE":"Product of two involutions in special linear groups"
             },
             {
-                "NAME":"Jenny Salinasan",
-                "TITLE":"The $\\phi_S$ polar decomposition when $S$ is skew-symmetric"
-            },
-            {
                 "NAME":"Eloise Misa",
                 "TITLE":"The algebra generated by nilpotent elements in a matrix centralizer"
+            },
+            {
+                "NAME":"Jenny Salinasan",
+                "TITLE":"The $\\phi_S$ polar decomposition when $S$ is skew-symmetric"
             },
             {
                 "NAME":"Juan Paolo Santos",
@@ -1363,19 +1328,18 @@
     "MS32":{
         "TITLE":"Advances in matrix manifold optimization",
         "ORGANIZERS":"Zehua Lai",
-        "COUNT":4,
         "SPEAKERS":[
             {
                 "NAME":"Di Hou",
-                "TITLE":"A low-rank augmented Lagrangian method for doubly nonnegative relaxations of mixed-binary quadratic programs"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Xiang Lu",
-                "TITLE":"Special orthogonal, special unitary, and symplectic groups as products of Grassmannians"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Anthony Man-Cho So",
-                "TITLE":"Randomized Riemannian submanifold subgradient method for optimization over Stiefel manifold"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Chun-Hao Yang",
@@ -1386,11 +1350,10 @@
     "MS33":{
         "TITLE":"Norms of matrices, numerical range, applications of functional analysis to matrix theory",
         "ORGANIZERS":"Ryan O'Loughlin, Jani Virtanen, Ilya Spitkovsky",
-        "COUNT":4,
         "SPEAKERS":[
             {
                 "NAME":"Dragana Cvetkovic Ilic",
-                "TITLE":"Dragana Cvetkovic Ilic"
+                "TITLE":"Large similarities between the numerical range of an operator and of certain generalized inverses"
             },
             {
                 "NAME":"Ryan O'Loughlin",
@@ -1398,7 +1361,7 @@
             },
             {
                 "NAME":"Brooke Randell",
-                "TITLE":"TBA"
+                "TITLE":"Exploring the numerical range of block Toeplitz operators"
             },
             {
                 "NAME":"Jani A. Virtanen",
@@ -1409,10 +1372,9 @@
     "MS34":{
         "TITLE":"Combinatorics, association scheme, and graphs",
         "ORGANIZERS":"Wei-Hsuan Yu",
-        "COUNT":5,
         "SPEAKERS":[
             {
-                "NAME":"Yeh-Chi Lin",
+                "NAME":"Yen-chi Lin",
                 "TITLE":"TBA"
             },
             {
@@ -1424,8 +1386,16 @@
                 "TITLE":"TBA"
             },
             {
+                "NAME":"Wasin So",
+                "TITLE":"Formal orthogonal systems"
+            },
+            {
                 "NAME":"Sho Suda",
-                "TITLE":"Tight 3-designs and s-distance set (2s-1)designs in Hamming schemes $H(n,q)$"
+                "TITLE":"TBA"
+            },
+            {
+                "NAME":"Wei-Liang Sun",
+                "TITLE":"Power difference sets and cyclotomic matrices"
             },
             {
                 "NAME":"Pin-Chieh Tseng",
@@ -1436,11 +1406,10 @@
     "MS35":{
         "TITLE":"Preserver Problems, II",
         "ORGANIZERS":"Ngai-Ching Wong, Sushil Singla",
-        "COUNT":9,
         "SPEAKERS":[
             {
                 "NAME":"Daisuke Hirota",
-                "TITLE":"Tingley's problem concerning the direct sum of extremely $C$-regular subspaces with the $\\ell^p$-norm"
+                "TITLE":"Tingley's problem concerning the direct sum of extremely C-regular subspaces with the $\\ell^p$-norm."
             },
             {
                 "NAME":"Bojan Kuzma",
@@ -1448,23 +1417,27 @@
             },
             {
                 "NAME":"Izuho Matsuzaki",
-                "TITLE":"Phase isometries on continuous function spaces"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Lucijan Plevnik",
                 "TITLE":"Linear preservers of rank one projections"
             },
             {
+                "NAME":"Manideepa Saha",
+                "TITLE":"On linear preservers of semimonotone matrices"
+            },
+            {
                 "NAME":"Sushil Singla",
                 "TITLE":"Linear maps preserving product of involutions"
             },
             {
-                "NAME":"Titkos Tamás",
+                "NAME":"Tamas Titkos",
                 "TITLE":"Isometries of Lipschitz free Banach spaces"
             },
             {
                 "NAME":"Ming-Cheng Tsai",
-                "TITLE":"Some preserving problems on the sets of non-negative matrices"
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Ya-Shu Wang",
@@ -1472,7 +1445,7 @@
             },
             {
                 "NAME":"Ngai-Ching Wong",
-                "TITLE":"Tingley's problems for positive spheres of operator algebras"
+                "TITLE":"TBA"
             }
         ]
     }
