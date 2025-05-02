@@ -11,4 +11,5 @@ Early check-in is also availbale on the same day,
 with details to be announced later.
 
 - [Schedule](/files/schedule.pdf)
-- Program TBA
+- [Program](/files/ILAS2025-program.pdf)
+- General information TBA

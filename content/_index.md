@@ -31,6 +31,7 @@ visit {{< newpage "TAIWAN THE LUCKY LAND" "https://5000.taiwan.net.tw/index_en.h
 
 ### Important dates
 
+- 2025-0502: [Program](/files/ILAS2025-program.pdf) available!
 - 2025-0421: Please complete your registration and payment by **May 15** to 
 receive a printed name badge, a conference package, and secure your spot for 
 the excursion and banquet.
