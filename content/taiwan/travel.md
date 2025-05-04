@@ -44,6 +44,7 @@ The conference will take place at [National Sun Yat-sen University.](https://www
 * From the Hamasen Station to the NSYSU (around 15 minutes via the **Sizihwan Tunnel**)  
   * Take the Exit 1 of Hamasen (O1) station for NSYSU  
   * You may choose either to walk or to ride a YouBike (Details will be elaborated in the next section) to the university
+  * You may choose either to walk or to ride a YouBike (Details will be elaborated in the next section) to the university
   * Go straight in the same direction as the escalator, then take the Sizihwan Tunnel  
   * &#10071; On the road, you shall pass several convenience stores and an elementary school. If you’re lost, please consult Maps in your phone  
   * The NSYSU is on the other side of the tunnel.  
@@ -63,6 +64,14 @@ The conference will take place at [National Sun Yat-sen University.](https://www
   * The NSYSU is on the other side of the tunnel.
 
 {{< ilas2025-map >}}
+### YouBike
+YouBike is a public bicycle-sharing system in Taiwan, established to offer a convenient, environmentally sustainable, and cost-effective mode of transportation for both local residents and visitors. Upon exiting Hamasen Station (O1) via Exit 1, you will find a YouBike station where bicycles are available for rental. Users may rent a YouBike to travel to the university or other destinations. Each ride is a single rental, and bicycles must be both borrowed from and returned to designated docking stations.
+For detailed instructions on how to rent a YouBike, please refer to the following links:
+1. [Rental Information for One-time Users](https://en.youbike.com.tw/region/main/rent-way/single/)
+2. [YouBike App (Google Play)](https://play.google.com/store/apps/details?id=tw.com.youbike.plus&hl=zh_TW&gl=US)
+3. [YouBike App (App Store)](https://apps.apple.com/tw/app/youbike%E5%BE%AE%E7%AC%91%E5%96%AE%E8%BB%8A-%E5%AE%98%E6%96%B9%E7%89%88/id1483423095?l=en-GB)
+4. [YouBike FAQ](https://en.youbike.com.tw/region/kcg/faq/)
+
 
 ### Stored-value Card (iPass and EasyCard)
 
