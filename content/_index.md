@@ -13,9 +13,9 @@ cascade:
 **[National Sun Yat-sen University](https://www.nsysu.edu.tw/) (NSYSU)** 
 in Kaohsiung.
 
-&#128232; **Subscribe to [ILAS-NET](https://ilasic.org/ilas-net/) for free** to stay updated 
-on this conference and to receive the latest news from linear algebra 
-communities worldwide.
+&#128232; **Subscribe to [ILAS-NET](https://ilasic.org/ilas-net/) for free** to
+stay updated on this conference and to receive the latest news from 
+linear algebra communities worldwide.
 You may help us to [share this event](/files/ILAS2025-slides.pdf)!
 
 &#10071; **Scam Alert**: The conference did not ask any travel agencies to help
@@ -29,9 +29,10 @@ We offer some hotel options in [Local](taiwan/local/).
 for each traveler who signed up their event **before** the departure; 
 visit {{< newpage "TAIWAN THE LUCKY LAND" "https://5000.taiwan.net.tw/index_en.html" >}} for more details.
 
-### Important dates
+### News
 
-- 2025-0502: [Program](/files/ILAS2025-program.pdf) available!
+- 2025-0502: [Program](/files/ILAS2025-program.pdf) available, which will be
+updated weekly on weekends!
 - 2025-0421: Please complete your registration and payment by **May 15** to 
 receive a printed name badge, a conference package, and secure your spot for 
 the excursion and banquet.
