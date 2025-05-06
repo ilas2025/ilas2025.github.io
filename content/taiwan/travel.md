@@ -58,6 +58,7 @@ The conference will take place at [National Sun Yat-sen University.](https://www
   * [Payment](https://www.krtc.com.tw/eng/Ticket/ticket_list?id=6991b7b988e8461194b57a12c7269697): Single-journey Ticket, Stored-value Cards (Details will be elaborated in the next section), Credit Card   
 * From the  Hamasen  Station to the NSYSU (around 10 minutes via the **Sizihwan Tunnel**)  
   * Take the Exit 1 of Hamasen (O1) station for NSYSU  
+  * You may choose either to walk or to ride a YouBike (Details will be elaborated in the next section) to the university
   * Go straight in the same direction as the escalator takes you up, then take the Sizihwan Tunnel.  
   * &#10071; On the road, you shall pass several convenience stores and an elementary school. If you’re lost, please consult Maps in your phone.  
   * The NSYSU is on the other side of the tunnel.
