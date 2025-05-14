@@ -20,7 +20,7 @@ Special editors for this ILAS2025 issue are:
 - Matthew M. Lin (National Cheng Kung University)
 - Karen Meagher (University of Regina)
 
-In submitting a paper, Richard A. Brualdi (University of Wisconsin-Madison) 
-should be chosen as the responsible editor-in-chief. Authors may suggest one of 
-these special editors to handle their submission. 
+In submitting a paper, please select **SI:LAA_ILAS2025** as the article type 
+and Richard A. Brualdi as the responsible editor-in-chief. Authors may suggest 
+one of these special editors to handle their submission. 
 Papers will be refereed according to the usual standards of LAA.
