@@ -7,11 +7,13 @@ cascade:
   featured_image: 'https://lh3.googleusercontent.com/e7CtgHftw7YT5EzvcklPKnxT_vSZZFfpQvLT2yFMlshBe9T1UsTgbq4sKHboFDLmZ4JSJjnwZuX9gYs0jPWNhithxkLvqxYKLLsAbISPwJmr5ptAtRjgd8b47Gx0NhfejFHU1XthBWW2Dbw9KWzDV8RElDu1n7-bjhqWVpfAtJ1v6PoBub1HUtFhFCyQNeTjpcd-5lFFKdBtxF-Qg6WakSiPgQdBF11m-5sgVnVDL62SfFV5M_7Jv5joocRAs6uTGAUfXaonSs_SqsF3ht6MEhV1iL5sQKFJDahNHbetHHZWAWjGpg1q1yE_0dhXCr0RtHFSgTDGWUYKxAua7hzpT1WiBF0Af4whhMD9blBloVY6TE9bGnzmlJrkLbgHEP9p4iYx3SrmRrRSnhcfv2DA-0WgKr9wWF8bc8MC5zfshs6b46eJ6-X6BATyHj3Fqx-MXyVZBe0K8Ja5GSW--Le0UhvfdSHCKY4dzHYt7cSX4AHP7ojl3cwnxxRMjK49V2Qrpw7kkGUub_w_LA-74noi_jrX0aKXoPc6EJB16lc1Mqzw-YOQKzpXuFHW7BDR5L6l9PrKS-2Rtay-p9lxrXfuaqoVgFPvlVmyo28wk1QTqGe4knysLL3v1nCEoKrn7oit1tyDXOHFXW9xll5rRFo24jBhlR0bpo38w3HU-o0y9iZmMpjE3fLgYv_ddd0OssxmPL6xCvbrfuxnDrZmDFj2WzJcK9T54sRIDb7RBC2CqpCQlhrpmBSTj6qkS9vnrJuxlQSGZKnJDFvNTx-NNewZxlFm1Pz5s84NOy5Z-MVtOQDTiq3m2o71aDOSF9MC78dD-qmXpe5jlod1l7-tqmQDhIYzKuhThrznPzi9WNO8pNdyKMdpo76Im0y-uvzA168xOdhg-D2wvvL7ixkceUrGWQdqvMHNNpewr351WC6iudhnrnZMqQ=w1400-h933-s-no?authuser=0'
 ---
 
-{{< announcement "Announcement: Please complete your registration and payment by **May 15** to receive a printed name badge, a conference package, and secure your spot for the excursion and banquet." >}}
+<!-- {{< announcement "Announcement: Please complete your registration and payment by **May 15** to receive a printed name badge, a conference package, and secure your spot for the excursion and banquet." >}} -->
 
 &#127979; The conference will be held at 
 **[National Sun Yat-sen University](https://www.nsysu.edu.tw/) (NSYSU)** 
 in Kaohsiung.
+
+{{< home-button >}}
 
 &#128232; **Subscribe to [ILAS-NET](https://ilasic.org/ilas-net/) for free** to
 stay updated on this conference and to receive the latest news from 
@@ -31,6 +33,7 @@ visit {{< newpage "TAIWAN THE LUCKY LAND" "https://5000.taiwan.net.tw/index_en.h
 
 ### News
 
+- 2025-0517: [General informaion](/files/general-information.pdf) available!
 - 2025-0502: [Program](/files/ILAS2025-program.pdf) available, which will be
 updated weekly on weekends!
 - 2025-0421: Please complete your registration and payment by **May 15** to 
