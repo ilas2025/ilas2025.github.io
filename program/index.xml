@@ -58,7 +58,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Eric King-wah Chu, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inverse iteration for Sylvester operators&lt;/span>
  &lt;/li>
  
  &lt;li>Van Su Giap, 
@@ -78,7 +78,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Matthew M. Lin, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A gradient flow method to differentiate between classical and quantum correlations&lt;/span>
  &lt;/li>
  
  &lt;li>Etna Lindy, 
@@ -94,7 +94,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Haesun Park, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Integrative co-embedding of multi-view data sets&lt;/span>
  &lt;/li>
  
  &lt;li>Peter Chang-Yi Weng, 
@@ -156,10 +156,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Kevin Vander Meulen, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Matrix sign patterns that allow the strong multiplicity property&lt;/span>
- &lt;/li>
- 
- &lt;li>Wei Wang, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -224,8 +220,12 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The linear algebra of space-time regularization for time-dependent distributed inverse problems&lt;/span>
  &lt;/li>
  
- &lt;li>Matthias Chung, 
+ &lt;li>Julianne Chung, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Matthias Chung, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Data-driven inverse problems via autoencoder&lt;/span>
  &lt;/li>
  
  &lt;li>Tiangang Cui, 
@@ -241,10 +241,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Colin Fox, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Mirjeta Pasha, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
@@ -290,7 +286,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Bruno Iannazzo, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The Lambert $W$, the wright $\omega$ and the unwinding number of matrices&lt;/span>
  &lt;/li>
  
  &lt;li>Rudra Kamat, 
@@ -400,7 +396,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Bing-Ze Lu, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Dynamic flows and iterative methods for identifying the Choi representation of an unknown quantum channel from partial data&lt;/span>
  &lt;/li>
  
  &lt;li>Sang-Gyun Youn, 
@@ -437,7 +433,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Seung-Hyeok Kye, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Global locations of Schmidt number witnesses&lt;/span>
  &lt;/li>
  
  &lt;li>Zehua Lai, 
@@ -445,7 +441,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Chi-Kwong Li, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Quantum tomography: theory and practice&lt;/span>
  &lt;/li>
  
  &lt;li>Tomasz Miller, 
@@ -460,8 +456,8 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Tensor train completion of multiway data observed in a single mode&lt;/span>
  &lt;/li>
  
- &lt;li>Raymond Sze, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;li>Raymond Nung-Sing Sze, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Characterizing high Schmidt number witnesses in arbitrary dimensions system&lt;/span>
  &lt;/li>
  
  &lt;li>Jeroen Zuiddam, 
@@ -482,7 +478,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;ul>
  
  &lt;li>Sujit Sakharam Damase, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Multivariate transforms of totally positive matrices and kernels&lt;/span>
  &lt;/li>
  
  &lt;li>Jorge Delgado, 
@@ -592,7 +588,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;ul>
  
  &lt;li>Chun-Yueh Chiang, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">{\bf Title:} Ten Hermitian solutions of anti-Riccati matrix equation arising in anti-LQR problem&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Ten Hermitian solutions of anti-Riccati matrix equation arising in anti-LQR problem&lt;/span>
  &lt;/li>
  
  &lt;li>Hung-Yuan Fan, 
@@ -656,10 +652,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Linear preservers of parallel pairs&lt;/span>
  &lt;/li>
  
- &lt;li>Saikat Roy, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Preservation of orthogonality by unitary and isometric dilations&lt;/span>
- &lt;/li>
- 
  &lt;li>Peter Semrl, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Local order isomorphisms on operator and matrix domains&lt;/span>
  &lt;/li>
@@ -698,7 +690,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Sivan Toledo, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Parallel-in-time Kalman smoothing using orthogonal transformations&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -819,16 +811,12 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>
  &lt;span style="color: #193890;">Approximations and errors in Krylov-based solvers&lt;/span>&lt;br />
- Xin Liu, Bastien Vieublé
+ Xiaobo Liu, Xin Liu, Bastien Vieublé
  &lt;details>
  &lt;summary style="opacity: 0.3;">Speakers&lt;/summary>
  &lt;ul>
  
  &lt;li>Oleg Balabanov, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
- &lt;li>Zhao Li, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
@@ -850,14 +838,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Sofia Sukmaniuk, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Generalized minimal residual method with flexible Arnoldi process&lt;/span>
- &lt;/li>
- 
- &lt;li>Bastien Vieublé, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Mixed precision strategies for preconditioned GMRES&lt;/span>
- &lt;/li>
- 
- &lt;li>Ning Zheng, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Randomized inner iteration preconditioning&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -950,6 +930,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Stochastic iterative methods for solving tensor linear systems&lt;/span>
  &lt;/li>
  
+ &lt;li>Souad Mohaoui, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Tucker decomposition with temporal regularization for motion capture data completion&lt;/span>
+ &lt;/li>
+ 
  &lt;li>Elizabeth Newman, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Optimal matrix-mimetic tensor algebras via variable projection&lt;/span>
  &lt;/li>
@@ -983,7 +967,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Speakers&lt;/summary>
  &lt;ul>
  
- &lt;li>Antonio Cicone, 
+ &lt;li>Roberto Cavassi, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Signal processing of spherical data. From real life to mathematical challenges&lt;/span>
  &lt;/li>
  
@@ -1061,7 +1045,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>ShaoHsuan Wang, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Contrastive Principal Component Analysis in High Dimension&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Contrastive principal component analysis in high dimension&lt;/span>
  &lt;/li>
  
  &lt;li>Sing-Yuan Yeh, 
@@ -1095,10 +1079,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Sasmita Barik, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Limit points of the smallest positive eigenvalues of graphs&lt;/span>
- &lt;/li>
- 
- &lt;li>Mushtaq A. Bhat, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the trace norm of $A_{\alpha}$ matrix of directed graphs&lt;/span>
  &lt;/li>
  
  &lt;li>Projesh Nath Choudhury, 
@@ -1351,7 +1331,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Natalia Bebiano, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Revisiting an Inverse Problem Proposed by Boor and Golub&lt;/span>
  &lt;/li>
  
  &lt;li>Paola Boito, 
@@ -1360,10 +1340,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Luca Gemignani, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the numerical solution of nonLocal boundary value problems by matrix function computations&lt;/span>
- &lt;/li>
- 
- &lt;li>Kshitij Khare, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
  &lt;li>Ilias Kotsireas, 
@@ -1379,7 +1355,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Aaron Welters, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Structural constraints on response matrices of passive electrical networks&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -1497,10 +1473,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">New weighted spectral geometric mean and quantum divergence&lt;/span>
  &lt;/li>
  
- &lt;li>Jie Meng, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Convergence properties of sequences related to the Ando-Li-Mathias construction and to the weighted Cheap mean&lt;/span>
- &lt;/li>
- 
  &lt;li>Hiromichi Ohno, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Generalization of B\&amp;#34;ottcher-Wenzel inequality and its application&lt;/span>
  &lt;/li>
@@ -1534,8 +1506,8 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Speakers&lt;/summary>
  &lt;ul>
  
- &lt;li>Eunice Y. S. Chan, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;li>Eunice Chan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A divide-and-conquer framework for efficient algebraic linearizations of matrix polynomials&lt;/span>
  &lt;/li>
  
  &lt;li>Geeta Chowdhry, 
@@ -1695,7 +1667,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Pin-Chieh Tseng, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Semidefinite programming bounds on the size of entanglement-assisted codeword stabilized quantum codes&lt;/span>
  &lt;/li>
  
  &lt;/ul>
