@@ -24,7 +24,7 @@ The conference will take place at [National Sun Yat-sen University.](https://www
 #### Landed at Taiwan Taoyuan International Airport (TPE)
 
 * From the airport to the Taoyuan high speed rail (HSR) station (around 18 minutes)  
-  * Take [Taoyuan Metro](https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/index.php) at the Airport Terminal Station (Terminal 1 (A12) or 2 (A13)) and take off at Taoyuan HSR Station (A18)  
+  * Take [Taoyuan Metro](https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/index.php) at the Airport Terminal Station (Terminal 1 (A12) or 2 (A13)) and get off at Taoyuan HSR Station (A18)  
   * &#10071; Only commuter train will take you to the Taoyuan HSR Station (A18)   
   * [Payment](https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/ticket.php): Single-journey Ticket, Stored-value Cards (Details will be elaborated in the next section), Credit Card   
 * From the [Taoyuan HSR Station](https://en.thsrc.com.tw/ArticleContent/ad3798f7-cf0b-4728-9a5e-9196931d6f48) to [Zuoying (Kaohsiung) HSR Station](https://en.thsrc.com.tw/ArticleContent/ecdd8e68-3d12-4f0f-8385-f4891e513494) (around 100 to 120 minutes based on the train type)  
