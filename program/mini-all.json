@@ -9,7 +9,7 @@
             },
             {
                 "NAME":"Eric King-wah Chu",
-                "TITLE":"TBA"
+                "TITLE":"Inverse iteration for Sylvester operators"
             },
             {
                 "NAME":"Van Su Giap",
@@ -29,7 +29,7 @@
             },
             {
                 "NAME":"Matthew M. Lin",
-                "TITLE":"TBA"
+                "TITLE":"A gradient flow method to differentiate between classical and quantum correlations"
             },
             {
                 "NAME":"Etna Lindy",
@@ -45,7 +45,7 @@
             },
             {
                 "NAME":"Haesun Park",
-                "TITLE":"TBA"
+                "TITLE":"Integrative co-embedding of multi-view data sets"
             },
             {
                 "NAME":"Peter Chang-Yi Weng",
@@ -100,10 +100,6 @@
             {
                 "NAME":"Kevin Vander Meulen",
                 "TITLE":"Matrix sign patterns that allow the strong multiplicity property"
-            },
-            {
-                "NAME":"Wei Wang",
-                "TITLE":"TBA"
             }
         ]
     },
@@ -154,8 +150,12 @@
                 "TITLE":"The linear algebra of space-time regularization for time-dependent distributed inverse problems"
             },
             {
-                "NAME":"Matthias Chung",
+                "NAME":"Julianne Chung",
                 "TITLE":"TBA"
+            },
+            {
+                "NAME":"Matthias Chung",
+                "TITLE":"Data-driven inverse problems via autoencoder"
             },
             {
                 "NAME":"Tiangang Cui",
@@ -171,10 +171,6 @@
             },
             {
                 "NAME":"Colin Fox",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Mirjeta Pasha",
                 "TITLE":"TBA"
             },
             {
@@ -213,7 +209,7 @@
             },
             {
                 "NAME":"Bruno Iannazzo",
-                "TITLE":"TBA"
+                "TITLE":"The Lambert $W$, the wright $\\omega$ and the unwinding number of matrices"
             },
             {
                 "NAME":"Rudra Kamat",
@@ -309,7 +305,7 @@
             },
             {
                 "NAME":"Bing-Ze Lu",
-                "TITLE":"TBA"
+                "TITLE":"Dynamic flows and iterative methods for identifying the Choi representation of an unknown quantum channel from partial data"
             },
             {
                 "NAME":"Sang-Gyun Youn",
@@ -339,7 +335,7 @@
             },
             {
                 "NAME":"Seung-Hyeok Kye",
-                "TITLE":"TBA"
+                "TITLE":"Global locations of Schmidt number witnesses"
             },
             {
                 "NAME":"Zehua Lai",
@@ -347,7 +343,7 @@
             },
             {
                 "NAME":"Chi-Kwong Li",
-                "TITLE":"TBA"
+                "TITLE":"Quantum tomography: theory and practice"
             },
             {
                 "NAME":"Tomasz Miller",
@@ -362,8 +358,8 @@
                 "TITLE":"Tensor train completion of multiway data observed in a single mode"
             },
             {
-                "NAME":"Raymond Sze",
-                "TITLE":"TBA"
+                "NAME":"Raymond Nung-Sing Sze",
+                "TITLE":"Characterizing high Schmidt number witnesses in arbitrary dimensions system"
             },
             {
                 "NAME":"Jeroen Zuiddam",
@@ -377,7 +373,7 @@
         "SPEAKERS":[
             {
                 "NAME":"Sujit Sakharam Damase",
-                "TITLE":"TBA"
+                "TITLE":"Multivariate transforms of totally positive matrices and kernels"
             },
             {
                 "NAME":"Jorge Delgado",
@@ -473,7 +469,7 @@
         "SPEAKERS":[
             {
                 "NAME":"Chun-Yueh Chiang",
-                "TITLE":"{\\bf Title:} Ten Hermitian solutions of anti-Riccati matrix equation arising in anti-LQR problem"
+                "TITLE":"Ten Hermitian solutions of anti-Riccati matrix equation arising in anti-LQR problem"
             },
             {
                 "NAME":"Hung-Yuan Fan",
@@ -530,10 +526,6 @@
                 "TITLE":"Linear preservers of parallel pairs"
             },
             {
-                "NAME":"Saikat Roy",
-                "TITLE":"Preservation of orthogonality by unitary and isometric dilations"
-            },
-            {
                 "NAME":"Peter Semrl",
                 "TITLE":"Local order isomorphisms on operator and matrix domains"
             },
@@ -565,7 +557,7 @@
             },
             {
                 "NAME":"Sivan Toledo",
-                "TITLE":"TBA"
+                "TITLE":"Parallel-in-time Kalman smoothing using orthogonal transformations"
             }
         ]
     },
@@ -667,14 +659,10 @@
     },
     "MS16":{
         "TITLE":"Approximations and errors in Krylov-based solvers",
-        "ORGANIZERS":"Xin Liu, Bastien Vieublé",
+        "ORGANIZERS":"Xiaobo Liu, Xin Liu, Bastien Vieublé",
         "SPEAKERS":[
             {
                 "NAME":"Oleg Balabanov",
-                "TITLE":"TBA"
-            },
-            {
-                "NAME":"Zhao Li",
                 "TITLE":"TBA"
             },
             {
@@ -696,14 +684,6 @@
             {
                 "NAME":"Sofia Sukmaniuk",
                 "TITLE":"Generalized minimal residual method with flexible Arnoldi process"
-            },
-            {
-                "NAME":"Bastien Vieublé",
-                "TITLE":"Mixed precision strategies for preconditioned GMRES"
-            },
-            {
-                "NAME":"Ning Zheng",
-                "TITLE":"Randomized inner iteration preconditioning"
             }
         ]
     },
@@ -782,6 +762,10 @@
                 "TITLE":"Stochastic iterative methods for solving tensor linear systems"
             },
             {
+                "NAME":"Souad Mohaoui",
+                "TITLE":"Tucker decomposition with temporal regularization for motion capture data completion"
+            },
+            {
                 "NAME":"Elizabeth Newman",
                 "TITLE":"Optimal matrix-mimetic tensor algebras via variable projection"
             },
@@ -808,7 +792,7 @@
         "ORGANIZERS":"Sven-Erik Ekström, David Meadon",
         "SPEAKERS":[
             {
-                "NAME":"Antonio Cicone",
+                "NAME":"Roberto Cavassi",
                 "TITLE":"Signal processing of spherical data. From real life to mathematical challenges"
             },
             {
@@ -879,7 +863,7 @@
             },
             {
                 "NAME":"ShaoHsuan Wang",
-                "TITLE":"Contrastive Principal Component Analysis in High Dimension"
+                "TITLE":"Contrastive principal component analysis in high dimension"
             },
             {
                 "NAME":"Sing-Yuan Yeh",
@@ -906,10 +890,6 @@
             {
                 "NAME":"Sasmita Barik",
                 "TITLE":"Limit points of the smallest positive eigenvalues of graphs"
-            },
-            {
-                "NAME":"Mushtaq A. Bhat",
-                "TITLE":"On the trace norm of $A_{\\alpha}$ matrix of directed graphs"
             },
             {
                 "NAME":"Projesh Nath Choudhury",
@@ -1127,7 +1107,7 @@
             },
             {
                 "NAME":"Natalia Bebiano",
-                "TITLE":"TBA"
+                "TITLE":"Revisiting an Inverse Problem Proposed by Boor and Golub"
             },
             {
                 "NAME":"Paola Boito",
@@ -1136,10 +1116,6 @@
             {
                 "NAME":"Luca Gemignani",
                 "TITLE":"On the numerical solution of nonLocal boundary value problems by matrix function computations"
-            },
-            {
-                "NAME":"Kshitij Khare",
-                "TITLE":"TBA"
             },
             {
                 "NAME":"Ilias Kotsireas",
@@ -1155,7 +1131,7 @@
             },
             {
                 "NAME":"Aaron Welters",
-                "TITLE":"TBA"
+                "TITLE":"Structural constraints on response matrices of passive electrical networks"
             }
         ]
     },
@@ -1252,10 +1228,6 @@
                 "TITLE":"New weighted spectral geometric mean and quantum divergence"
             },
             {
-                "NAME":"Jie Meng",
-                "TITLE":"Convergence properties of sequences related to the Ando-Li-Mathias construction and to the weighted Cheap mean"
-            },
-            {
                 "NAME":"Hiromichi Ohno",
                 "TITLE":"Generalization of B\\\"ottcher-Wenzel inequality and its application"
             },
@@ -1282,8 +1254,8 @@
         "ORGANIZERS":"Eunice Y. S. Chan, Robert M. Corless",
         "SPEAKERS":[
             {
-                "NAME":"Eunice Y. S. Chan",
-                "TITLE":"TBA"
+                "NAME":"Eunice Chan",
+                "TITLE":"A divide-and-conquer framework for efficient algebraic linearizations of matrix polynomials"
             },
             {
                 "NAME":"Geeta Chowdhry",
@@ -1415,7 +1387,7 @@
             },
             {
                 "NAME":"Pin-Chieh Tseng",
-                "TITLE":"TBA"
+                "TITLE":"Semidefinite programming bounds on the size of entanglement-assisted codeword stabilized quantum codes"
             }
         ]
     },
