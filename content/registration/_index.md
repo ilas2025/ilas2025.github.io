@@ -51,6 +51,10 @@ discount for different categories are offered for people who register before
 **March 31, 2025**.  After that, only regular prices for ILAS members and 
 non-members are available.  
 
+Please complete your registration and payment by **May 15** to receive a 
+printed name badge, a conference package, and secure your spot for the 
+excursion and banquet.
+
 <!-- Check out if your are eligible for [student support](student-support/).
 To register as a student or an early career participants 
 (within 5 years of PhD), please use the **Comments** field to provide a short 
