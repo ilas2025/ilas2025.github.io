@@ -151,7 +151,7 @@
             },
             {
                 "NAME":"Julianne Chung",
-                "TITLE":"TBA"
+                "TITLE":"Inner-product free Krylov methods for large-scale inverse problems"
             },
             {
                 "NAME":"Matthias Chung",
@@ -549,7 +549,7 @@
             },
             {
                 "NAME":"Mark Gates",
-                "TITLE":"TBA"
+                "TITLE":"PAQR: Pivoting Avoiding QR factorization"
             },
             {
                 "NAME":"Daniel B. Szyld",
@@ -755,7 +755,7 @@
             },
             {
                 "NAME":"Gilad Lerman",
-                "TITLE":"TBA"
+                "TITLE":"An outlier-robust PCA method with applications to computer vision"
             },
             {
                 "NAME":"Anna Ma",
@@ -914,6 +914,10 @@
             {
                 "NAME":"Madhab Mondal",
                 "TITLE":"A $q$-analogue of the distance matrix of a tree with matrix weights"
+            },
+            {
+                "NAME":"Sirshendu Pan",
+                "TITLE":"Universal winner in trees"
             },
             {
                 "NAME":"Krishnan Sivasubramanian",
@@ -1107,7 +1111,7 @@
             },
             {
                 "NAME":"Natalia Bebiano",
-                "TITLE":"Revisiting an Inverse Problem Proposed by Boor and Golub"
+                "TITLE":"Revisiting an inverse problem proposed by Boor and Golub"
             },
             {
                 "NAME":"Paola Boito",
@@ -1212,6 +1216,10 @@
                 "TITLE":"Composition operators and convexity of their Berezin range on functional Hilbert spaces"
             },
             {
+                "NAME":"Manisha Devi",
+                "TITLE":"On the eigenvalues of the matrix $[f(g(p_i-p_j))]$"
+            },
+            {
                 "NAME":"Fumio Hiai",
                 "TITLE":"Joint concavity\/convexity of matrix trace functions for geometric type means"
             },
@@ -1259,7 +1267,7 @@
             },
             {
                 "NAME":"Geeta Chowdhry",
-                "TITLE":"TBA"
+                "TITLE":"Inner and outer Bohemian inverses"
             },
             {
                 "NAME":"Laureano Gonzalez-Vega",
@@ -1310,10 +1318,6 @@
         "ORGANIZERS":"Zehua Lai",
         "SPEAKERS":[
             {
-                "NAME":"Di Hou",
-                "TITLE":"TBA"
-            },
-            {
                 "NAME":"Xiang Lu",
                 "TITLE":"TBA"
             },
@@ -1362,16 +1366,16 @@
         "ORGANIZERS":"Wei-Hsuan Yu",
         "SPEAKERS":[
             {
-                "NAME":"Yen-chi Lin",
+                "NAME":"Chia-En Chiang",
                 "TITLE":"TBA"
+            },
+            {
+                "NAME":"Yen-chi Lin",
+                "TITLE":"Constructions of equiangular lines using lattices"
             },
             {
                 "NAME":"Chia-An Liu",
-                "TITLE":"An iteration method for attaining the spectral radius of nonnegative irreducible matrices"
-            },
-            {
-                "NAME":"Akihiro Munemasa",
-                "TITLE":"TBA"
+                "TITLE":"Spectral radius of bipartite graphs with prescribed number of edges"
             },
             {
                 "NAME":"Wasin So",
