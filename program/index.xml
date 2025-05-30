@@ -221,7 +221,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Julianne Chung, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inner-product free Krylov methods for large-scale inverse problems&lt;/span>
  &lt;/li>
  
  &lt;li>Matthias Chung, 
@@ -682,7 +682,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Mark Gates, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">PAQR: Pivoting Avoiding QR factorization&lt;/span>
  &lt;/li>
  
  &lt;li>Daniel B. Szyld, 
@@ -923,7 +923,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Gilad Lerman, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An outlier-robust PCA method with applications to computer vision&lt;/span>
  &lt;/li>
  
  &lt;li>Anna Ma, 
@@ -1103,6 +1103,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Madhab Mondal, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A $q$-analogue of the distance matrix of a tree with matrix weights&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Sirshendu Pan, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Universal winner in trees&lt;/span>
  &lt;/li>
  
  &lt;li>Krishnan Sivasubramanian, 
@@ -1331,7 +1335,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Natalia Bebiano, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Revisiting an Inverse Problem Proposed by Boor and Golub&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Revisiting an inverse problem proposed by Boor and Golub&lt;/span>
  &lt;/li>
  
  &lt;li>Paola Boito, 
@@ -1457,6 +1461,10 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Composition operators and convexity of their Berezin range on functional Hilbert spaces&lt;/span>
  &lt;/li>
  
+ &lt;li>Manisha Devi, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the eigenvalues of the matrix $[f(g(p_i-p_j))]$&lt;/span>
+ &lt;/li>
+ 
  &lt;li>Fumio Hiai, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Joint concavity/convexity of matrix trace functions for geometric type means&lt;/span>
  &lt;/li>
@@ -1511,7 +1519,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Geeta Chowdhry, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inner and outer Bohemian inverses&lt;/span>
  &lt;/li>
  
  &lt;li>Laureano Gonzalez-Vega, 
@@ -1576,10 +1584,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Speakers&lt;/summary>
  &lt;ul>
  
- &lt;li>Di Hou, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
- &lt;/li>
- 
  &lt;li>Xiang Lu, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
@@ -1642,16 +1646,16 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;summary style="opacity: 0.3;">Speakers&lt;/summary>
  &lt;ul>
  
- &lt;li>Yen-chi Lin, 
+ &lt;li>Chia-En Chiang, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;/li>
+ 
+ &lt;li>Yen-chi Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Constructions of equiangular lines using lattices&lt;/span>
  &lt;/li>
  
  &lt;li>Chia-An Liu, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An iteration method for attaining the spectral radius of nonnegative irreducible matrices&lt;/span>
- &lt;/li>
- 
- &lt;li>Akihiro Munemasa, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Spectral radius of bipartite graphs with prescribed number of edges&lt;/span>
  &lt;/li>
  
  &lt;li>Wasin So, 
