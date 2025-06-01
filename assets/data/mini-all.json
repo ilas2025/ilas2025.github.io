@@ -376,7 +376,7 @@
                 "TITLE":"Multivariate transforms of totally positive matrices and kernels"
             },
             {
-                "NAME":"Jorge Delgado",
+                "NAME":"Jorge Delgado Gracia",
                 "TITLE":"Computations with high relative accuracy for the collocation matrices of q-Jacobi polynomials"
             },
             {
@@ -385,7 +385,7 @@
             },
             {
                 "NAME":"Tanvi Jain",
-                "TITLE":"TBA"
+                "TITLE":"Signatures of eigenvalues of some special class of matrices"
             },
             {
                 "NAME":"Dmitrii Karp",
@@ -393,7 +393,7 @@
             },
             {
                 "NAME":"Olga Katkova",
-                "TITLE":"TBA"
+                "TITLE":"An analog of multiplier sequences for the set of totally positive sequences"
             },
             {
                 "NAME":"Apoorva Khare",
@@ -775,7 +775,7 @@
             },
             {
                 "NAME":"JunJun Pan",
-                "TITLE":"The importance of linear algebra"
+                "TITLE":"Multi-separable tensor decomposition"
             },
             {
                 "NAME":"Jingmei Qiu",
@@ -1116,6 +1116,10 @@
             {
                 "NAME":"Paola Boito",
                 "TITLE":"Decay bounds for inverses of banded matrices via quasiseparable structure"
+            },
+            {
+                "NAME":"Hojin Chu",
+                "TITLE":"TBA"
             },
             {
                 "NAME":"Luca Gemignani",
