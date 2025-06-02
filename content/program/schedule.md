@@ -9,6 +9,6 @@ There will be [Workshop Series on Bridging Abstract and Numerical Linear Algebra
 You are welcome to join and work together on linear algebra education.  
 
 Early check-in is also availbale on **June 22, Sunday**, 
-from **15:00** to **18:00** at the **SYS Hall**.
+from **15:00** to **18:00** at the **SC4009-1 of the College of Science**.
 
 {{< program-button >}}
