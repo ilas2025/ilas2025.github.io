@@ -44,10 +44,6 @@
                 "TITLE":"Some norm bounds on the complimentary error matrix functions"
             },
             {
-                "NAME":"Haesun Park",
-                "TITLE":"Integrative co-embedding of multi-view data sets"
-            },
-            {
                 "NAME":"Peter Chang-Yi Weng",
                 "TITLE":"Generalized Smith method for large-scale nonsymmetric algebraic Riccati equations"
             }
@@ -301,7 +297,7 @@
             },
             {
                 "NAME":"Shao-Hua Hu",
-                "TITLE":"TBA"
+                "TITLE":"Quasi-probability simulation in quantum information processing"
             },
             {
                 "NAME":"Bing-Ze Lu",
@@ -435,7 +431,7 @@
             },
             {
                 "NAME":"Vatsalkumar Mer",
-                "TITLE":"TBA"
+                "TITLE":"Multi-variable  alternative means of positive definite matrices"
             },
             {
                 "NAME":"Milán Mosonyi",
@@ -545,15 +541,15 @@
         "SPEAKERS":[
             {
                 "NAME":"Takeshi Fukaya",
-                "TITLE":"TBA"
+                "TITLE":"Extension of a Cholesky QR algorithm to tall-skinny QR factorization with column pivoting"
             },
             {
                 "NAME":"Mark Gates",
                 "TITLE":"PAQR: Pivoting Avoiding QR factorization"
             },
             {
-                "NAME":"Daniel B. Szyld",
-                "TITLE":"TBA"
+                "NAME":"Daniel Szyld",
+                "TITLE":"Randomized Householder-Cholesky QR factorization with multisketching"
             },
             {
                 "NAME":"Sivan Toledo",
@@ -745,10 +741,6 @@
         "TITLE":"New methods in numerical multilinear algebra",
         "ORGANIZERS":"Xiaobo Liu, Anna Ma, Elizabeth Newman, Eda Oktay",
         "SPEAKERS":[
-            {
-                "NAME":"Longxiu Huang",
-                "TITLE":"TBA"
-            },
             {
                 "NAME":"Joe Kileel",
                 "TITLE":"Streaming data tensors efficiently and accurately"
@@ -1119,7 +1111,7 @@
             },
             {
                 "NAME":"Hojin Chu",
-                "TITLE":"TBA"
+                "TITLE":"Structural properties of symmetric Toeplitz and Hankel matrices"
             },
             {
                 "NAME":"Luca Gemignani",
@@ -1349,7 +1341,7 @@
             },
             {
                 "NAME":"Ryan O'Loughlin",
-                "TITLE":"TBA"
+                "TITLE":"The Numerical Range as a Spectral Set"
             },
             {
                 "NAME":"Brooke Randell",
@@ -1360,8 +1352,8 @@
                 "TITLE":"On the generalizations of $q$-numerical range and radius"
             },
             {
-                "NAME":"Jani A. Virtanen",
-                "TITLE":"TBA"
+                "NAME":"Jani Virtanen",
+                "TITLE":"Asymptotics of Toeplitz determinants with matrix-valued symbols"
             }
         ]
     },
@@ -1371,7 +1363,7 @@
         "SPEAKERS":[
             {
                 "NAME":"Chia-En Chiang",
-                "TITLE":"TBA"
+                "TITLE":"Stability for hyperplane covers"
             },
             {
                 "NAME":"Yen-chi Lin",

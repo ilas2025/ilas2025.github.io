@@ -9,7 +9,6 @@ MS1,Matthew M. Lin,A gradient flow method to differentiate between classical and
 MS1,Etna Lindy,Nonnegative rank-2 approximations -- on choosing a starting point for ANLS
 MS1,Tzon-Tzer Lu,Uncertainty principle of condition number
 MS1,Shinya Miyajima,Some norm bounds on the complimentary error matrix functions
-MS1,Haesun Park,Integrative co-embedding of multi-view data sets
 MS1,Peter Chang-Yi Weng,Generalized Smith method for large-scale nonsymmetric algebraic Riccati equations
 MS2,Jane Breen,Measuring the impact of a single transition on Kemeny's constant
 MS2,Richard A. Brualdi,(Reverse-)Grassmannian permutation matrices
@@ -64,7 +63,7 @@ MS7,Ngoc Muoi Bui,On entanglement-breaking quantum channels
 MS7,Man-Duen Choi,
 MS7,Chung-Yun Hsieh,Quantum complementarity: A novel resource for exclusion
 MS7,Hsien-Yi Hsieh,
-MS7,Shao-Hua Hu,
+MS7,Shao-Hua Hu,Quasi-probability simulation in quantum information processing
 MS7,Bing-Ze Lu,Dynamic flows and iterative methods for identifying the Choi representation of an unknown quantum channel from partial data
 MS7,Sang-Gyun Youn,
 MS8,Michal Eckstein,Max-type quasidistances probability simplices
@@ -93,7 +92,7 @@ MS10,Trung Hoa Dinh,Operator means and quantum divergences
 MS10,Huajun Huang,Progress on orders of matrix means
 MS10,Sejong Kim,Quasi-Wasserstein mean of positive definite matrices
 MS10,Luís Machado,Spherical triangular configurations with invariant geometric mean
-MS10,Vatsalkumar Mer,
+MS10,Vatsalkumar Mer,Multi-variable  alternative means of positive definite matrices
 MS10,Milán Mosonyi,
 MS10,Miklós Pálfia,
 MS10,Tin-Yau Tam,
@@ -116,9 +115,9 @@ MS12,Edward Poon,Linear preservers of parallel pairs
 MS12,Peter Semrl,Local order isomorphisms on operator and matrix domains
 MS12,Ryotaro Tanaka,On homeomorphisms between geometric structure spaces of primitive $C^*$-algebras
 MS12,Dániel Virosztek,Isometries and metric properties of quantum Wasserstein distances
-MS13,Takeshi Fukaya,
+MS13,Takeshi Fukaya,Extension of a Cholesky QR algorithm to tall-skinny QR factorization with column pivoting
 MS13,Mark Gates,PAQR: Pivoting Avoiding QR factorization
-MS13,Daniel B. Szyld,
+MS13,Daniel Szyld,Randomized Householder-Cholesky QR factorization with multisketching
 MS13,Sivan Toledo,Parallel-in-time Kalman smoothing using orthogonal transformations
 MS14,Shreemayee Bora,The distance to bounded realness revisited
 MS14,Andrii Dmytryshyn,Minimal indices through perturbation behavior
@@ -159,7 +158,6 @@ MS17,Jephian C.-H. Lin,Inverse fiedler vector problem of a graph
 MS17,Hermie Monterde,Uniform mixing and apportionability
 MS17,Michael Tait,Extremal problems on graphs with $q=2$
 MS17,Derek Young,Relationships between minimum rank problem parameters for cobipartite graphs
-MS18,Longxiu Huang,
 MS18,Joe Kileel,Streaming data tensors efficiently and accurately
 MS18,Gilad Lerman,An outlier-robust PCA method with applications to computer vision
 MS18,Anna Ma,Stochastic iterative methods for solving tensor linear systems
@@ -240,7 +238,7 @@ MS25,Chi Ho Yuen,The critical groups of hypercubes and beyond
 MS26,Hansaka Aluvihare,A low-complexity LSTM network to realize multibeam beamforming
 MS26,Natalia Bebiano,Revisiting an inverse problem proposed by Boor and Golub
 MS26,Paola Boito,Decay bounds for inverses of banded matrices via quasiseparable structure
-MS26,Hojin Chu,
+MS26,Hojin Chu,Structural properties of symmetric Toeplitz and Hankel matrices
 MS26,Luca Gemignani,On the numerical solution of nonLocal boundary value problems by matrix function computations
 MS26,Ilias Kotsireas,A low-complexity algorithm to search for Legendre pairs
 MS26,Sirani M. Perera,A low-complexity structured neural network approach for dynamical systems
@@ -287,11 +285,11 @@ MS32,Anthony Man-Cho So,Randomized Riemannian submanifold subgradient method for
 MS32,Chun-Hao Yang,Nested Grassmannians for dimensionality reduction with applications
 MS33,Dragana Cvetkovic Ilic,Similarities between the numerical range of an operator and of certain generalized inverses
 MS33,Kennett Dela Rosa,Zero-dilation indices and numerical ranges
-MS33,Ryan O'Loughlin,
+MS33,Ryan O'Loughlin,The Numerical Range as a Spectral Set
 MS33,Brooke Randell,Exploring the numerical range of block Toeplitz operators
 MS33,Jyoti Rani,On the generalizations of $q$-numerical range and radius
-MS33,Jani A. Virtanen,
-MS34,Chia-En Chiang,
+MS33,Jani Virtanen,Asymptotics of Toeplitz determinants with matrix-valued symbols
+MS34,Chia-En Chiang,Stability for hyperplane covers
 MS34,Yen-chi Lin,Constructions of equiangular lines using lattices
 MS34,Chia-An Liu,Spectral radius of bipartite graphs with prescribed number of edges
 MS34,Wasin So,Formal orthogonal systems
