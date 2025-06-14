@@ -412,7 +412,7 @@ rotation show, followed by a cruise tour of
  &lt;ul>
  
  &lt;li>Saptak Bhattacharya, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Approximate recoverability and the quantum data processing inequality&lt;/span>
  &lt;/li>
  
  &lt;li>Ngoc Muoi Bui, 
@@ -420,7 +420,7 @@ rotation show, followed by a cruise tour of
  &lt;/li>
  
  &lt;li>Man-Duen Choi, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Quantum Information in terms of two by two matrices&lt;/span>
  &lt;/li>
  
  &lt;li>Chung-Yun Hsieh, 
@@ -428,7 +428,7 @@ rotation show, followed by a cruise tour of
  &lt;/li>
  
  &lt;li>Hsien-Yi Hsieh, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Machine learning enhanced quantum state tomography&lt;/span>
  &lt;/li>
  
  &lt;li>Shao-Hua Hu, 
@@ -486,10 +486,6 @@ rotation show, followed by a cruise tour of
  
  &lt;li>Tomasz Miller, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A new class of distances between pure quantum states&lt;/span>
- &lt;/li>
- 
- &lt;li>Albert Rico, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
  &lt;li>Shakir Showkat Sofi, 
@@ -574,6 +570,10 @@ rotation show, followed by a cruise tour of
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Operator means and quantum divergences&lt;/span>
  &lt;/li>
  
+ &lt;li>Vuong Trung Dung, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Comparing the new spectral geometric mean with other means&lt;/span>
+ &lt;/li>
+ 
  &lt;li>Huajun Huang, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Progress on orders of matrix means&lt;/span>
  &lt;/li>
@@ -604,10 +604,6 @@ rotation show, followed by a cruise tour of
  
  &lt;li>Anmary Tonny, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Results on the symplectic spectrum of some special classes of operators&lt;/span>
- &lt;/li>
- 
- &lt;li>Trung Dung Vuong, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
  &lt;li>Takeaki Yamazaki, 
@@ -652,7 +648,7 @@ rotation show, followed by a cruise tour of
  &lt;/li>
  
  &lt;li>Shih-Feng Shieh, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Computation of the shortest path on Stiefel manifolds&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -974,10 +970,6 @@ rotation show, followed by a cruise tour of
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Optimal matrix-mimetic tensor algebras via variable projection&lt;/span>
  &lt;/li>
  
- &lt;li>Jing Niu, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A tensor alternating Anderson--Richardson method for solving multilinear systems with $ \mathcal{M} $-tensors&lt;/span>
- &lt;/li>
- 
  &lt;li>JunJun Pan, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Multi-separable tensor decomposition&lt;/span>
  &lt;/li>
@@ -1016,7 +1008,7 @@ rotation show, followed by a cruise tour of
  &lt;/li>
  
  &lt;li>Sean Hon, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An optimal preconditioned MINRES method for nonsymmetric multilevel block Toeplitz systems with applications&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">An optimal parallel-in-time preconditioner for parabolic optimal control problems&lt;/span>
  &lt;/li>
  
  &lt;li>Asim Ilyas, 
@@ -1480,10 +1472,6 @@ rotation show, followed by a cruise tour of
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Jordan and isometric cone automorphisms in Euclidean Jordan algebras&lt;/span>
  &lt;/li>
  
- &lt;li>David Sossa, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Commutation principles for optimization problems involving strictly Schur-convex functions in Euclidean Jordan algebras&lt;/span>
- &lt;/li>
- 
  &lt;/ul>
  &lt;/details>
  &lt;/li>
@@ -1496,10 +1484,6 @@ rotation show, followed by a cruise tour of
  &lt;details>
  &lt;summary style="opacity: 0.3;">Speakers&lt;/summary>
  &lt;ul>
- 
- &lt;li>Athul Augustine, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Composition operators and convexity of their Berezin range on functional Hilbert spaces&lt;/span>
- &lt;/li>
  
  &lt;li>Manisha Devi, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On the eigenvalues of the matrix $[f(g(p_i-p_j))]$&lt;/span>
@@ -1563,7 +1547,7 @@ rotation show, followed by a cruise tour of
  &lt;/li>
  
  &lt;li>Laureano Gonzalez-Vega, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On Bohemian correlation matrices&lt;/span>
  &lt;/li>
  
  &lt;li>Jamie Pommersheim, 
@@ -1658,7 +1642,7 @@ rotation show, followed by a cruise tour of
  &lt;/li>
  
  &lt;li>Ryan O&amp;#39;Loughlin, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The Numerical Range as a Spectral Set&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">The numerical range as a spectral set&lt;/span>
  &lt;/li>
  
  &lt;li>Brooke Randell, 
