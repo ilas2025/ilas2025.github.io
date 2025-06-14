@@ -277,7 +277,7 @@
         "SPEAKERS":[
             {
                 "NAME":"Saptak Bhattacharya",
-                "TITLE":"TBA"
+                "TITLE":"Approximate recoverability and the quantum data processing inequality"
             },
             {
                 "NAME":"Ngoc Muoi Bui",
@@ -285,7 +285,7 @@
             },
             {
                 "NAME":"Man-Duen Choi",
-                "TITLE":"TBA"
+                "TITLE":"Quantum Information in terms of two by two matrices"
             },
             {
                 "NAME":"Chung-Yun Hsieh",
@@ -293,7 +293,7 @@
             },
             {
                 "NAME":"Hsien-Yi Hsieh",
-                "TITLE":"TBA"
+                "TITLE":"Machine learning enhanced quantum state tomography"
             },
             {
                 "NAME":"Shao-Hua Hu",
@@ -344,10 +344,6 @@
             {
                 "NAME":"Tomasz Miller",
                 "TITLE":"A new class of distances between pure quantum states"
-            },
-            {
-                "NAME":"Albert Rico",
-                "TITLE":"TBA"
             },
             {
                 "NAME":"Shakir Showkat Sofi",
@@ -418,6 +414,10 @@
                 "TITLE":"Operator means and quantum divergences"
             },
             {
+                "NAME":"Vuong Trung Dung",
+                "TITLE":"Comparing the new spectral geometric mean with other means"
+            },
+            {
                 "NAME":"Huajun Huang",
                 "TITLE":"Progress on orders of matrix means"
             },
@@ -431,7 +431,7 @@
             },
             {
                 "NAME":"Vatsalkumar Mer",
-                "TITLE":"Multi-variable  alternative means of positive definite matrices"
+                "TITLE":"Multi-variable alternative means of positive definite matrices"
             },
             {
                 "NAME":"Milán Mosonyi",
@@ -448,10 +448,6 @@
             {
                 "NAME":"Anmary Tonny",
                 "TITLE":"Results on the symplectic spectrum of some special classes of operators"
-            },
-            {
-                "NAME":"Trung Dung Vuong",
-                "TITLE":"TBA"
             },
             {
                 "NAME":"Takeaki Yamazaki",
@@ -489,7 +485,7 @@
             },
             {
                 "NAME":"Shih-Feng Shieh",
-                "TITLE":"TBA"
+                "TITLE":"Computation of the shortest path on Stiefel manifolds"
             }
         ]
     },
@@ -762,10 +758,6 @@
                 "TITLE":"Optimal matrix-mimetic tensor algebras via variable projection"
             },
             {
-                "NAME":"Jing Niu",
-                "TITLE":"A tensor alternating Anderson--Richardson method for solving multilinear systems with $ \\mathcal{M} $-tensors"
-            },
-            {
                 "NAME":"JunJun Pan",
                 "TITLE":"Multi-separable tensor decomposition"
             },
@@ -797,7 +789,7 @@
             },
             {
                 "NAME":"Sean Hon",
-                "TITLE":"An optimal preconditioned MINRES method for nonsymmetric multilevel block Toeplitz systems with applications"
+                "TITLE":"An optimal parallel-in-time preconditioner for parabolic optimal control problems"
             },
             {
                 "NAME":"Asim Ilyas",
@@ -1196,10 +1188,6 @@
             {
                 "NAME":"Michael Orlitzky",
                 "TITLE":"Jordan and isometric cone automorphisms in Euclidean Jordan algebras"
-            },
-            {
-                "NAME":"David Sossa",
-                "TITLE":"Commutation principles for optimization problems involving strictly Schur-convex functions in Euclidean Jordan algebras"
             }
         ]
     },
@@ -1207,10 +1195,6 @@
         "TITLE":"Matrix functions and related topics",
         "ORGANIZERS":"Yuki Seo, Takeaki Yamazaki",
         "SPEAKERS":[
-            {
-                "NAME":"Athul Augustine",
-                "TITLE":"Composition operators and convexity of their Berezin range on functional Hilbert spaces"
-            },
             {
                 "NAME":"Manisha Devi",
                 "TITLE":"On the eigenvalues of the matrix $[f(g(p_i-p_j))]$"
@@ -1267,7 +1251,7 @@
             },
             {
                 "NAME":"Laureano Gonzalez-Vega",
-                "TITLE":"TBA"
+                "TITLE":"On Bohemian correlation matrices"
             },
             {
                 "NAME":"Jamie Pommersheim",
@@ -1341,7 +1325,7 @@
             },
             {
                 "NAME":"Ryan O'Loughlin",
-                "TITLE":"The Numerical Range as a Spectral Set"
+                "TITLE":"The numerical range as a spectral set"
             },
             {
                 "NAME":"Brooke Randell",
