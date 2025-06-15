@@ -162,6 +162,7 @@ MS18,Gilad Lerman,An outlier-robust PCA method with applications to computer vis
 MS18,Anna Ma,Stochastic iterative methods for solving tensor linear systems
 MS18,Souad Mohaoui,Tucker decomposition with temporal regularization for motion capture data completion
 MS18,Elizabeth Newman,Optimal matrix-mimetic tensor algebras via variable projection
+MS18,Jing Niu,A tensor alternating Anderson--Richardson method for solving multilinear systems with $ \mathcal{M} $-tensors
 MS18,JunJun Pan,Multi-separable tensor decomposition
 MS18,Jingmei Qiu,Efficient Galerkin interpolative tensor train decomposition of high order tensors
 MS18,Leonardo Robol,A multilinear Nyström algorithm for low-rank approximation of tensors in Tucker format
