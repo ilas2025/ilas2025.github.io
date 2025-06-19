@@ -205,7 +205,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;ul>
  
  &lt;li>Davide Bianchi, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">A data-dependent regularization method based on the graph Laplacian&lt;/span>
  &lt;/li>
  
  &lt;li>Jonas Bresch, 
@@ -376,7 +376,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Man-Duen Choi, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Quantum Information in terms of two by two matrices&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Quantum information in terms of two by two matrices&lt;/span>
  &lt;/li>
  
  &lt;li>Chung-Yun Hsieh, 
@@ -396,7 +396,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Sang-Gyun Youn, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Reverse data-processing inequalities for partial transposes of random quantum states&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -420,20 +420,12 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On entaglement, separability and their computability&lt;/span>
  &lt;/li>
  
- &lt;li>Gilad Gour, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Tensors structures in single-shot quantum information: from convex splits to induced divergences&lt;/span>
- &lt;/li>
- 
  &lt;li>Sooyeong Kim, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Quasiorthogonality of commutative algebras&lt;/span>
  &lt;/li>
  
  &lt;li>Seung-Hyeok Kye, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Global locations of Schmidt number witnesses&lt;/span>
- &lt;/li>
- 
- &lt;li>Zehua Lai, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
  &lt;/li>
  
  &lt;li>Chi-Kwong Li, 
@@ -452,8 +444,8 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Characterizing high Schmidt number witnesses in arbitrary dimensions system&lt;/span>
  &lt;/li>
  
- &lt;li>Jeroen Zuiddam, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;li>Karol Życzkowski, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Blockwise bistochastic matrices and operator majorisation&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -591,8 +583,8 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Factorizations of penalized differentiation matrices&lt;/span>
  &lt;/li>
  
- &lt;li>Ching Kai Lin, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;li>Ching-Kai Lin, 
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Estimation of noise covariances in Kalman filtering by structure preserving doubling algorithm&lt;/span>
  &lt;/li>
  
  &lt;li>Ching-Sung Liu, 
@@ -679,10 +671,6 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  
  &lt;li>Daniel Szyld, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Randomized Householder-Cholesky QR factorization with multisketching&lt;/span>
- &lt;/li>
- 
- &lt;li>Sivan Toledo, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Parallel-in-time Kalman smoothing using orthogonal transformations&lt;/span>
  &lt;/li>
  
  &lt;/ul>
@@ -1224,16 +1212,8 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Connecting the Hermite-Biehler theorem to the nonnegative inverse eigenvalue problem&lt;/span>
  &lt;/li>
  
- &lt;li>Sivakumar K.C., 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Inverse $Z$-matrices with the bi-diagonal south-west structure&lt;/span>
- &lt;/li>
- 
  &lt;li>Hitesh Kumar, 
  &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">New results on second eigenvalue extremization&lt;/span>
- &lt;/li>
- 
- &lt;li>Raphael Loewy, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">On cones of polynomials preserving nonnegative matrices&lt;/span>
  &lt;/li>
  
  &lt;li>Hermie Monterde, 
@@ -1511,7 +1491,7 @@ the following information:&lt;/p></description></item><item><title>Mini-symposia
  &lt;/li>
  
  &lt;li>Jamie Pommersheim, 
- &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">TBA&lt;/span>
+ &lt;span style="text-shadow: 2px 2px 10px lightseagreen;">Distinct spectra of integer matrices and closed walk matrices of graphs&lt;/span>
  &lt;/li>
  
  &lt;/ul>
