@@ -135,7 +135,7 @@
         "SPEAKERS":[
             {
                 "NAME":"Davide Bianchi",
-                "TITLE":"TBA"
+                "TITLE":"A data-dependent regularization method based on the graph Laplacian"
             },
             {
                 "NAME":"Jonas Bresch",
@@ -285,7 +285,7 @@
             },
             {
                 "NAME":"Man-Duen Choi",
-                "TITLE":"Quantum Information in terms of two by two matrices"
+                "TITLE":"Quantum information in terms of two by two matrices"
             },
             {
                 "NAME":"Chung-Yun Hsieh",
@@ -305,7 +305,7 @@
             },
             {
                 "NAME":"Sang-Gyun Youn",
-                "TITLE":"TBA"
+                "TITLE":"Reverse data-processing inequalities for partial transposes of random quantum states"
             }
         ]
     },
@@ -322,20 +322,12 @@
                 "TITLE":"On entaglement, separability and their computability"
             },
             {
-                "NAME":"Gilad Gour",
-                "TITLE":"Tensors structures in single-shot quantum information: from convex splits to induced divergences"
-            },
-            {
                 "NAME":"Sooyeong Kim",
                 "TITLE":"Quasiorthogonality of commutative algebras"
             },
             {
                 "NAME":"Seung-Hyeok Kye",
                 "TITLE":"Global locations of Schmidt number witnesses"
-            },
-            {
-                "NAME":"Zehua Lai",
-                "TITLE":"TBA"
             },
             {
                 "NAME":"Chi-Kwong Li",
@@ -354,8 +346,8 @@
                 "TITLE":"Characterizing high Schmidt number witnesses in arbitrary dimensions system"
             },
             {
-                "NAME":"Jeroen Zuiddam",
-                "TITLE":"TBA"
+                "NAME":"Karol Życzkowski",
+                "TITLE":"Blockwise bistochastic matrices and operator majorisation"
             }
         ]
     },
@@ -472,8 +464,8 @@
                 "TITLE":"Factorizations of penalized differentiation matrices"
             },
             {
-                "NAME":"Ching Kai Lin",
-                "TITLE":"TBA"
+                "NAME":"Ching-Kai Lin",
+                "TITLE":"Estimation of noise covariances in Kalman filtering by structure preserving doubling algorithm"
             },
             {
                 "NAME":"Ching-Sung Liu",
@@ -546,10 +538,6 @@
             {
                 "NAME":"Daniel Szyld",
                 "TITLE":"Randomized Householder-Cholesky QR factorization with multisketching"
-            },
-            {
-                "NAME":"Sivan Toledo",
-                "TITLE":"Parallel-in-time Kalman smoothing using orthogonal transformations"
             }
         ]
     },
@@ -1014,16 +1002,8 @@
                 "TITLE":"Connecting the Hermite-Biehler theorem to the nonnegative inverse eigenvalue problem"
             },
             {
-                "NAME":"Sivakumar K.C.",
-                "TITLE":"Inverse $Z$-matrices with the bi-diagonal south-west structure"
-            },
-            {
                 "NAME":"Hitesh Kumar",
                 "TITLE":"New results on second eigenvalue extremization"
-            },
-            {
-                "NAME":"Raphael Loewy",
-                "TITLE":"On cones of polynomials preserving nonnegative matrices"
             },
             {
                 "NAME":"Hermie Monterde",
@@ -1259,7 +1239,7 @@
             },
             {
                 "NAME":"Jamie Pommersheim",
-                "TITLE":"TBA"
+                "TITLE":"Distinct spectra of integer matrices and closed walk matrices of graphs"
             }
         ]
     },
