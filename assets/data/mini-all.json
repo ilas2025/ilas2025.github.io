@@ -171,7 +171,7 @@
             },
             {
                 "NAME":"Vishwas Rao",
-                "TITLE":"TBA"
+                "TITLE":"Randomized preconditioned solvers for Strong Constraint 4D-Var data assimilation"
             },
             {
                 "NAME":"Fred Roosta",
@@ -427,15 +427,15 @@
             },
             {
                 "NAME":"Milán Mosonyi",
-                "TITLE":"TBA"
+                "TITLE":"A new characterization of the weighted Kubo-Ando geometric means via composite quantum state discrimination"
             },
             {
                 "NAME":"Miklós Pálfia",
-                "TITLE":"TBA"
+                "TITLE":"Law of large numbers for generalized operator means"
             },
             {
                 "NAME":"Tin-Yau Tam",
-                "TITLE":"TBA"
+                "TITLE":"Geometric properties and distance inequalities on Grassmannians"
             },
             {
                 "NAME":"Anmary Tonny",
@@ -567,7 +567,7 @@
             },
             {
                 "NAME":"Ding Lu",
-                "TITLE":"TBA"
+                "TITLE":"Compositional optimization of Rayleigh quotients and related distance problems for matrix polynomials"
             },
             {
                 "NAME":"Steve Mackey",
@@ -643,7 +643,7 @@
         "SPEAKERS":[
             {
                 "NAME":"Oleg Balabanov",
-                "TITLE":"TBA"
+                "TITLE":"Preconditioning via Randomized Range Deflation (RandRAND)"
             },
             {
                 "NAME":"Xiaobo Liu",
@@ -655,7 +655,7 @@
             },
             {
                 "NAME":"Michael Saunders",
-                "TITLE":"TBA"
+                "TITLE":"MinAres and CAr: New Krylov methods for symmetric linear systems"
             },
             {
                 "NAME":"Tomohiro Sogabe",
@@ -692,8 +692,8 @@
                 "TITLE":"Reconfiguring a community"
             },
             {
-                "NAME":"Tracy Hall",
-                "TITLE":"TBA"
+                "NAME":"H. Tracy Hall",
+                "TITLE":"A combinatorial bound on the number of distinct eigenvalues of a graph"
             },
             {
                 "NAME":"Franklin Kenter",
@@ -1283,7 +1283,7 @@
         "SPEAKERS":[
             {
                 "NAME":"Xiang Lu",
-                "TITLE":"TBA"
+                "TITLE":"Special orthogonal, special unitary, and symplectic groups as products of Grassmannians"
             },
             {
                 "NAME":"Anthony Man-Cho So",
@@ -1373,7 +1373,7 @@
             },
             {
                 "NAME":"Izuho Matsuzaki",
-                "TITLE":"TBA"
+                "TITLE":"Phase-isometries on continuous function spaces"
             },
             {
                 "NAME":"Lucijan Plevnik",
